@@ -126,3 +126,35 @@ There have been some attempts at creating a governing body and official aerobati
 It is a very high risk activity, especially in its most extreme form, the so-called proximity flying, and when performed with a BASE jump start.
 
 There are few comprehensive studies on the fatality rates but according to some sources, annual rates as high as 1:60 have been cited for proximity flying with a BASE exit.
+
+# Speed Flying
+
+![](https://upload.wikimedia.org/wikipedia/commons/2/26/Speedflying.jpg)
+
+Speed flying is a higher speed version of paragliding. Launching is performed in the same way as a paraglider - by inflating on the ground and then gaining speed. **The much higher speed does not allow for soaring** - allowing for much shorter but more intense experience.
+
+It usually requires previous paragliding experience.
+
+It is more of a recreational activity then a sport.
+
+There is no official governing body and no regular competitions.
+
+It is legal in most countries - under the same rules as paragliding.
+
+It is a very high risk activity.
+
+# Speed Riding
+
+![](https://upload.wikimedia.org/wikipedia/commons/9/91/Francois_Bon.jpg)
+
+Speed riding is a cross-over sport between speed flying and skiing.
+
+It requires both good speed flying and skiing skills.
+
+It is more of a recreational activity then a sport - but it definitely has the potential to become a real sport.
+
+It still has no official governing body and no regular competitions.
+
+It is legal in most countries - usually under the same rules as paragliding.
+
+The risk factor varies from just above skiing if performed on a regular ski slope to outrageously dangerous if performed for jumping across cliffs.
