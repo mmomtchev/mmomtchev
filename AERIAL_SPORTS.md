@@ -6,9 +6,9 @@ I have decided to compile this very small compendium of unpowered aerial sports 
 
 (Most) of these unpowered sports have two very important basic concepts in common: the concept of **gliding** and the concept of **soaring**.
 
-**Gliding** means using your height to cover a distance, trading vertical height for horizontal distance.
+**Gliding** means using your height to cover a distance by trading vertical height for horizontal distance.
 
-**Soaring** means using the natural air currents, especially parcels of rising air, to stay indefinitely airbone and gain height without using any means of powered propulsion.
+**Soaring** means using the natural air currents, especially parcels of rising air, to stay indefinitely airborne and gain height without using any means of powered propulsion.
 
 The list goes in chronological order, from the oldest to the most modern one.
 
@@ -34,7 +34,7 @@ Competitions usually revolve around flying far and fast using only the natural w
 
 A skydiver jumps from a plane and has two phases of flight - a free fall phase and a phase of descent with a deployed canopy.
 
-*The typical parachute does not allow soaring and can not stay indefinitely in airborne.*
+**The typical parachute does not allow soaring and can not stay indefinitely in airborne.**
 
 A skydiver carries two parachutes - a main canopy and a smaller reserve chute.
 
@@ -62,7 +62,7 @@ Competitions usually revolve around flying far and fast using only the natural w
 
 # Paragliding
 
-![](https://upload.wikimedia.org/wikipedia/commons/e/ea/Paragliding_1350361.jpg)
+![](https://raw.githubusercontent.com/mmomtchev/mmomtchev/master/G0053975.JPG)
 
 A paraglider is a device that evolved from a ram-air parachute. Even if the canopy looks a lot like a parachute, the activity is much more closely related to hang-gliding than skydiving. A paragliding pilot does not jump and does not have a free fall phase - he launches akin to an aircraft - by gaining speed with his canopy already inflated. Just as the hang-glider, the paraglider requires some initial height. Towed launches, usually being towed by a cable from the ground, are also possible but are much less common.
 
@@ -85,7 +85,7 @@ A base jumper draws his excitement from the very first few seconds of ultimate f
 
 All aerial sports, heavily dependant on adrenaline, are known to cause some form of physical dependency, but the very short span and high intensity BASE jumping is notorious for causing a strong physical dependency akin to some recreational drugs.
 
-*Once the canopy is deployed, just as in skydiving, the typical parachute does not allow soaring and can not stay indefinitely airborne.*
+**Once the canopy is deployed, just as in skydiving, the typical parachute does not allow soaring and can not stay indefinitely airborne.**
 
 It is more of a recreational activity then a sport.
 
