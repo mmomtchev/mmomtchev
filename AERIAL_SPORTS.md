@@ -24,6 +24,8 @@ Its history is very closely related to the history of aviation.
 
 It also has a (somewhat justified) reputation for being a very expensive sport for millionaires.
 
+It requires a similar amount of training as a regular private pilot.
+
 It is an established and widely recognized sport with a world federation and regular competitions.
 
 Competitions usually revolve around flying far and fast using only the natural wind currents.
@@ -42,6 +44,8 @@ A recreational skydiver draws his excitement mostly from the free fall phase.
 
 It is more of a recreational activity then a sport, but it is still recognized as a sport and it has a world federation and regular competitions.
 
+It is somewhat easy to learn, requiring about 15 tandem jumps before being allowed a first solo jump.
+
 Owing to its military history, it is a moderate risk activity with very rigorous safety regulations, that is very well documented and studied as it is always performed under strict supervision with a 1:200,000 jumps fatality rate.
 
 Competitions usually revolve around aerobatics or landing precision.
@@ -56,6 +60,8 @@ A typical paraglider can glide about 12m to 15m for every meter of height.
 
 It is a high risk sport with an annual fatality rate of regular flyers of about 1:1000.
 
+It is also notorious for having a very steep learning curve - requiring lots of training before the first flight.
+
 It is an established and widely recognized sport with a world federation and regular competitions.
 
 Competitions usually revolve around flying far and fast using only the natural wind currents.
@@ -66,9 +72,11 @@ Competitions usually revolve around flying far and fast using only the natural w
 
 A paraglider is a device that evolved from a ram-air parachute. Even if the canopy looks a lot like a parachute, the activity is much more closely related to hang-gliding than skydiving. A paragliding pilot does not jump and does not have a free fall phase - he launches akin to an aircraft - by gaining speed with his canopy already inflated. Just as the hang-glider, the paraglider requires some initial height. Towed launches, usually being towed by a cable from the ground, are also possible but are much less common.
 
-Unlike a parachute, the paragliding canopy has much better gliding performance and a skilled pilot can soar and stay indefinitely airborne. That performance comes at the price of handling and safety - paragliding canopies are notorious for their spontaneous collapses in flight.
+Compared to a parachute, the paragliding canopy has much better gliding performance and a skilled pilot can soar and stay indefinitely airborne. That performance comes at the price of handling and safety - paragliding canopies are notorious for their spontaneous collapses in flight.
 
 A typical paraglider can glide about 8m to 12m for every meter of height.
+
+It is much more forgiving than a deltaplane for the beginner pilot. It requires about 1 week of ground training before being allowed a first solo flight.
 
 It is a high risk sport with an annual fatality rate of regular flyers of about 1:1000.
 
@@ -89,6 +97,8 @@ All aerial sports, heavily dependant on adrenaline, are known to cause some form
 
 **Once the canopy is deployed, just as in skydiving, the typical parachute does not allow soaring and can not stay indefinitely airborne.**
 
+It is generally agreed that starting BASE jumping requires 50 previous airplane jumps.
+
 It is more of a recreational activity then a sport.
 
 There is no official governing body and no regular competitions.
@@ -108,6 +118,8 @@ A typical wingsuit can glide 3m to 4m per meter of height but its very high spee
 The gliding speed does not permit a normal landing - the flight ends with a BASE jumping parachute. Just like the BASE jumper, a wingsuit flyer carries only a single parachute - which is illegal in the very tightly controlled world of skydiving.
 
 It is more of a recreational activity then a sport.
+
+It requires vast amounts of training and hundreds of skydiving and BASE jumps before the first flight.
 
 There have been some attempts at creating a governing body and official aerobatics competitions, but the general situation is that wingsuit flying doesn't meet the safety criteria for official skydiving and it is (almost) always performed as an illegal activity.
 
