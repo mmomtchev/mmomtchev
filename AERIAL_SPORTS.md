@@ -66,6 +66,8 @@ Competitions usually revolve around flying far and fast using only the natural w
 
 A paraglider is a device that evolved from a ram-air parachute. Even if the canopy looks a lot like a parachute, the activity is much more closely related to hang-gliding than skydiving. A paragliding pilot does not jump and does not have a free fall phase - he launches akin to an aircraft - by gaining speed with his canopy already inflated. Just as the hang-glider, the paraglider requires some initial height. Towed launches, usually being towed by a cable from the ground, are also possible but are much less common.
 
+Unlike a parachute, the paragliding canopy has much better gliding performance and a skilled pilot can soar and stay indefinitely airborne. That performance comes at the price of handling and safety - paragliding canopies are notorious for their spontaneous collapses in flight.
+
 A typical paraglider can glide about 8m to 12m for every meter of height.
 
 It is a high risk sport with an annual fatality rate of regular flyers of about 1:1000.
