@@ -14,7 +14,7 @@ The list goes in chronological order, from the oldest to the most modern one.
 
 # Sailplane flying
 
-[](https://upload.wikimedia.org/wikipedia/commons/e/e1/PH-1274_Rolladen-Schneider_LS-4b.JPG)
+![](https://upload.wikimedia.org/wikipedia/commons/e/e1/PH-1274_Rolladen-Schneider_LS-4b.JPG)
 
 A sailplane is a very small airplane that has no engine. It launches being towed behind a powered airplane and once it has reached a certain height, it is released. Modern sailplanes have remarkably good performance and can glide up to 60m-70m for every meter of height they have.
 
@@ -30,7 +30,7 @@ Competitions usually revolve around flying far and fast using only the natural w
 
 # Skydiving (parachuting)
 
-[](https://upload.wikimedia.org/wikipedia/commons/4/4e/Ilovechicago.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/4/4e/Ilovechicago.jpg)
 
 A skydiver jumps from a plane and has two phases of flight - a free fall phase and a phase of descent with a deployed canopy.
 
@@ -48,7 +48,7 @@ Competitions usually revolve around aerobatics or landing precision.
 
 # Hang-gliding (deltaplane)
 
-[](https://upload.wikimedia.org/wikipedia/commons/d/d1/Hang_gliding_hyner.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/d/d1/Hang_gliding_hyner.jpg)
 
 A hang-glider is an ultra-light unpowered aircraft that it is launched on foot. Launching requires some height difference, *the initial capital*, after which a skilled pilot will be able to exploit its surrounding to continue to soar. Towed launches, usually being towed by a small powered aircraft, are also possible but are much less common.
 
@@ -62,7 +62,7 @@ Competitions usually revolve around flying far and fast using only the natural w
 
 # Paragliding
 
-[](https://upload.wikimedia.org/wikipedia/commons/e/ea/Paragliding_1350361.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/e/ea/Paragliding_1350361.jpg)
 
 A paraglider is a device that evolved from a ram-air parachute. Even if the canopy looks a lot like a parachute, the activity is much more closely related to hang-gliding than skydiving. A paragliding pilot does not jump and does not have a free fall phase - he launches akin to an aircraft - by gaining speed with his canopy already inflated. Just as the hang-glider, the paraglider requires some initial height. Towed launches, usually being towed by a cable from the ground, are also possible but are much less common.
 
@@ -76,7 +76,7 @@ Most competitions usually revolve around flying far and fast using only the natu
 
 # BASE jumping
 
-[](https://upload.wikimedia.org/wikipedia/commons/6/6d/04KJER0243.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/6/6d/04KJER0243.jpg)
 
 BASE jumping is more or less skydiving from fixed objects, called exit points in BASE lingo, instead of an airplane - BASE stands for Building, Antenna, Span or Earth.
 
@@ -97,7 +97,7 @@ It is a very high risk activity.
 
 # Wingsuit flying
 
-[](https://upload.wikimedia.org/wikipedia/commons/d/d8/Wingsuit_Flying_over_Langar_Airfield_UK.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/d/d8/Wingsuit_Flying_over_Langar_Airfield_UK.jpg)
 
 Wingsuit flying can be performed both when skydiving or BASE jumping. It is an additional layer to both activities. A wingsuit flyer uses a special suit that inflates with the airspeed and allows him a certain degree of maneuverability and gliding capability before deploying its parachute.
 
