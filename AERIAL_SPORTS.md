@@ -18,7 +18,7 @@ The list goes in chronological order, from the oldest to the most modern one.
 
 A sailplane is a very small airplane that has no engine. It launches being towed behind a powered airplane and once it has reached a certain height, it is released. Modern sailplanes have remarkably good performance and can glide up to 60m-70m for every meter of height they have.
 
-It is a moderate risk sport.
+It is a high risk sport with an annual fatality rate of 1:800 (about 5 times the motorcycle fatality rate).
 
 Its history is very closely related to the history of aviation.
 
@@ -46,7 +46,7 @@ It is more of a recreational activity then a sport, but it is still recognized a
 
 It is somewhat easy to learn, requiring about 15 tandem jumps before being allowed a first solo jump.
 
-Owing to its military history, it is a moderate risk activity with very rigorous safety regulations, that is very well documented and studied as it is always performed under strict supervision with a 1:200,000 jumps fatality rate.
+Owing to its military history, it is a moderate risk activity with very rigorous safety regulations, that is very well documented and studied as it is always performed under strict supervision with a 1:2000 annual fatality rate (twice the motorcycle fatality rate).
 
 Competitions usually revolve around aerobatics or landing precision.
 
@@ -58,7 +58,7 @@ A hang-glider is an ultra-light unpowered aircraft that it is launched on foot. 
 
 A typical paraglider can glide about 12m to 15m for every meter of height.
 
-It is a high risk sport with an annual fatality rate of regular flyers of about 1:1000.
+It is a high risk sport with an annual fatality rate of regular flyers of about 1:1000 (about 4 times the motorcycle fatality rate).
 
 It is also notorious for having a very steep learning curve - requiring lots of training before the first flight.
 
@@ -78,7 +78,7 @@ A typical paraglider can glide about 8m to 12m for every meter of height.
 
 It is much more forgiving than a deltaplane for the beginner pilot. It requires about 1 week of ground training before being allowed a first solo flight.
 
-It is a high risk sport with an annual fatality rate of regular flyers of about 1:1000.
+It is a high risk sport with an annual fatality rate of regular flyers of about 1:1000 (about 4 times the motorcycle fatality rate).
 
 It is an established and widely recognized sport with a world federation and regular competitions.
 
@@ -105,7 +105,7 @@ There is no official governing body and no regular competitions.
 
 It is (almost) always performed as illegal activity and there are few comprehensive studies on the fatality rates.
 
-It is a very high risk activity.
+It is a very high risk activity and the fatality rates tend to be sketchy, an annual fatality rate of 1:500 is often cited (8 times the motorcycle fatality rate).
 
 # Wingsuit flying
 
@@ -121,11 +121,12 @@ It is more of a recreational activity then a sport.
 
 It requires vast amounts of training and hundreds of skydiving and BASE jumps before the first flight.
 
-There have been some attempts at creating a governing body and official aerobatics competitions, but the general situation is that wingsuit flying doesn't meet the safety criteria for official skydiving and it is (almost) always performed as an illegal activity.
+There have been some attempts at creating a governing body and official aerobatics competitions, but the general situation is that wingsuit flying doesn't meet the safety criteria for official skydiving and it is (almost) always perf
+ormed as an illegal activity.
 
 It is a very high risk activity, especially in its most extreme form, the so-called proximity flying, and when performed with a BASE jump start.
 
-There are few comprehensive studies on the fatality rates but according to some sources, annual rates as high as 1:60 have been cited for proximity flying with a BASE exit.
+There are few comprehensive studies on the fatality rates but according to some sources, annual rates as high as 1:60 have been cited for proximity flying with a BASE exit - this is 70 times the motorcycle fatality rate.
 
 # Speed Flying
 
@@ -141,7 +142,7 @@ There is no official governing body and no regular competitions.
 
 It is legal in most countries - under the same rules as paragliding.
 
-It is a very high risk activity.
+It is a very high risk activity with very few statistics available.
 
 # Speed Riding
 
