@@ -27,3 +27,5 @@ Besides writing software, I have been trying, for almost 10 years now, to create
 I am also the creator and the maintainer of <https://www.velivole.fr> (French) and <https://www.meteo.guru> (English), the leading free soaring weather site in Europe and the author and maintainer of <https://isitplausible.com>.
 
 I am a huge fan of blue water sailing.
+
+I am an active member of the French Paragliding and Hang-gliding Federation <https://www.ffvl.fr> and (currently) an inactive member of the French Sailing Federation <https://www.ffvoile.fr>.
