@@ -172,6 +172,6 @@ It is more of a recreational activity then a sport - but it definitely has the p
 
 It still has no official governing body and no regular competitions.
 
-It is legal in most countries - usually under the same rules as paragliding.
+It is legal in most countries - usually under the same rules as paragliding - but many ski resorts ban it because of the risks involved.
 
 The risk factor varies from just above skiing if performed on a regular ski slope to outrageously dangerous if performed for jumping across cliffs.
