@@ -62,6 +62,8 @@ A hang-glider is an ultra-light unpowered aircraft that it is launched on foot. 
 
 A typical hang-glider can glide about 15m up to 20m for every meter of height. The airspeed range is from 40km/h up to 130km/h. The current distance record for unpowered flight is 764km.
 
+Regulations in different countries vary a lot, but a hang-glider is generally considered to be an ultra-light aircraft and has to comply with VFR flight rules. Depending on the jurisdiction it may be required to possess a flight licence, civil aviation registration, special insurance or to pass regular technical inspections.
+
 It is a high risk sport with an annual fatality rate of regular flyers of about 1:1000 (about 4 times the motorcycle fatality rate).
 
 It is also notorious for having a very steep learning curve - requiring lots of training before the first flight.
@@ -81,6 +83,8 @@ A paraglider is a device that evolved from the ram-air parachute. Even if the ca
 Compared to a parachute, the paragliding canopy has much better gliding performance and a skilled pilot can soar and stay indefinitely airborne. That performance comes at the price of handling and safety - paragliding canopies are notorious for their spontaneous collapses in flight.
 
 A typical paraglider can glide about 8m to 12m for every meter of height. The airspeed range is from 25km/h up to 60km/h. The current distance record for unpowered flight is 612km.
+
+Regulations in different countries vary a lot, but a paraglider is generally considered to be an ultra-light aircraft and has to comply with VFR flight rules. Depending on the jurisdiction it may be required to possess a flight licence, civil aviation registration, special insurance or to pass regular technical inspections.
 
 It is much more forgiving than a deltaplane for the beginner pilot. It requires about 1 week of ground training before being allowed a first solo flight.
 
@@ -112,7 +116,7 @@ It is more of a recreational activity then a sport.
 
 There is no official governing body and no regular competitions.
 
-It is (almost) always performed as illegal activity and there are few comprehensive studies on the fatality rates.
+It is (almost) always performed as illegal activity and there are few comprehensive studies on the fatality rates. The legal status of an airborne pilot is not very clear.
 
 Even if the activity has seen dramatic growth over the last decade, the very high risks involved limit the number of active practitioners. It is estimated that there are about 2,000 active jumpers in the world.
 
@@ -132,7 +136,7 @@ It is more of a recreational activity then a sport.
 
 It requires vast amounts of training and hundreds of skydiving and BASE jumps before the first flight.
 
-There have been some attempts at creating a governing body and official aerobatics competitions, but the general situation is that wingsuit flying doesn't meet the safety criteria for official skydiving and it is (almost) always performed as an illegal activity.
+There have been some attempts at creating a governing body and official aerobatics competitions, but the general situation is that wingsuit flying doesn't meet the safety criteria for official skydiving and it is (almost) always performed as an illegal activity. The legal status of an airborne pilot is not very clear.
 
 It is an outrageously dangerous activity, especially in its most extreme form, the so-called proximity flying, and when performed with a BASE jump start. There probably just a few hundreds experienced pilots in the world.
 
