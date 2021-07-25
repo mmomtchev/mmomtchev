@@ -130,13 +130,13 @@ Wingsuit flying can be performed both when skydiving or BASE jumping. It is an a
 
 A typical wingsuit can glide 3m to 4m per meter of height but its very high speed makes *soaring* impossible - very skilled pilots are able at best to slow down their fall. The airspeed range is from 150km/h up to more than 300km/h.
 
-The gliding speed does not permit a normal landing - the flight ends with a BASE jumping parachute. Just like the BASE jumper, a wingsuit flyer carries only a single parachute - which is illegal in the very tightly controlled world of skydiving. There have been cases of aircraft pilots having their flying licenses revoked for allowing wingsuit jumping out of the planes they were piloting.
+The gliding speed does not permit a normal landing - the flight ends with a BASE jumping parachute. Just like the BASE jumper, a wingsuit flyer usually carries only a single parachute - which is illegal in the very tightly controlled world of skydiving. There have been cases of aircraft pilots having their flying licenses suspended for allowing wingsuit jumping with a single parachute out of the planes they were piloting.
 
 It is more of a recreational activity then a sport.
 
 It requires vast amounts of training and hundreds of skydiving and BASE jumps before the first flight.
 
-There have been some attempts at creating a governing body and official aerobatics competitions, but the general situation is that wingsuit flying doesn't meet the safety criteria for official skydiving and it is (almost) always performed as an illegal activity. The legal status of an airborne pilot is not very clear.
+There have been some attempts at creating a governing body and official aerobatics competitions and there are now wingsuits with two canopies allowing *legal* jumps from an airplane, but BASE wingsuit jumping still remains a mostly illegal activity. The legal status of an airborne pilot is not very clear.
 
 It is an outrageously dangerous activity, especially in its most extreme form, the so-called proximity flying, and when performed with a BASE jump start. There probably just a few hundreds experienced pilots in the world.
 
