@@ -6,7 +6,7 @@ My fields of expertise include:
 * Geospatial data
 * Super-computing and parallel processing
 
-I am currently unemployed because I am at the center of [The Penisgate Affair](https://github.com/mmomtchev/mmomtchev/blob/master/PENISGATE.md) - and its various protagonists are trying to starve me to death.
+I am currently unemployed because I am at the center of [The Penisgate Affair](https://github.com/mmomtchev/mmomtchev/blob/master/PENISGATE.md) - and its various protagonists are trying to starve me to death. If you run a business, you value quality work and you have no interest whatsoever in covering up criminals with badges, I will be glad to hear from you.
 
 While unemployed, I am working mostly on geospatial software for Node.js.
 
