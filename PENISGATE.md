@@ -18,7 +18,9 @@ During this time the court examined my civil lawsuit for criminal libel for the 
 
 Some very well known and politically-exposed persons in Paris took part in the penis waving - mostly on Facebook and Twitter.
 
-But needless to say, it was at my workplace that the consequences were the most severe. Teamwork tends to become very tedious when you are playing a subliminal game with penises, Viagra and all the possible social taboos with the guy sitting next to you.
+But needless to say, it was at my workplace that the consequences were the most severe. Teamwork tends to become very tedious when you are playing a subliminal game with penises, Viagra and all existing social taboos with the guy sitting next to you.
+
+I did file a number of criminal complaints - none of which ever produced any response except for one - where I met a particularly confident police woman deeply convinced that a man filing a criminal complaint mentioning erectile dysfunction and penis size were surely going be easily convinced to back down. When I decided to show her the few SMS offering cocaine sitting in between all the Viagra - she was instantly gripped by fear and refused to mention it in her report and gave up on trying to gain the upper hand. Never heard from them again.
 
 After all of the professional psychiatrists refused to declare me suffering from schizophrenia, my employer tried extorting me with everything that he learned from the psychiatrists and when they realized that, unlike my sexually repressed family, I was not being intimidated by the threat of exposing my sexual life, they decided to hastily declare me suffering from delusions of persecution and fire me. A practitioner paid by the employer did the evaluation without consulting any of the existing evaluations and without examining me.
 
