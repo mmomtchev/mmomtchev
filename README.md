@@ -18,6 +18,7 @@ You can check:
 * [@mmomtchev/node-pre-gyp-github](https://github.com/mmomtchev/node-pre-gyp-github) - an almost complete rewrite of the popular [node-pre-gyp-github](https://github.com/mmomtchev/node-pre-gyp-github) abandoned by its author, compatible with the current version of the GitHub API
 * [intercity.js](https://github.com/mmomtchev/intercity) - a still unreleased Work-In-Progress for a dynamic data WMTS/WMS/WCS/WFS server for Node.js
 * [igc-xc-score](https://github.com/mmomtchev/igc-xc-score) - is an open-source solution for scoring paragliding XC competitions - which is a very interesting linear optimization problem with a *O(n^5)* worst case complexity
+* [geoapi](https://github.com/mmomtchev/geoapi) - is an open-source server that can translate lat:long coordinates to postal codes (a free GeoNames API), it is based on the proprietary `geodata` in velivole
 * [Queue](https://github.com/mmomtchev/Queue) - is a rather simple but useful package for rate-limiting access to external APIs
 * [SharedMap](https://github.com/mmomtchev/SharedMap) - is a `Map` that can be accessed by multiple `worker_threads`
 
@@ -25,7 +26,7 @@ You can also check my Medium articles here: <https://mmomtchev.medium.com/>
 
 Besides writing software, I have been trying, for almost 10 years now, to create a video as stunningly beautiful as [this one](https://www.youtube.com/watch?v=a71bZ1YG68U) that I saw when I started [paragliding](https://github.com/mmomtchev/mmomtchev/blob/master/AERIAL_SPORTS.md). I have come [a long way](https://www.youtube.com/user/momtchev) since I started in [2012](https://www.youtube.com/watch?v=fzTU611kfrw).
 
-I am also the creator and the maintainer of <https://www.velivole.fr> (French) and <https://www.meteo.guru> (English), the leading free soaring weather site in Europe and the author and maintainer of <https://isitplausible.com>.
+I am also the creator and the maintainer of <https://www.velivole.fr> (French) and <https://www.meteo.guru> (English), the leading free soaring weather site in Europe and the author and maintainer of <https://isitplausible.com>. You can see an overview of velivole/meteo.guru [here](https://raw.githubusercontent.com/mmomtchev/mmomtchev/master/velivole.fr-Architecture-Overview.svg) and explore its API [here](https://www.velivole.fr/apidoc/).
 
 I am a huge fan of blue water sailing.
 
