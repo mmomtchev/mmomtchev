@@ -8,6 +8,10 @@ My fields of expertise include:
 
 I am currently unemployed because I am at the center of [The Penisgate Affair](https://github.com/mmomtchev/mmomtchev/blob/master/PENISGATE.md) - and its various protagonists are trying to starve me to death. If you run a business, you value quality work and you have no interest whatsoever in covering up criminals with badges, I will be glad to hear from you (before you ask: yes, this is what they call *La French Tech*, and no, they are not very competitive on the global markets).
 
+If I am not able to find any source of income in the coming months, I guess I will finally be able to give a definite answer to the question that has been bugging me for the last 2 years - namely
+
+**What will happen if I get caught stealing food in the supermarket while the Judiciary System itself is extorting me? What will the judge have to say?**
+
 While unemployed, I am working mostly on geospatial software for Node.js.
 
 You can check:
