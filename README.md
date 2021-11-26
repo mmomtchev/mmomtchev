@@ -6,16 +6,13 @@ My fields of expertise include:
 * Geospatial data
 * Super-computing and parallel processing
 
-I am currently unemployed because I am at the center of [The Penisgate Affair](https://github.com/mmomtchev/mmomtchev/blob/master/PENISGATE.md). The affair boils down to an ex-employer organizing a giant penis-size game both at my next job, a sports federation and various other aspects of my life, by buying off people around me. The police is involved too. As the affair involves very serious failures of the judicial system in France and a few large companies over a personal weakness, everyone is hell-bend on keeping it under wraps. The affair is constantly being covered up by buying off my lawyers and reaching back-doors deals with judges. As lots of companies are involved, they are currently waiting for my unemployment benefits to expire so that they can extort me to shut up. Most of the Javascript ecosystem and a few very large GIS companies have accepted to take part in the penis-size game, while my telecom and my hosting operators are providing detailed transcripts of my TCP/IP traffic - which are then shown to me, as to leave absolutely no doubt as to who has the biggest one. My bank is doing the same.
-
-The whole affair is a real life version of this scene: [Monty Python's Life of Brian](https://www.youtube.com/watch?v=HrcbCW4y9Dw)
+I am currently unemployed because I am at the center of [The Penisgate Affair](https://github.com/mmomtchev/mmomtchev/blob/master/PENISGATE.md). The affair boils down to an ex-employer organizing a giant penis-size game both at my next job, a sports federation and almost everywhere else - and then tried to, unsuccessfully, convince me that I was suffering from psychosis and was seeing penises everywhere. The police is involved too. As the affair involves very serious failures of the judicial system in France and a few large companies, all of this over a personal weakness, everyone is hell-bend on keeping it under wraps. The affair is constantly being covered up by buying off my lawyers and reaching back-doors deals with judges. As lots of companies are involved, they are currently waiting for my unemployment benefits to expire so that they can extort me to shut up. Most of the Javascript ecosystem and a few very large GIS companies have accepted to take part in the penis-size game, while my telecom and my hosting operators are providing detailed transcripts of my TCP/IP traffic - which are then shown to me. My bank is doing the same and so are some lawyers - including some very famous prestigious Parisian law firms - that I have contacted for this affair.
 
 Alas, yes, this is the sorry state of the [French Tech](https://github.com/mmomtchev/mmomtchev/blob/master/LA-FRENCH-TECH.md) and no, they are not very competitive outside of France.
 
 While unemployed, I am working mostly on geospatial software for Node.js. I am currently working to restore/reimplement the C++ support in `documentation.js`.
 
-If your company needs an excellent engineer who takes pride in the quality of his work, do not hesitate to contact me. Otherwise I will have to resort to stealing food from the supermarket very soon - the situation in the French judicial system is such that I am eager to explain to a judge as currently most of the time my criminal complaints are covered either by the police, by a lawyer or - very recently by some bailiffs.
-
+If your company needs an excellent engineer who takes pride in the quality of his work, do not hesitate to contact me. Otherwise I will have to resort to stealing food from the supermarket very soon - especially since I am eager to explain myself to a judge as currently my criminal complaints are covered up.
 
 You can check:
 
@@ -24,7 +21,8 @@ You can check:
 * [rlayers](https://github.com/mmomtchev/rlayers) - a set of React components for creating online maps with OpenLayers
 * [intercity.js](https://github.com/mmomtchev/intercity) - a still unreleased Work-In-Progress for a dynamic data WMTS/WMS/WCS/WFS server for Node.js
 * [documentation.js](https://github.com/mmomtchev/documentation) - a fork of `documentation.js` with working C++ support
-* [igc-xc-score](https://github.com/mmomtchev/igc-xc-score) - is an open-source solution for scoring paragliding XC competitions - which is a very interesting linear optimization problem with a *O(n^5)* worst case complexity
+* [igc-xc-score](https://github.com/mmomtchev/igc-xc-score) - an open-source solution for scoring paragliding XC competitions - which is a very interesting linear optimization problem with a *O(n^5)* worst case complexity
+* [igc-admin-analyze](https://github.com/mmomtchev/igc-admin-analyze) - a tool for analyzing IGC flight logs giving a percentage of time spent above given administrative divisions defined by their GeoJSON borders
 * [geosub](https://github.com/mmomtchev/geosub) - A tool for partial downloading of bands and subwindows from geospatial raster datasets from cloud storage, it is an Amazon AWS-compatible replacement for NOAA's own [g2sub](https://nomads.ncep.noaa.gov/cgi-bin/filter_gfs_0p25.pl)
 * [yatag](https://github.com/mmomtchev/yatag) - is a tool that I use to generate the TypeScript type definitions in most of my projects, it is slowly reaching maturity
 * [Queue](https://github.com/mmomtchev/Queue) - is a rather simple but useful package for rate-limiting access to external APIs
