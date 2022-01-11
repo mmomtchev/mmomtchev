@@ -6,14 +6,14 @@ My fields of expertise include:
 * Geospatial data
 * Super-computing and parallel processing
 
-I am currently unemployed because I am at the center of [The Penisgate Affair](https://github.com/mmomtchev/mmomtchev/blob/master/PENISGATE.md). The affair boils down to an ex-employer organizing a giant penis-size game both at my next job, a sports federation and almost everywhere else - and then trying to, unsuccessfully, convince me that I am suffering from psychosis and I am seeing penises everywhere. The police and especially the French Judiciary is heavily involved too. As the affair involves very serious failures of the judicial system in France and a few large companies, all of this over a personal weakness, everyone is hell-bend on keeping it under wraps. The affair is constantly being covered up by buying off my lawyers and reaching back-doors deals with judges. As lots of companies are involved, they are currently simply waiting for my unemployment benefits to expire so that they can extort me to shut up. Most of the Javascript ecosystem and a few very large GIS companies have accepted to take part in the penis-size game, while my telecom and my hosting operators are providing detailed transcripts of my TCP/IP traffic - which are then shown to me. My bank is doing the same and so are some lawyers - including some very famous prestigious Parisian law firms - that I have contacted for this affair.
+I am currently unemployed because a number of my previous employers are trying to cover up a remarkably ugly sexual affair with the help of the French judiciary and are extorting me to accept a job offer coming from an employer willing to participate in the cover up ([you can read about it here](https://github.com/mmomtchev/mmomtchev/blob/master/PENISGATE.md)). I have excellent technical and personal skills and I wish to work for a normal company which does not take part in this affair.
 
-Alas, yes, this is the sorry state of the [French Tech](https://github.com/mmomtchev/mmomtchev/blob/master/LA-FRENCH-TECH.md) and no, they are not very competitive outside of France.
+Alas, yes, this is the sorry state of the [French Tech](https://github.com/mmomtchev/mmomtchev/blob/master/LA-FRENCH-TECH.md) and the French judiciary system and no, they are not very competitive outside of France.
 
 While unemployed, I am working mostly on software around geospatial and scientific data, some frontend and lots of Node.js internals.
 My current main project is `ExprTk.js` which adds an asynchronous mathematical expression evaluator supporting multithreaded and asynchronous versions of `TypedArray.map`, `TypedArray.reduce` and `eval`.
 
-If your company needs an excellent engineer who takes pride in the quality of his work and do not have interest in covering up crimes in the French Judiciary, do not hesitate to contact me. Otherwise I will have to resort to stealing food from the supermarket very soon - especially since I am eager to explain myself to a judge as currently my criminal complaints are covered up.
+If your company needs an excellent engineer who takes pride in the quality of his work and do not have interest in covering up crimes in the French Judiciary, do not hesitate to contact me. My current financial situation is very dire and I will readily accept any work which does not involve extortion over that affair.
 
 You can check:
 
