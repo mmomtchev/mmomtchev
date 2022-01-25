@@ -31,6 +31,7 @@ You can check:
 * [@mmomtchev/node-pre-gyp-github](https://github.com/mmomtchev/node-pre-gyp-github) - an almost complete rewrite of the popular [node-pre-gyp-github](https://github.com/bchr02/node-pre-gyp-github) abandoned by its author, compatible with the current version of the GitHub API
 * [geoapi](https://github.com/mmomtchev/geoapi) - is an open-source server that can translate lat:long coordinates to postal codes (a free GeoNames API), it is based on the proprietary `geodata` in velivole
 * [SharedMap](https://github.com/mmomtchev/SharedMap) - is a `Map` that can be accessed by multiple `worker_threads`
+* [EDCarnage](https://github.com/mmomtchev/EDCarnage) - an [Electron](https://www.electronjs.org/) tool for tracking stacked massacre missions in [Elite: Dangerous](https://www.elitedangerous.com/)
 
 You can also check my Medium articles here: <https://mmomtchev.medium.com/>
 
