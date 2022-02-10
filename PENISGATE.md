@@ -1,6 +1,6 @@
 # The Penisgate Affair
 
-### Une version en français sera bientôt disponible
+### Vous pouvez lire une version plus récente en français [ici](https://github.com/mmomtchev/velivole/blob/main/L_AFFAIRE_DES_B.md)
 
 I have been fighting the French judicial system for more than 10 years now for a vast criminal affair over what is essentially the penis size problem of one person who seems to have developed an outstanding obsession with my sex life.
 

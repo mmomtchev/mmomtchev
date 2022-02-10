@@ -42,3 +42,7 @@ I am also the creator and the maintainer of <https://www.velivole.fr> (French) a
 I am a huge fan of blue water sailing.
 
 I am an active member of the French Paragliding and Hang-gliding Federation <https://www.ffvl.fr> and (currently) an inactive member of the French Sailing Federation <https://www.ffvoile.fr>.
+
+*Vous pouvez également lire mon introduction rapide à la thermodynamique appliquée au vol libre et le vol à voile ici: [THERMODYNAMIQUE.md](https://github.com/mmomtchev/velivole/blob/main/THERMODYNAMIQUE.md)*
+
+There is also an English version of my introduction to the basic concepts of Thermodynamics for soaring flight here: [THERMODYNAMICS.md](https://github.com/mmomtchev/velivole/blob/main/THERMODYNAMICS.md)*
