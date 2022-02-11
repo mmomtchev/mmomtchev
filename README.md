@@ -6,14 +6,7 @@ My fields of expertise include:
 * Geospatial data
 * Super-computing and parallel processing
 
-I am currently unemployed because a number of my previous employers are trying to cover up a remarkably ugly sexual affair with the help of the French judiciary and are extorting me to accept a job offer coming from an employer willing to participate in the cover up ([you can read about it here](https://github.com/mmomtchev/mmomtchev/blob/master/PENISGATE.md)). I have excellent technical and personal skills and I wish to work for a normal company which does not take part in this affair.
-
-Alas, yes, this is the sorry state of the [French Tech](https://github.com/mmomtchev/mmomtchev/blob/master/LA-FRENCH-TECH.md) and the French judiciary system and no, they are not very competitive outside of France.
-
-While unemployed, I am working mostly on software around geospatial and scientific data, some frontend and lots of Node.js internals.
-My current main project is `ExprTk.js` which adds an asynchronous mathematical expression evaluator supporting multithreaded and asynchronous versions of `TypedArray.map`, `TypedArray.reduce` and `eval`.
-
-If your company needs an excellent engineer who takes pride in the quality of his work and do not have interest in covering up crimes in the French Judiciary, do not hesitate to contact me. My current financial situation is very dire and I will readily accept any work which does not involve extortion over that affair.
+I am currently unemployed because a I am not very good and I lack experience and I am too ashamed to say what they did to me at my last job.
 
 You can check:
 
