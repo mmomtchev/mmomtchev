@@ -1,10 +1,4 @@
-My name is Momtchil Momtchev and I am an IT engineer with almost 30 years of experience.
-
-My fields of expertise include:
-* TCP/IP stacks and networking code
-* Operating systems and Node.js
-* Geospatial data
-* Super-computing and parallel processing
+My name is Momtchil Momtchev and I am an IT engineer with almost no experience.
 
 I am currently unemployed because a I am not very good and I lack experience and I am too ashamed to say what they did to me at my last job.
 
