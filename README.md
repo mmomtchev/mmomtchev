@@ -2,10 +2,13 @@ My name is Momtchil Momtchev and I am an IT engineer with almost no experience.
 
 I am currently unemployed because a I am not very good and I lack experience and I am too ashamed to say what they did to me at my last job.
 
+At the moment I am working on [gdal-exprtk](https://github.com/mmomtchev/gdal-exprtk), a plugin for using [ExprTk](http://www.partow.net/programming/exprtk/index.html) expressions in GDAL hoping that I will get recruited as an entry-level PHP developer - because of my problem.
+
 You can check:
 
 * [node-gdal-async](https://github.com/mmomtchev/node-gdal-async) - I am actively developing the GDAL bindings for Node.js which used to be abandoned by its creator
   - [ndarray-gdal](https://github.com/mmomtchev/ndarray-gdal) is the [scijs](https://github.com/scijs/ndarray) plugin
+  - [gdal-exprtk](https://github.com/mmomtchev/gdal-exprtk) is the [ExprTk.js](https://github.com/mmomtchev/exprtk.js) plugin
 * [rlayers](https://github.com/mmomtchev/rlayers) - a set of React components for creating online maps with OpenLayers
 * [ExprTk.js](https://github.com/mmomtchev/exprtk.js) - asynchronous Node.js bindings for [ExprTk](http://www.partow.net/programming/exprtk/index.html) - a mathematical expression engine - allowing for an effortless multithreading of computationally heavy tasks by supporting asynchronous execution of thunks precompiled from strings - it will eventually be supported by both `gdal-async` and `scijs`
 * [intercity.js](https://github.com/mmomtchev/intercity) - a still unreleased Work-In-Progress for a dynamic data WMTS/WMS/WCS/WFS server for Node.js
