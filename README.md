@@ -1,8 +1,10 @@
 My name is Momtchil Momtchev and I am an IT engineer with almost no experience.
 
-I am currently unemployed because a I am not very good and I lack experience and I am too ashamed to say what they did to me at my last job.
+I am currently unemployed because I am suing a big French company over an ugly sexual harassment affair and they are not afraid of using strong-handed tactics to make me drop all lawsuits - *yes, this is possible in France, and no, the French Tech is not very competitive on the global markets*.
 
-At the moment I am working on [gdal-exprtk](https://github.com/mmomtchev/gdal-exprtk), a plugin for using [ExprTk](http://www.partow.net/programming/exprtk/index.html) expressions in GDAL hoping that I will get recruited as an entry-level PHP developer - because of my problem.
+Until the situation is resolved, I am working on various open-source projects and I am available for consulting work.
+
+At the moment I am working on [gdal-exprtk](https://github.com/mmomtchev/gdal-exprtk), a plugin for using [ExprTk](http://www.partow.net/programming/exprtk/index.html)
 
 You can check:
 
