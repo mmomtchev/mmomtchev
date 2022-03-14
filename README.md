@@ -1,5 +1,5 @@
 
-[![](https://img.shields.io/badge/%23IStandWithRussia-againstPutin-critical)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
+[![](https://img.shields.io/badge/%23IStandWithRussia-againstPutin-critical)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/ToRussianPeople.md)
 
 [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 
