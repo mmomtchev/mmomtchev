@@ -1,4 +1,7 @@
-My name is Momtchil Momtchev and I am an IT engineer with almost no experience.
+
+[![](https://img.shields.io/badge/%23IStandWithRussia-againstPutin-critical)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
+
+[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 
 I am currently unemployed because I am suing a big French company over an ugly sexual harassment affair and they are not afraid of using strong-handed tactics to make me drop all lawsuits - *yes, this is possible in France, and no, the French Tech is not very competitive on the global markets*.
 
