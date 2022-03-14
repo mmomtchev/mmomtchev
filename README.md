@@ -1,7 +1,19 @@
+[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 
+# Because overthrowing an entrenched dictator is difficult
 [![](https://img.shields.io/badge/%23IStandWithRussia-againstPutin-critical)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/ToRussianPeople.md)
 
-[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
+Throughout history, there are but a handful of examples when an entrenched dictator was brought down by popular uprising - and it always involved extreme hunger and bloodshed.
+
+As we are gradually completely overcoming hunger in our modern society, toppling a totalitarian regime becomes more and more difficult.
+
+It takes more than moral ethics to stand up against violent repression.
+
+This is why I want to remind everyone that in this difficult moment, just as Ukraine needs your help against the Russian army, so does the average Russian protester against Putin.
+
+Putin is not a Russian internal affair anymore.
+
+---
 
 I am currently unemployed because I am suing a big French company over an ugly sexual harassment affair and they are not afraid of using strong-handed tactics to make me drop all lawsuits - *yes, this is possible in France, and no, the French Tech is not very competitive on the global markets*.
 
