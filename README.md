@@ -15,11 +15,16 @@ Putin is not a Russian internal affair anymore.
 
 ---
 
-I am currently unemployed because I am suing a big French company over an ugly sexual harassment affair and they are not afraid of using strong-handed tactics to make me drop all lawsuits - *yes, this is possible in France, and no, the French Tech is not very competitive on the global markets*.
+I am currently unemployed because I am suing a big French company over a rather ugly and remarkably embarrassing sexual harassment affair and they are currently openly extorting me with the help of the French IT recruiters to abstain from further lawsuits - and to never mention again what happened - *yes, this is totally possible in France, and no, the French Tech is not very competitive on the global markets*.
 
-Until the situation is resolved, I am working on various open-source projects and I am available for consulting work.
+Until the situation is resolved, I am working on various open-source projects and I am available for consulting work - or long-term commitment for interesting projects. I have a rather broad skill set:
+* Everyday languages: C++ / JavaScript / TypeScript
+* My main area of expertise at the moment is Node.js C++ addons and V8
+* GIS, spatial algorithms, HPC, parallel computation
+* Linux, FreeBSD and OpenBSD kernel experience, especially the TCP/IP stacks
+* Some React and front-end experience
 
-At the moment I am working on [gdal-exprtk](https://github.com/mmomtchev/gdal-exprtk), a plugin for using [ExprTk](http://www.partow.net/programming/exprtk/index.html)
+At the moment I am working mostly on [gdal-exprtk](https://github.com/mmomtchev/gdal-exprtk), a plugin for using [ExprTk](http://www.partow.net/programming/exprtk/index.html) and `velitherm`/`velitherm-visu`.
 
 You can check:
 
