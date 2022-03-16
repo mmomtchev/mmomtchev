@@ -20,7 +20,7 @@ I am currently unemployed because I am suing a big French company over a rather 
 Until the situation is resolved, I am working on various open-source projects and I am available for consulting work - or long-term commitment for interesting projects. I have a rather broad skill set:
 * Everyday languages: C++ / JavaScript / TypeScript
 * My main area of expertise at the moment is Node.js C++ addons and V8
-* GIS, spatial algorithms, HPC, parallel computation
+* GIS, spatial algorithms, HPC, parallel computing
 * Linux, FreeBSD and OpenBSD kernel experience, especially the TCP/IP stacks
 * Some React and front-end experience
 
