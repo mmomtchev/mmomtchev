@@ -24,7 +24,7 @@ Until the situation is resolved, I am working on various open-source projects an
 * Linux, FreeBSD and OpenBSD kernel experience, especially the TCP/IP stacks
 * Some React and front-end experience
 
-At the moment I am working mostly on [gdal-exprtk](https://github.com/mmomtchev/gdal-exprtk), a plugin for using [ExprTk](http://www.partow.net/programming/exprtk/index.html) and `velitherm`/`velitherm-visu`.
+At the moment I am working mostly on [jeetah](https://github.com/mmomtchev/jeetah), an optimizing compiler for mathematical expressions in JavaScript.
 
 You can check:
 
@@ -33,6 +33,7 @@ You can check:
   - [gdal-exprtk](https://github.com/mmomtchev/gdal-exprtk) is the [ExprTk.js](https://github.com/mmomtchev/exprtk.js) plugin
 * [rlayers](https://github.com/mmomtchev/rlayers) - a set of React components for creating online maps with OpenLayers
 * [ExprTk.js](https://github.com/mmomtchev/exprtk.js) - asynchronous Node.js bindings for [ExprTk](http://www.partow.net/programming/exprtk/index.html) - a mathematical expression engine - allowing for an effortless multithreading of computationally heavy tasks by supporting asynchronous execution of thunks precompiled from strings - it will eventually be supported by both `gdal-async` and `scijs`
+* [jeetah](https://github.com/mmomtchev/jeetah) - an optimizing compiler for mathematical expressions in JavaScript
 * [intercity.js](https://github.com/mmomtchev/intercity) - a still unreleased Work-In-Progress for a dynamic data WMTS/WMS/WCS/WFS server for Node.js
 * [documentation-polyglot](https://github.com/mmomtchev/documentation-polyglot) - a plugin that adds *C++* support to `documentation.js` via the new plugin framework that I am currently making
 * [igc-xc-score](https://github.com/mmomtchev/igc-xc-score) - an open-source solution for scoring paragliding XC competitions - which is a very interesting linear optimization problem with a *O(n^5)* worst case complexity
