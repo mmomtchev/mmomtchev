@@ -34,22 +34,22 @@ This mode of embedding Node.js matches most closely the existing JS architecture
 
 The following alternatives have also been considered:
 * Run every instance of a service in a separate, external, Node.js process
-    This mode will have a more expensive startup and will present unique challenges when implementing the various Zoo-Project routines which will have to communicate with the `Zoo-Kernel` by some external mechanism - such as RabbitMQ.
+    This mode will have a more expensive startup and will present unique challenges when implementing the various ZOO-Project routines which will have to communicate with the `ZOO-Kernel` by some external mechanism - such as RabbitMQ.
 * Run all instances of a service in a single shared environment
     This mode offers the potentially best performance but it imposes upon the end-user to use very correctly the Node.js asynchronous mechanisms - failing to do so will result in latency spikes and possibly dropped connections.
 
-Rebuiling `libnode` is considered to be out of the scope of the current project - just as the current SpiderMonkey shared library is expected to be provided by the end-user, so will be `libnode` which is already carried by some major Linux distributions - Ubuntu being one of them.
+Rebuilding `libnode` as part of the `ZOO-Project` build system is considered to be out of the scope of the current project - just as the current SpiderMonkey shared library is expected to be provided by the end-user, so will be `libnode` which is already carried by some major Linux distributions - Ubuntu being one of them.
 
 # Proposal Timeline
 
 ## Before June 13
 
 * To familiarize myself completely with ZOO-Project functionality and architecture.
-* To experiment with using `libnode`, the embedded version of NodeJS
+* To experiment with using `libnode`, the embedded version of NodeJS and test the compatibility between the packaged `libnode` by the Linux distributions and the existing Node.js native addons
 
 ## June 13 - July 25
 
-* Implement the loading of the Node.js shared library in the `Zoo-Kernel` and reimplement the existing SpiderMonkey methods using Node N-API. Expose those methods to the JS world.
+* Implement the loading of the Node.js shared library in the `ZOO-Kernel` and reimplement the existing SpiderMonkey methods using Node N-API. Expose those methods to the JS world.
 
 ## July 25 - July 29
 
@@ -62,6 +62,11 @@ Stretch goals:
  - Allow JS services to use `gdal-async` out of the box
  - Reimplement the GDAL profile C++ service in JS as an example
 
-* Add snapshot support to `libnode`
- - Should the time permit, `libnode` could benefit from having the same V8 snapshot support as the Node.js main executable. V8 supports creating and restoring snapshots of a JS heap - this feature is used by Node.js to speed-up the initial loading of the JS class library - instead of compiling it at every process startup, it is compiled and initialized once during the build of the Node.js executable and then the JS heap is saved in a snapshot to be reused when launching Node.js. Currently, this feature is not readily available when using `libnode`. Electron re-implements it on its own. Should the Node.js folks decide to stop being dicks and focus on the software, this will be merged back into the main source tree.
+* Allow services to request to be executed in a single-instance mode by providing an `async` function as entry point
 
+* Add snapshot support to `libnode`
+ - Should the time permit, `libnode` could benefit from having the same V8 snapshot support as the Node.js main executable. V8 supports creating and restoring snapshots of a JS heap - this feature is used by Node.js to speed-up the initial loading of the JS class library - instead of compiling it at every process startup, it is compiled and initialized once during the build of the Node.js executable and then the JS heap is saved in a snapshot to be reused when launching Node.js. Currently, this feature is not readily available when using `libnode`. Electron re-implements it on its own. This is to be submitted for merging back in Node.js.
+
+After September 4
+
+* Phase 2 evaluation
