@@ -1,12 +1,38 @@
 # ZOO-Project GSOC 2022 Proposal by @mmomtchev
 
-## Adding Node.js support for service implementation to be run from the ZOO-kernel
+## Adding Node.js support for service implementation to be run from the ZOO-Kernel
 
 # Abstract
 
 The ZOO-Project is a solid WPS server able to handle services implemented in various different programming languages. The existing `ZOO-Kernel` supports C, C++, and JS implementations with the SpiderMonkey engine. With this project, the objective is to add support for NodeJS implementation of the `ZOO-Kernel`.
 
 Mentors: Gérald Fenoy, Aditi Sawant, Rajat Shinde
+
+# Contributor
+
+Momtchil Momtchev <momtchil@momtchev.com>, France
++33611640937
+https://github.com/mmomtchev
+https://twitter.com/mmomtchev
+https://mmomtchev.medium.com
+
+Graduated from the Université des Sciences et des Technologies de Lille with a French DEA in Computer Science (Master's equivalent)
+
+First time applicant to GSoC
+
+Co-author and current maintainer of the Node.js bindings for GDAL (https://github.com/mmomtchev/node-gdal-async)
+
+Author of the React bindings for OpenLayers (https://github.com/mmomtchev/rlayers)
+
+Author of the Node.js bindings for ExprTk (https://github.com/mmomtchev/exprtk.js)
+
+Occasional Node.js and GDAL contributor
+
+Author of numerous smaller packages and tools (https://www.npmjs.com/~mmomtchev)
+
+# Existing Software
+
+Currently ZOO-Project supports JS services through the embedded version of the SpiderMonkey engine. It is linked as a shared library and every invocation of a service results in a separate instance of the SpiderMonkey engine.
 
 # Proposed Solution
 
@@ -40,6 +66,12 @@ The following alternatives have also been considered:
 
 Rebuilding `libnode` as part of the `ZOO-Project` build system is considered to be out of the scope of the current project - just as the current SpiderMonkey shared library is expected to be provided by the end-user, so will be `libnode` which is already carried by some major Linux distributions - Ubuntu being one of them.
 
+# Testing methodology
+
+`ZOO-Project` already has an existing testing framework which includes the SpiderMonkey services. The new Node.js implementation is to be able to run those services passing the existing SpiderMonkey tests without modifying the services code.
+
+Additionally, an `AddressSanitizer` build, currently absent from `ZOO-Project` is one of the stretch goals of the proposal.
+
 # Proposal Timeline
 
 ## Before June 13
@@ -61,6 +93,7 @@ Stretch goals:
 * Add builtin Node.js GDAL support
  - Allow JS services to use `gdal-async` out of the box
  - Reimplement the GDAL profile C++ service in JS as an example
+ - Create and automate an `AddressSanitizer` build to be run in continuous integration
 
 * Allow services to request to be executed in a single-instance mode by providing an `async` function as entry point
 
