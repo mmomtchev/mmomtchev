@@ -18,6 +18,8 @@ https://mmomtchev.medium.com
 
 Graduated from the Université des Sciences et des Technologies de Lille with a French DEA in Computer Science (Master's equivalent)
 
+Currently unemployed and looking for job in open-source
+
 First time applicant to GSoC
 
 Co-author and current maintainer of the Node.js bindings for GDAL (https://github.com/mmomtchev/node-gdal-async)
