@@ -47,9 +47,13 @@ It is worth noting that the next LTS version of Node.js, Node.js 18 is scheduled
 Node.js supports being built as a shared library since version 12.x. This feature is used by the Electron project which is its main maintainer. It allows the JS runtime to be loaded inside the address space of the calling program and to both call JS functions from the native code and expose native functions to the JS code.
 
 There are several different interfaces available for interacting with the Node.js runtime:
+
 * By calling raw internal V8 and Node.js methods which are usually not stable across different versions
+
 * By using the [NAN C++ API](https://github.com/nodejs/nan) C++ which is stable at the source level across different versions
+
 * By using the [Node C N-API](https://nodejs.org/api/n-api.html) which is stable at the binary level across different versions
+
 * By using the [Node Addon C++ API](https://github.com/nodejs/node-addon-api) which is stable at the binary level across different versions
 
 Of these methods, the Node C N-API seems to be the best suited for ZOO-Project as it is binary stable across different Node.js versions and it does not require C++.
