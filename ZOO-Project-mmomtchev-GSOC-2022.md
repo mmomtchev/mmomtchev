@@ -76,6 +76,8 @@ Additionally, an `AddressSanitizer` build, currently absent from `ZOO-Project` i
 
 # Proposal Timeline
 
+I am fully committed to working on this project during this time period and I am free of any other professional obligations.
+
 ## Before June 13
 
 * To familiarize myself completely with ZOO-Project functionality and architecture.
