@@ -1,4 +1,4 @@
-# ZOO-Project GSOC 2022 Proposal by @mmomtchev
+# ZOO-Project GSoC 2022 Proposal by @mmomtchev
 
 ## Adding Node.js support for service implementation to be run from the ZOO-Kernel
 
@@ -8,7 +8,7 @@ The ZOO-Project is a solid WPS server able to handle services implemented in var
 
 Mentors: Gérald Fenoy, Aditi Sawant, Rajat Shinde
 
-# Contributor
+# Contributor Personal Details
 
 Momtchil Momtchev <momtchil@momtchev.com>, France
 +33611640937
@@ -30,6 +30,8 @@ Occasional Node.js and GDAL contributor
 
 Author of numerous smaller packages and tools (https://www.npmjs.com/~mmomtchev)
 
+Expert C/C++ and JS/TS engineer with Linux, macOS and Windows experience
+
 # Existing Software
 
 Currently ZOO-Project supports JS services through the embedded version of the SpiderMonkey engine. It is linked as a shared library and every invocation of a service results in a separate instance of the SpiderMonkey engine.
@@ -38,7 +40,7 @@ Currently ZOO-Project supports JS services through the embedded version of the S
 
 The current latest LTS version of Node.js, Node.js 16.x, is to be embedded in the `ZOO-Kernel` executable following the same architecture as SpiderMonkey.
 
-It is worth noting that the next LTS version of Node.js, Node.js 18 is scheduled to be released during the GSOC timeline. As this version is not expected to replace the 16.x as recommended version until October 2022, it is believed that Node.js 16.x remains the safer choice.
+It is worth noting that the next LTS version of Node.js, Node.js 18 is scheduled to be released during the GSoC timeline. As this version is not expected to replace the 16.x as recommended version until October 2022, it is believed that Node.js 16.x remains the safer choice.
 
 Node.js supports being built as a shared library since version 12.x. This feature is used by the Electron project which is its main maintainer. It allows the JS runtime to be loaded inside the address space of the calling program and to both call JS functions from the native code and expose native functions to the JS code.
 
@@ -81,25 +83,51 @@ Additionally, an `AddressSanitizer` build, currently absent from `ZOO-Project` i
 
 ## June 13 - July 25
 
-* Implement the loading of the Node.js shared library in the `ZOO-Kernel` and reimplement the existing SpiderMonkey methods using Node N-API. Expose those methods to the JS world.
+### June 13 - June 17
+ - Implement the creation of the `libnode` context in `service_internal_nodejs.c` to be called from `zoo_service_loader.c:loadServiceAndRun()`
+ - Include `libnode` in the `ZOO-Kernel` build and link against it in the official Dockerfile
+ - Use a dummy static JS method
+
+### June 20 - June 24
+ - Test building with the versions included Ubuntu, Debian, CentOS and Fedora
+
+### June 27 - July 1
+ - Implement `ZOORequest`, `ZOOTranslate`, `ZOOUpdateStatus` and `alert` using Node N-API
+
+### July 4 - July 8
+ - Implement the object and the array transforms using Node N-API
+
+### July 11 - July 15
+ - Load the existing 3rd party code - mostly `proj4js` into the environment
+
+### July 18 - July 22
+ - Spare week for testing and debugging
 
 ## July 25 - July 29
 
-* Phase 1 evaluation
+* Phase 1 evaluation: the existing SpiderMonkey unit tests should be passing on Node.js at this point
 
 ## July 29 - September 4
 
-Stretch goals:
-* Add builtin Node.js GDAL support
+Stretch goals
+
+### August 1 - August 5
+ - Add builtin Node.js GDAL support 
  - Allow JS services to use `gdal-async` out of the box
  - Reimplement the GDAL profile C++ service in JS as an example
+
+### August 8 - August 12
  - Create and automate an `AddressSanitizer` build to be run in continuous integration
 
-* Allow services to request to be executed in a single-instance mode by providing an `async` function as entry point
+### August 15 - August 19
+ - Allow services to request to be executed in a single-instance mode by providing an `async` function as entry point
 
-* Add snapshot support to `libnode`
- - Should the time permit, `libnode` could benefit from having the same V8 snapshot support as the Node.js main executable. V8 supports creating and restoring snapshots of a JS heap - this feature is used by Node.js to speed-up the initial loading of the JS class library - instead of compiling it at every process startup, it is compiled and initialized once during the build of the Node.js executable and then the JS heap is saved in a snapshot to be reused when launching Node.js. Currently, this feature is not readily available when using `libnode`. Electron re-implements it on its own. This is to be submitted for merging back in Node.js.
+### August 22 - August 26
+ - Add snapshot support to `libnode` - it could benefit from having the same V8 snapshot support as the Node.js main executable. V8 supports creating and restoring snapshots of a JS heap - this feature is used by Node.js to speed-up the initial loading of the JS class library - instead of compiling it at every process startup, it is compiled and initialized once during the build of the Node.js executable and then the JS heap is saved in a snapshot to be reused when launching Node.js. Currently, this feature is not readily available when using `libnode`. Electron re-implements it on its own. This is to be submitted for merging back in Node.js.
 
-After September 4
+### August 29 - September 2
+ - Spare week for testing and debugging
+
+## After September 4
 
 * Phase 2 evaluation
