@@ -17,6 +17,8 @@ Putin is not a Russian internal affair anymore.
 
 I am currently unemployed because I am suing a big French company over a rather ugly and remarkably embarrassing sexual harassment affair and they are currently openly extorting me with the help of the French IT recruiters to abstain from further lawsuits - and to never mention again what happened - *yes, this is totally possible in France, and no, the French Tech is not very competitive on the global markets*.
 
+*And before someone asks - I will not take up any job offer as part of a settlement of this affair. I believe in hard work and the only type of job offers I am willing to consider is skilled work in exchange for payment.*
+
 Until the situation is resolved, I am working on various open-source projects and I am available for consulting work - or long-term commitment for interesting projects. I have a rather broad skill set:
 * Everyday languages: C++ / JavaScript / TypeScript
 * My main area of expertise at the moment is Node.js C++ addons and V8
