@@ -1,34 +1,18 @@
-[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
 
-# Because overthrowing an entrenched dictator is difficult
-[![](https://img.shields.io/badge/%23IStandWithRussia-againstPutin-critical)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/ToRussianPeople.md)
+* C / C++ / JavaScript / TypeScript
+* Node.js / V8 internals
+* GIS, Spatial Algorithms, HPC, Scientific and Parallel Computing, Numerical Weather Prediction
+* React / React Native
+* Linux, FreeBSD and OpenBSD kernel experience, especially TCP/IP stacks
 
-Throughout history, there are but a handful of examples when an entrenched dictator was brought down by popular uprising - and it always involved extreme hunger and bloodshed.
+I am currently unemployed because a cartel of French IT companies is extorting me over a remarkably ugly sexual harassment affair organized with the help of the French Judicial system in order to cover up the very embarrassing problem of one person. Recently, some YCombinator startups have indicated that they are willing to back up the extortion. I am offered a job on the condition that I accept further sexual harassment and do so without telling anyone about it so that the official version of those events can stay. The affair is absolutely huge because of the involvement of a large number of French companies with more than 1B€ annual turnover, a good number of persons with Wikipedia pages - both in French business and French politics, the French public administration and the French police. Recently, several very large US companies (more than $1B annual), where obviously such deals are not a problem - have also extended me job offers which included sexual harassment - something they made obvious during the recruitment process. I am totally unwilling to prostitute myself - I have an university degree and a very good and sought up skill set and I fully intend to continue working in IT.
 
-As we are gradually completely overcoming hunger in our modern society, toppling a totalitarian regime becomes more and more difficult.
+Should you find any of my skills useful to your company - a company not interested in fixing sexually-motivated criminal affairs in the French Judicial system - I will be more than willing to talk to you. Since my ex-boss is usually offering to sell me under my level in exchange for sexual harassment - I am extending the same deal to every company unwilling to take part in this.
 
-It takes more than moral ethics to stand up against violent repression.
+Currently I am living on social welfare with a few bucks per day and the people behind the extortion are sending me, in between the sexual content, advertisements for food. 
 
-This is why I want to remind everyone that in this difficult moment, just as Ukraine needs your help against the Russian army, so does the average Russian protester against Putin.
-
-Putin is not a Russian internal affair anymore.
-
----
-
-I am currently unemployed because I am suing a big French company over a rather ugly and remarkably embarrassing sexual harassment affair and they are currently openly extorting me with the help of the French IT recruiters to abstain from further lawsuits - and to never mention again what happened - *yes, this is totally possible in France, and no, the French Tech is not very competitive on the global markets*.
-
-*And before someone asks - I will not take up any job offer as part of a settlement of this affair. I believe in hard work and the only type of job offers I am willing to consider is skilled work in exchange for payment.*
-
-Until the situation is resolved, I am working on various open-source projects and I am available for consulting work - or long-term commitment for interesting projects. I have a rather broad skill set:
-* Everyday languages: C++ / JavaScript / TypeScript
-* My main area of expertise at the moment is Node.js C++ addons and V8
-* GIS, spatial algorithms, HPC, parallel computing
-* Linux, FreeBSD and OpenBSD kernel experience, especially the TCP/IP stacks
-* Some React and front-end experience
-
-At the moment I am working mostly on [jeetah](https://github.com/mmomtchev/jeetah), an optimizing compiler for mathematical expressions in JavaScript.
-
-You can check:
+My projects:
 
 * [node-gdal-async](https://github.com/mmomtchev/node-gdal-async) - I am actively developing the GDAL bindings for Node.js which used to be abandoned by its creator
   - [ndarray-gdal](https://github.com/mmomtchev/ndarray-gdal) is the [scijs](https://github.com/scijs/ndarray) plugin
@@ -64,4 +48,4 @@ I am an active member of the French Paragliding and Hang-gliding Federation <htt
 
 *Vous pouvez également lire mon introduction rapide à la thermodynamique appliquée au vol libre et le vol à voile ici: [THERMODYNAMIQUE.md](https://github.com/mmomtchev/velivole/blob/main/THERMODYNAMIQUE.md).*
 
-*There is also an English version of my introduction to the basic concepts of Thermodynamics for soaring flight here: [THERMODYNAMICS.md](https://github.com/mmomtchev/velivole/blob/main/THERMODYNAMICS.md).*
+*There is also an English version of my introduction to the basic concepts of Thermodynamics for Soaring Flight here: [THERMODYNAMICS.md](https://github.com/mmomtchev/velivole/blob/main/THERMODYNAMICS.md).*
