@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="libnode-after.svg"
+   inkscape:export-filename="/home/mmom/src/mmomtchev/GSoC 2022/libnode-after.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="211.59158"
+     inkscape:cy="845.71429"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g4638"
+     showgrid="false"
+     inkscape:window-width="1848"
+     inkscape:window-height="1136"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#008080;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+       id="rect10"
+       width="78.997025"
+       height="66.901787"
+       x="10.583332"
+       y="31.849695" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="15.497023"
+       y="42.999996"
+       id="text14"><tspan
+         sodipodi:role="line"
+         id="tspan12"
+         x="15.497023"
+         y="42.999996"
+         style="stroke-width:0.26458332">libnode</tspan></text>
+    <g
+       id="g4664">
+      <g
+         id="g4654">
+        <rect
+           style="fill:#008080;stroke:#000000;stroke-width:0.21061966;stroke-opacity:1"
+           id="rect16"
+           width="41.253368"
+           height="40.875389"
+           x="18.142859"
+           y="52.017471" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="32.103283"
+           y="76.30764"
+           id="text4528"><tspan
+             sodipodi:role="line"
+             id="tspan4526"
+             x="32.103283"
+             y="76.30764"
+             style="stroke-width:0.26458332">V8</tspan></text>
+      </g>
+      <g
+         id="g4649">
+        <rect
+           style="fill:#008080;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+           id="rect4591"
+           width="22.246632"
+           height="40.875381"
+           x="59.396225"
+           y="52.017471" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:tb-rl;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="69.411079"
+           y="58.215721"
+           id="text4595"><tspan
+             sodipodi:role="line"
+             id="tspan4593"
+             x="58.215721"
+             y="69.411079"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:tb-rl;text-anchor:start;stroke-width:0.26458332">N-API</tspan></text>
+      </g>
+    </g>
+    <rect
+       style="fill:#008080;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+       id="rect10-6"
+       width="78.997025"
+       height="66.901787"
+       x="127.18898"
+       y="31.849695" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="129.64583"
+       y="42.999996"
+       id="text4550"><tspan
+         sodipodi:role="line"
+         id="tspan4548"
+         x="129.64583"
+         y="42.999996"
+         style="stroke-width:0.26458332">C++ Caller</tspan></text>
+    <g
+       id="g4638"
+       transform="translate(17.008929,1.1069362)">
+      <rect
+         y="50.910522"
+         x="141.90308"
+         height="40.875389"
+         width="41.253368"
+         id="rect16-3"
+         style="fill:#008080;stroke:#000000;stroke-width:0.21061966;stroke-opacity:1" />
+      <text
+         id="text4542"
+         y="68.679131"
+         x="145.63673"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan4544"
+           style="stroke-width:0.26458332"
+           y="68.679131"
+           x="145.63673"
+           sodipodi:role="line">C++</tspan><tspan
+           style="stroke-width:0.26458332"
+           y="81.908295"
+           x="145.63673"
+           sodipodi:role="line"
+           id="tspan5025">code</tspan></text>
+    </g>
+    <g
+       id="g4644"
+       transform="translate(17.008929,1.1069362)">
+      <rect
+         y="50.91053"
+         x="119.65645"
+         height="40.875385"
+         width="22.246632"
+         id="rect4591-9"
+         style="fill:#008080;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1" />
+      <text
+         id="text4595-4"
+         y="53.341053"
+         x="133.35739"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:tb-rl;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           y="133.35739"
+           x="53.341053"
+           id="tspan4630"
+           sodipodi:role="line">node-addon-api</tspan><tspan
+           y="128.06572"
+           x="53.341053"
+           id="tspan4632"
+           sodipodi:role="line">(C++ templates)</tspan></text>
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26207659px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 81.759247,72.671152 54.879103,-0.37802"
+       id="path4708"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="107.9122"
+       y="70.025299"
+       id="text4714"><tspan
+         sodipodi:role="line"
+         id="tspan4712"
+         x="107.9122"
+         y="70.025299"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332">plain C</tspan><tspan
+         sodipodi:role="line"
+         x="107.9122"
+         y="80.608635"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan4716">ABI</tspan></text>
+  </g>
+</svg>
