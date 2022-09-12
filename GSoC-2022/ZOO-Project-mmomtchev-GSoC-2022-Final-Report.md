@@ -151,6 +151,8 @@ N-API embedding `libnode` has a very great potential because it allows for very 
 
 *(An example for calling `axios.get` from C++)*
 
+**The program resulting from compiling this code will be a very small binary executable, that will be dynamically linked with the 80Mb (on Linux) `libnode.so` shared library and it will require the presence of a `node_modules/axios` and all of its dependencies in the same directory as the executable.**
+
 ### Using `libnode` to implement support of JS plugins in C++ code
 
 The full documentation for using N-API embedding `libnode` has been integrated in the Node.js documentation in the `napi-libnode` branch:
