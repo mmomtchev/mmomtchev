@@ -1,4 +1,4 @@
-# ZOO-Project GSoC 2022 Proposal by @mmomtchev
+# ZOO-Project GSoC 2022 Final Report by @mmomtchev
 
 ### Adding Node.js support for service implementation to be run from the ZOO-Kernel
 
