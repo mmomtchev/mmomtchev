@@ -18,9 +18,13 @@ Ubuntu and Debian already provide Node.js and libnode packages. These are howeve
 
 ![Current libnode](https://raw.githubusercontent.com/mmomtchev/mmomtchev/master/GSoC-2022/libnode-before.png)
 
+*(The current state of libnode)*
+
 An issue, with 14 hearts, on the Node.js tracker, proposes an alternative libnode API, built upon the binary stable N-API used for native addons: <https://github.com/nodejs/node/issues/23265>.
 
 ![Current N-API](https://raw.githubusercontent.com/mmomtchev/mmomtchev/master/GSoC-2022/native-addon.png)
+
+*(An overview of the excellent and very successful `N-API` and `node-addon-api`)*
 
 Very early in this project, it became clear that instead of developing the ZOO-Project support around a very specific Node.js/V8 version, that was to be included in the source distribution, it was much more future proof to develop an abstraction layer, and then, in the spirit of the GSoC program, to contribute it back to the open source community.
 
@@ -28,9 +32,11 @@ Very early in this project, it became clear that instead of developing the ZOO-P
 
 Node.js provides an excellent stable ABI for creating native addons. It is a second-generation API - replacing the previous NAN (*Native Abstractions for Node.js*) - and it is the result of the very significant experience of the Node.js developers in the field of distributing binary addons for a JavaScript runtime. It allows a third party to compile and then to distribute a single binary per supported platform that will be compatible with all future Node.js versions. This magic takes place behind the scenes and allows the average user to simply type `npm install pkg` and to retrieve binary code, in addition to the JS library, that will simply work on its platform. The ABI has even full C++ support that avoids any compiler runtime conflicts by being entirely implemented as C++ templates to be built with the addon. These templates reduce the C++ API to plain C calls using N-API across the linking border of the shared library for maximum compatibility. This C++ API is called `node-addon-api` and it is a separate project from Node.js itself.
 
-This ABI provides stable abstractions for calling and being called from JS code, decoding JS objects and interacting with the garbage collector and the different worker threads (V8 isolates) which are not transparent from the viewpoint of the C++ code. V8 isolates are represented by an opaque reference, called a Node.js environment, that is passed to every N-API method.
+This ABI provides stable abstractions for calling and being called from JS code, decoding JS objects and interacting with the garbage collector and the different worker threads (V8 isolates) which are not transparent from the viewpoint of the C++ code. V8 isolates are represented by an opaque reference, called a Node.js environment, that is passed to every N-API method. It is this reference to a Node.js environment that is used to provide an alternative implementation that allows speaking to an embedded Node.js instance instead of the calling Node.js instance.
 
 ![New libnode](https://raw.githubusercontent.com/mmomtchev/mmomtchev/master/GSoC-2022/libnode-after.png)
+
+*(Turning `N-API` and `node-addon-api` inside-out)*
 
 ### The Platform Environment
 
@@ -142,6 +148,8 @@ N-API embedding `libnode` has a very great potential because it allows for very 
 ## Documentation
 
 ![illustration](https://raw.githubusercontent.com/mmomtchev/mmomtchev/master/GSoC-2022/gsoc-2022.png)
+
+*(An example for calling `axios.get` from C++)*
 
 ### Using `libnode` to implement support of JS plugins in C++ code
 
