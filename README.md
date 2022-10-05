@@ -31,6 +31,7 @@ My projects:
 * [documentation-polyglot](https://github.com/mmomtchev/documentation-polyglot) - a plugin that adds *C++* support to `documentation.js` via the new plugin framework that I am currently making
 * [documentation-hipster](https://github.com/mmomtchev/documentation-hipster) - is a beautiful `documentation.js` Bootstrap-based theme with support for TypeScript and React components - one of its goals is to provide an almost drop-in replacement for the seemingly dying [react-styleguidist](https://react-styleguidist.js.org/) project
 * [igc-xc-score](https://github.com/mmomtchev/igc-xc-score) - an open-source solution for scoring paragliding XC competitions - which is a very interesting linear optimization problem with a *O(n^5)* worst case complexity
+* [XC-DB](https://github.com/mmomtchev/xc-db) - an open-source interactive browser for paragliding flight tracks implemented in React, Redux and rlayers for the front-end and Node.js, Express, gdal-async and ndarray for the back-end
 * [@mmomtchev/expo-android-localized-app-name](https://github.com/mmomtchev/expo-android-localized-app-name) - an [expo](https://expo.dev) plugin for having a localized app name in managed React Native workflows
 * [velitherm](https://github.com/mmomtchev/velitherm) - an open-source library of basic thermodynamics equations used in soaring weather
   - [velitherm-visu](https://github.com/mmomtchev/velitherm-visu) - is an online air parcel calculator in React that uses the library
