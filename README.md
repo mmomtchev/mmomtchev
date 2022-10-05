@@ -4,13 +4,17 @@
 * Node.js / V8 internals
 * GIS, Spatial Algorithms, HPC, Scientific and Parallel Computing, Numerical Weather Prediction
 * React / React Native
-* Linux, FreeBSD and OpenBSD kernel experience, especially TCP/IP stacks
+* Linux, FreeBSD and OpenBSD kernel experience, especially the TCP/IP stacks and device drivers
 
-I am currently unemployed because a cartel of French IT companies is extorting me over a remarkably ugly sexual harassment affair organized with the help of the French Judicial system in order to cover up the very embarrassing problem of one person. Recently, some YCombinator startups have indicated that they are willing to back up the extortion. I am offered a job on the condition that I accept further sexual harassment and do so without telling anyone about it so that the official version of those events can stay. The affair is absolutely huge because of the involvement of a large number of French companies with more than 1B€ annual turnover, a good number of persons with Wikipedia pages - both in French business and French politics, the French public administration and the French police. Recently, several very large US companies (more than $1B annual), where obviously such deals are not a problem - have also extended me job offers which included sexual harassment - something they made obvious during the recruitment process. I am totally unwilling to prostitute myself - I have an university degree and a very good and sought up skill set and I fully intend to continue working in IT.
+I am an unemployed engineer that has been living on social welfare for the last 3 years. I am writing open-source software both as a pass-time and also to raise awareness about my situation - I am currently being extorted by a cartel of French IT companies over a remarkably ugly sexual harassment affaire organized with the help of the Judicial system in order to cover up the very embarrassing problem of one person.
+
+The affair is absolutely huge because of the involvement of a large number of French companies with more than 1B€ annual turnover, a good number of persons with Wikipedia pages - both in French business and French politics, the French public administration and the French police. Recently, several very large US companies (more than $1B annual), where obviously such deals are not a problem - have also extended me job offers which included sexual harassment - something they made obvious during the recruitment process. I am totally unwilling to prostitute myself - I have an university degree and a very good and sought up skill set and I fully intend to continue working in IT.
 
 Should you find any of my skills useful to your company - a company not interested in fixing sexually-motivated criminal affairs in the French Judicial system - I will be more than willing to talk to you. Since my ex-boss is usually offering to sell me under my level in exchange for sexual harassment - I am extending the same deal to every company unwilling to take part in this.
 
-Currently I am living on social welfare with a few bucks per day and the people behind the extortion are sending me, in between the sexual content, advertisements for food. 
+**I am the kind of guy who chose to live in extreme poverty in order to be able to have a real job instead of a make-believe position in a company willing to cover up this affair. You will never find a better deal on the IT job market.**
+
+Currently I am living with a few bucks per day and the people behind the extortion are sending me, in between the sexual content, advertisements for food. 
 
 My projects:
 
