@@ -36,6 +36,8 @@ Bobigny 1 et Bobigny 2 sont deux des procédures judiciaires les plus extraordin
 
 ## Saison 1 - Petits viols entre amis
 
+**( Acteurs: La baguette magique, la Police Judiciaire, grandes entreprises françaises, les petits violeurs et pas loin de 30 femmes ayant un problème, dont 3 (prétendues) violées )**
+
 Comme Paris 1, 2 et 3 servent d'introduction de ma plaidoirie lors de Bobigny 2, il faudra déjà expliquer ce qui s'est passer lors de ces quelques procédures absolument extraordinaires
 
 Il y a presque 15 ans maintenant, suite à un désaccord portant essentiellement sur le poste et le salaire, un PDG, grand maître des techniques machiavéliques en negotiation, annonce que celui qui court après l'argent, a forcément un problème relationnel avec les femmes
@@ -224,6 +226,8 @@ Les petits viols entre amis sont finis
 
 ## Saison 2 - La Pénissophrénie paranoïaque
 
+**( Acteurs: La baguette magique, des magistrats de justice, le Barreau de Paris, grandes entreprises françaises, banques, opérateurs télécom, la FFVL et la communauté de parapente, une agence de sécurité d'un immeuble résidentiel, la Médecine du Travail, quelques hôpitaux parisiens, quelques pharmacies clandestines en ligne vendant de la Viagra, un centre d'appel officiel prétendant d'être une pharmacie clandestine, quelques expert-comptables, le Défenseur des Droits, quelques dealers de cocaïne, RAVAD, la Cour Européenne des Droits de l'Homme, le Conseil d'Europe et pas loin de 1000 petites bites dans toutes les couches de la société et dans plusieurs pays européens )**
+
 Lors de la deuxième saison, La Pénissophrénie Paranoïaque, on va toujours rire - mais cette fois-ci pas avec tout le monde
 Dans la première il y avait déjà un peu de psychologie, cette fois-ci il y aura de la vraie psychiatrie, on va parler de Freud et de Jawad Bendaoud
 
@@ -337,3 +341,21 @@ Moi je suis un personnage compliqué, je crois qu'on doit aider un idiot, mais q
 (ma façon de penser est également validée par le dilemme du prisonnier itéré)
 
 Mon tout dernier message sera une image avec un meme Internet - un trousseau de clés avec un porte-bonheur - un godemichet miniature - et un message: "J'ai trouvé ces clés perdus, je ne veux pas de récompense, je veux juste voir le propriétaire"
+
+-----
+
+Juste avant cet épisode, les premières tentatives de se renseigner sur comment je suis avec les femmes au boulot commencent - je sens que la façon dont la première saison a été présentée est à la limite de la calomnie pénale
+
+La collection porno est de retour - c'est à partir de ce moment que @free va commencer à fournir mes relevés d'appels sur mon portable et ma ligne fixe chez moi - @ovh va fournir une copie de mon serveur - on ne sait jamais, j'ai peut-être caché mon porno chez eux
+
+On va se rapprocher également de la société de gardiennage de mon immeuble et de quelques voisins - on ne sait jamais - peut-être qu'ils ont vu quelque chose
+Le gardien distribue le courrier, c'est encore mieux
+Ma banque, @LaBanquePostale, accepte également de "rendre service"
+
+Il faut savoir que quand on cherche les faiblesses sexuelles de quelqu'un dans les milieux de la nuit, c'est certainement glauque, mais on n'a pas l'air complètement ridicule
+Au boulot, c'est bien plus difficile
+
+Surtout qu'ici c'est Orange Business Services, ce n'est pas le Milieu marseillais ou Marc Dorcel - et vu les conversations que certains pauvres âmes sont amenés à mener - ça commence de sauter aux yeux
+
+Quelques âmes sensibles, adeptes de la théorie de la baguette magique, décident de me défendre....
+Le spectacle vient de commencer...
