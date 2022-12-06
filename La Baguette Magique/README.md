@@ -359,3 +359,262 @@ Surtout qu'ici c'est Orange Business Services, ce n'est pas le Milieu marseillai
 
 Quelques âmes sensibles, adeptes de la théorie de la baguette magique, décident de me défendre....
 Le spectacle vient de commencer...
+
+-----
+
+A cette époque, je fais beaucoup de voile, l'année de Paris 3 est également l'année où je début le parapente
+
+Après quelques petits couacs, les Glénans vont faire preuve de maturité et responsabilité, et vont refuser de participer dans l'opération
+
+Je vais continuer à faire un peu de navigation - en location privée - avec des gens que j'ai rencontrés là-bas jusqu'au début de la pénissophrénie de masse - c'est le seul endroit où il ne se passera plus rien
+
+Mon premier moniteur de parapente va tenter d’enquêter un peu sur comment je suis avec les femmes dès mon tout premier stage de pente-école - initialement il va laisser tomber
+
+Il n'est pas clair si on considère l'opération en Bulgarie un succès ou non - et sur quels critères on doit mesurer son succès - longueur ou diamètre - ok je sors...
+
+Mais cette opération servira de modèle de bien d'autres : on propose de l'argent facile à une première personne qui ne m'a jamais rencontré - on lui promets que se passera bien - ensuite on lui demande des bites faciles - il faut qu'il joue avec tous ses amis
+
+C'est en 2013 que les tout premiers bites en dehors de la première opération commencent - initialement on utilise tout les participants de la première saison qui menaient l'enquête sur ma vie sexuelle
+
+Au début, le but c'est de m'embarrasser moi - histoire que j'arrête de poser des questions sur cette histoire - enfin de compte on va chercher à embarrasser tout le monde pour qu'on n'en parle plus
+
+-----
+
+Il faut savoir que tout au début de cette affaire - lors des négoces sur le salaire et les questions sur l'argent et les femmes, mon grand directeur s'était servi de mon ordinateur personnel pour consulter ma messagerie Facebook - afin de pouvoir mieux argumenter sa position
+
+Ensuite, afin qu'il puisse faire marche arrière, il a décidé de me convaincre que j'imaginais des choses - en faisant semblant de mentionner ce qu'il avait vu - puis de nier - jeu auquel je le reconnais en leader mondial
+
+Ensuite, il a organisé la même choses dans les boîtes suivantes où j'ai été - histoire de pouvoir affirmer, "qu'en fin de compte, rien de grave, toutes les boîtes font ça..."
+
+Du coup, juste avant le premier épisode pénissophrénique, un gars du groupe m'appelle - je connaissais la plupart des gens, mais pas lui - et il me parle de contrats de sous-traitance Web en Bulgarie
+....
+premier voyant rouge
+....
+
+Il est exceptionnellement imprudent (parce qu'il y a deux types d'hommes et moi je ne fais pas partie du bon groupe) et j'arrive d'obtenir le nom de la boîte ici en France qui a envoyé un bon de commande chez lui - un des leaders de la compta en ligne en France
+
+Ensuite, il essaye de me convaincre qu'il faut mieux bosser avec lui parce que chez Orange Business Services ils ont piraté mon VPN et consultent ma messagerie - quand même - je rappelle - on ne se connait pas jusqu'au ce moment - là c'est pas un voyant, c'est carrément la sirène d'alarme
+
+C'est lui qui va organiser le premier épisode de pénissophrénie trois semaines plus tard
+La boîte de compta est financée par un fond d'investissement - elle vont brièvement réapparaître pendant la saison 3 - on se demande si le fond est au courant de l'opération "Long Pénis 1"
+
+-----
+
+Donc, la pénissoprhénie de masse commence en 2013 -essentiellement organisée par des gens qui n'ont plus rien à perdre - ils doivent s'expliquer sur l'enquête sur ma vie sexuelle, dans le cadre d'une procédure judiciaire, et qui est présentée comme étant menée par ma famille
+
+Ceci est le premier jeu à plusieurs étages :
+* Les "enquêteurs" croient que je ne vais plus jamais parler de l'affaire
+* En réalité, il s'agit une démonstration de force
+On est très fier, on a inventé un jeu qui ne se retourne pas...
+Ah, il y aura des conséquences?
+
+Pour que ça dure le plus longtemps possible, on assure une très bonne rotation: entre des amis bulgares, mes camarades de classe de la maternelle que je n'avais pas vu depuis 30 ans qui vont tous me rajouter sur Facebook pour mettre des bites, amis de la fac...
+
+Mais aussi contacts professionnels, voisins, amis d'amis, groupes de jeu en ligne...
+Généralement j'essaye de discuter quand je crois qu'il y a des chances de faire qqchose
+Tout le monde - tout le monde sans exception - ne réagit pas quand je parle de Paris 3
+
+Tout le monde croit à la théorie de la baguette magique
+
+Initialement, on fait très attention, et on finit par faire une dernière tentative à me convaincre qu'il s'agit d'une psychose - avec une ex qui sort de nul part
+Je lui demande si elle se rends compte de la gravité de son acte
+Apparemment oui, elle est gênée...
+
+Sur mon lieu de travail, les tout premiers évènements sans retour en arrière commencent - mon sac est fouillé de façon à démontrer que la personne était au courant de l'existance d'une poche avec des préservatifs
+
+Les situations sont tellement embarrassantes que pratiquement personne n'est capable de continuer la conversation après l'échange de 3 phrases - même à distance, même sur Facebook, même par écrit - généralement la seule réponse reste la silence
+
+(généralement, ça se passe à chaque fois comme les échanges avec Steam que je vous propose de voir en direct)
+
+-----
+
+Comme il s'agit d'un jeu irrationnel qui est en plus organisé par un ami - la plupart des gens ne se rendent pas compte avant qu'il soit trop tard
+Pendant la période initiale j'aurais droit à des bites quotidiennes - essentiellement sur Facebook - pendant presque 2 ans
+
+On assure une rotation parfaite, la même personne le fait une fois tous les 6 à 9 mois, au total plus de 500 personnes vont participer dans cette phase - jusqu'au épuisement des gens qui me connaissent
+
+Lors des fête de fin d'année en 2014 j'aurais droit à des bites avec une déco de Noël...
+
+Comme le jeu ne permet aucun retour en arrière - et il est organisé avec la promesse de pouvoir tout arranger - à ce moment la situation commence à être dramatique
+
+Les seuls deux endroits où je vois encore des gens sont désormais mon lieu de travail et le monde du parapente
+
+Brièvement, il y aura une opportunité dans les hôpitaux de Paris - après un accident en 2014, je subis deux opérations du genou et je passe plusieurs mois en centre de rééducation pour réapprendre à marcher
+
+On va tenter d'organiser quelque chose, mais ça ne sera pas très réussi - le milieu est tel que je vois beaucoup de monde - je passe de médecin à médecin - d'infirmière à infirmière - le jeu marche très mal dans cette situation
+
+(je crois que cette fois ci il faudra faire un épisode avec le point de vue du narrateur à mi-saison)
+
+-----
+
+Comme globalement la pénissophrénie est une vengeance/égalisation du score habillée en chantage/manipulation, elle est très difficile à analyser puisqu'il s'agit d'un acte irrationnel
+
+Cependant on peut quand même distinguer plusieurs phases - au début, quand on espère de me convaincre qu'il s'agit d'une psychose - et la deuxième partie - quand on espère qu'on va m'embarrasser pour me faire taire - afin qu'on puisse donner une explication de l'affaire
+
+C'est exactement dans ce but qu'on va refaire ce qui n'a pas marché le premier coup, une deuxième fois - on espère que si les participants ne sont pas des amis, ils pourront aller bien plus loin - et peut-être que cette fois-ci ça va passer
+
+A cette époque @BlaBlaCar fournit mes déplacements, @free également commencent de fournir, en plus des appels, la géolocalisation, la banque fournit les dépenses - le but c'est de pouvoir refaire la même chose partout où j'y vais
+
+Le seul endroit où c'est relativement réussi c'est sur mon lieu de travail - l'existance de liens hiérarchiques permet de pouvoir faire ce qu'on veut - et d'ordonner une version officielle
+
+Dans les écoles de parapente c'est bien plus difficile - la relation entre moniteur et élèves ne porte pas autant d'autorité
+On le fait quand même - mais la plupart du temps le moniteur n'est même pas capable de cacher à quel point il est embarrassé
+
+C'est l'année où je me mets à la gyroroue - le magasin où je l'achète organise des randoroues le soir pour les gens qui veulent en pratiquer - j'y vais deux fois - lors de la deuxième fois il y a déjà des bites dans le groupe whatsapp...
+
+Cependant, le faire de cette façon, c'est beaucoup plus difficile - le rythme de plusieurs fois par jour est impensable et on va vite se rendre compte que même une fois par semaine, au boulot, ça risque d'être difficile
+
+Surtout qu'on va découvrir le principe du pendule - plus on le retient, plus il a de la force quand ça revient - au boulot c'est pour la première fois que ça se passe en direct et non pas sur un réseau social - la honte est telle que je ne peux plus travailler en équipe
+
+De plus, il y aura un évènement très significatif qui va marquer un changement profond - cette saison sera en deux parties - je vais progressivement développer un effet psychosomatique - comme des fourmillements - sur la prononciation de certains mots
+
+Initialement, cet effet se manifestera uniquement sur mon lieu de travail - le seul endroit où je vois les gens qui participent au jeu
+(c'est aussi le cas dans le monde du parapente - mais là - on ne se voit plus après un stage)
+
+Est-ce qu'on peut faire pire qu'une telle catastrophe? Mes collègues sont en train de découvrir qu'on peut toujours faire pire...
+
+-----
+
+Avant la rétrospective à la mi-saison, on va terminer cette partie avec un peu de Freud comme j'avais promis - on va parler de la logique du chaudron qui est tellement omniprésente dans cette affaire
+
+Mais avant ça, il faut mentionner le tout dernier jeu qui va avoir lieu - "Je suis le plus fort"
+Juste avant que la pluie de bites et de viagra dans le monde de parapente commencent, le roi va procéder à une démonstration de force
+
+Il devient sponsor officiel de certaines activités dans le monde du parapente - quelque chose qu'on va immédiatement me faire savoir - et ensuite la FFVL fournit mon mot de passe pour l'intranet de la fédé qui est utilisé au boulot pour accéder à mon compte Spotify
+
+C'était à cette époque que j'ai été obligé d'acheter un générateur de mot de passe que j'utilise encore - 
+@lastpass - on va les voir dans la saison 3 avec @dropbox - mais ça sera plus tard
+
+Avec ça, la triade des jeux est complète - suivant la logique du chaudron troué:
+* Les bites n'existent pas
+* Si tu n'avais pas de problèmes, ça n'allait pas te gêner
+* Je suis le plus fort et je peux faire ça en toute impunité
+
+Hier on a oublié la petite chanson publicitaire : tralala, tralala, 
+@commejaime, j'aime bien, on aime, tralala, tralala, 
+@commejaime pour tous vos besoins de chantage, tralala
+
+(pour ceux qui n'ont pas compris - @commejaime envoyaient un SMS par jour pour montrer qu'ils font partie du chantage et depuis ils envoient un SMS par semaine pour montrer que c'était par hasard)
+
+-----
+
+Donc, qu'est-ce qui se passe dans ma tête pendant que l'affaire commence à monter dans les tours devant un public de plus en plus conséquent où il va être carrément plus difficile de tout couvrir
+
+A l'époque, Orange Business Services me paraissait la planque idéale - j'étais d'avis qu'il n'était pas possible de jouer une affaire pareille - surtout pas sur le fond d'une procédure judiciaire tout à fait exceptionnelle
+
+J'étais également d'avis qu'il n'était pas possible de couvrir une telle affaire devant les tribunaux et ensuite d'embarquer dedans l'ensemble du Barreau de Paris sans aucune conséquence
+
+Pendant cette époque, à chaque instant, j'étais convaincu qu'on allait chercher une solution à l'amiable - et pendant longtemps je ne comprenais pas le problème - puisque cette stratégie était clairement la meilleure stratégie possible pour mon employeurs et pour les avocats
+
+Quant aux petits viols - ils n'avaient plus aucune importance - moi je n'allais plus jamais voir ces gens - et ceci peu importe la façon dont la partie criminelle allait se finir
+
+Quant à ma famille, j'étais d'avis qu'ils n'avaient pas le choix, à part d'avoir à s'expliquer un jour
+J'ai aussi - correctement - compris que tout le monde qui avait joué dans la pénissophrénie allait être gêné devant moi jusqu'à la fin de ses jours
+
+A ce moment j'ai supposé que le jeu en face n'était pas très réfléchi et j'ai essayé de jouer les cartes sur table - je me suis dit qu'il suffisaient de montrer que a) je pouvais accepter que les affaires sexuelles sortent, et b) j'étais conscient que les avocats mentaient
+
+Je vais alors voir mes supérieurs au boulot et j'en parle au club de parapente
+...
+pas de bol
+...
+l'un croyait que les avocats pouvaient me pipeauter à l'infini
+...
+l'autre qu'on pouvait gagner les pénissophrénie
+...
+
+L'un devait admettre qu'il était criminel imbécile, l'autre devait admettre quelque chose qu'on a du mal écrire sur twitter ￼
+
+C'est ainsi que ça commence la deuxième partie de la saison 2 de la Pénissophrénie Paranoïaque
+
+-----
+
+Après avoir essayé de discuter une première fois de la pénissophrénie sur mon lieu de travail et dans le monde du parapente, je me rends compte que pas seulement on a rien à me dire, on est même pas gêné à s'enfoncer d'avantage dans le pénal
+
+Je commence à comprendre que devant le Barreau de Paris et les juges la situation doit être sous contrôle - je décide donc d'attaquer par les pénissophrénie au boulot - où il est évident qu'il ne peut y avoir aucune explication
+
+J'appelle donc la Médecine du Travail, je me présente, j'explique la situation, je commence à avoir un effet psychosomatique suite à un harcèlement à caractère sexuel lié à une affaire judiciaire de viol couverte avec la complicité du Barreau et des juges - et mon employeur
+
+Stupéfaction - stupéfaction (ça, on va l'avoir souvent à partir de ce moment-ci)
+Mais pas pour les raisons qu'on peut imaginer
+En fait, la Médecine du Travail est déjà au courant
+La stupéfaction, elle vient du fait que la baguette magique ne marche pas
+
+On va la secouer qu'une seule fois - et on se rends rapidement compte de l'immensité de l'affaire - et commence à se refiler la patate chaude
+Allez voir ce service, allez voir ce service, moi je ne sais pas trop
+
+Dans mon dossier - que je vais récupérer juste avant Bobigny 2 - ils vont inscrire que je suis venu les voir pour un problème personnel - et que j'éprouve des difficultés dans ma vie personnelle
+(l'affaire va passer une deuxième fois par eux)
+
+Finalement, ils décident de me renvoyer vers mon médecin traitant pour qu'il décide d'une expertise
+
+-----
+
+Donc, au début je suis un peu surpris quand la Médecine du Travail arrive à se débarrasser de moi en m'envoyant vers mon médecin traitant - parce que normalement cette affaire devrais revenir en force
+Je vais alors voir mon médecin traitant
+
+Stupéfaction - Stupéfaction (oui, ça m'étonne encore)
+"Ah oui, je vois, vous avez dit à la Médecine du Travail que c'était mon médecin qui avait la baguette en ce moment"
+Le médecin, lui n'est pas si con que ça, il se rends compte rapidement
+
+J'attends pendant 1 mois
+Le médecin, lui aussi, il doit attendre - finalement la baguette, on n'est pas très sûr qui l'a en ce moment
+Bon, ça sert à rien d'attendre
+Je commence à chercher un psychiatre moi-même
+Je trouve une association spécialisée et j'appelle SOS Harcèlement
+
+Suite à l'appel à SOS Harcèlement, je suis reçu dans le service psychiatrique d'un grand hôpital parisien par le chef du service
+
+Stupéfaction - stupéfaction (oui, ça m'étonne encore)
+Il essaye de me convaincre que mon employeur n'y e pour rien
+Mon expression faciale lui suffit, il laisse tomber
+Il finit par m'envoyer chez un psychiatre-neurologue spécialisé pour l'effet psychosomatique
+
+Je vois en parallèle l'association, on sait jamais
+Je sus reçu par un autre psychiatre et un autre psychologue
+Je raconte l'histoire, cette fois-ci on me propose aussi un avocat spécialisé dans la matière
+
+L'avocat tente de secouer la baguette
+Stupéfaction - stupéfaction (et oui, ça m'étonne encore)
+Je lui réponds qu'il est en train de commettre un délit grave et je le mets en garde qu'il peut être sûr et certain qu'on ne va pas me dissuader
+
+Je continue de voir les différents psychologues et psychiatres pendants quelques mois - j'ai un médicament pour l'effet psychosomatique
+Au boulot et dans mon club de parapente les bites sont temporairement remplacées par des éléments de mes conversations avec eux
+
+-----
+
+Après avoir essayé trois avocats auprès de trois associations spécialisées, je me suis dit que le Barreau - qui ne répondait plus à mes courriers - devait maintenir devant les juges que la situation était sous contrôle
+
+Je décide de saisir le Procureur de la République afin de montrer que ce n'était pas le cas
+Alors, je suis finalement convoqué au commissariat de police
+
+En allant chez eux, je reçius un SMS d'un dealer me proposant de façon assez directe de la cocaïne
+Il faut savoir que, normalement, personne à part le substitut du procureur et le policer ne devait être au courant de cette "enquête"
+
+Je me présente au commissariat, et là je tombe sur une dame très confiante, qui est sans aucun doute d'avis qu'elle va facilement pouvoir se faire un homme venu déposer une plainte qui tourne autour d'un prétendu complexe de taille de sexe
+
+Elle commence par la jouer qu'elle ne voit aucun délit dans l'affaire que je suis en train de raconter
+Je sors mon édition de poche du Code Pénal et je lis les textes
+La situation commence à tourner, elle n'est plus aussi confiante
+
+J'explique le couac avec le SMS de cocaïne
+La situation tourne complètement
+Elle est mal à l'aise, et elle refuse de l'inscire dans le PV
+
+6 mois plus tard la plainte pour chantage est requalifiée en plainte pour insultes et injures et l'affaire est close
+
+-----
+
+Les psychiatres et les psychologues s'avèrent un impasse - à la fois pour moi et pour les grosses bites - ils refusent de me déclarer schizophrène et en dehors de ça ils sont quand même prêts à apporter leur soutien pour que l'affaire ne voit pas le jour
+
+L'affaire revient donc à la Médecine du Travail - tout comme j'avais prévu - et elle est pire que jamais
+Maintenant c'est la Médecine du Travail qui doit se prononcer
+
+La Médecine du Travail n'a pas les scrupules des psychiatres qui sont indépendants - la Médecine du Travail est payée par l'employeur
+Suite à un "examen" de 15 minutes, le médecin payé par mon employeur me déclare schizophrène
+
+La diagnose officielle est "Délire de persécution" - un nom un peu archaïque pour la schizophrénie paranoïaque
+J'imagine, donc, une situation de harcèlement à caractère sexuel qui n'existe pas
+
+Du coup dans mon dossier de la Médecine du Travail - je vais le récupérer avant Bobigny 2 - il y aura deux passages concernant cette affaire: un premier, qui parle de "difficultés dans mes relations" et un deuxième rendant la conclusion qu'il s'agit d'une schizophrénie
+
+Mon syndrome psychosomatique, point central dans le dossier des vrais psychiatres, n'est pas mentionné dans mon dossier de la Médecine du Travail
