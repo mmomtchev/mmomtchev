@@ -1,6 +1,6 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
 
-*** I AM HUNGRY, PLEASE READ BELOW ***
+*** I AM CURRENTLY UNEMPLOYED AND IN A VERY DIRE FINANCIAL SITUATION, SEE BELOW ***
 
 * C / C++ / JavaScript / TypeScript
 * Node.js / V8 internals
@@ -8,15 +8,9 @@
 * React / React Native
 * Linux, FreeBSD and OpenBSD kernel experience, especially the TCP/IP stacks and device drivers
 
-I am an unemployed engineer that has been living on social welfare for the last 3 years. I am writing open-source software both as a pass-time and also to raise awareness about my situation - I am currently being extorted by a cartel of French IT companies over a remarkably ugly sexual harassment affaire organized with the help of the Judicial system in order to cover up the very embarrassing problem of one person. Both the OSGeo community and OpenJS foundation have accepted to back the extortion because of the involvement of a few their donators in the sexual affair.
+I am an unemployed engineer that has been living on social welfare for the last 3 years. I am writing open-source software both as a pass-time and also to raise awareness about my situation - an employer organized false rape charges against me, used the French Judiciary to cover it up, then was able to drag my next employers into an absolutely shocking sexual harassment affair. The affair is sexually-motivated and involves a number of very high-profile persons in the EU business and politics. I am currently being extorted, with the help of the French state, to accept a job with a company that will continue the sexual harassment - which is the main motivation behind this affair. I have been somewhat involved in the past in the OSGeo and Node.js communities, but alas, they have both accepted to back the extortion because of the involvement of some of their sponsors. These have been joined by telecom operators, bank, the security of my residence, the social welfare services and pretty much everyone as the scandal would be extremely embarrassing for all involved parties. During the last few months, even Steam and Cloud Imperium Games have joined the extortion.
 
-The affair is absolutely huge because of the involvement of a large number of French companies with more than 1B€ annual turnover, a good number of persons with Wikipedia pages - both in French business and French politics, the French public administration and the French police. Recently, several very large US companies (more than $1B annual), where obviously such deals are not a problem - have also extended me job offers which included sexual harassment - something they made obvious during the recruitment process. I am totally unwilling to prostitute myself - I have an university degree and a very good and sought up skill set and I fully intend to continue working in IT.
-
-Should you find any of my skills useful to your company - a company not interested in fixing sexually-motivated criminal affairs in the French Judicial system - I will be more than willing to talk to you. Since my ex-boss is usually offering to sell me under my level in exchange for sexual harassment - I am extending the same deal to every company unwilling to take part in this.
-
-**I am the kind of guy who chose to live in extreme poverty in order to be able to have a real job instead of a make-believe position in a company willing to cover up this affair. You will never find a better deal on the IT job market.**
-
-Currently I am living with a few bucks per day and the people behind the extortion are sending me, in between the sexual content, advertisements for food.
+Currently I am living with a few bucks per day in order to force me to accept this job.
 
 My projects:
 
