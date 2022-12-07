@@ -618,3 +618,24 @@ J'imagine, donc, une situation de harcèlement à caractère sexuel qui n'existe
 Du coup dans mon dossier de la Médecine du Travail - je vais le récupérer avant Bobigny 2 - il y aura deux passages concernant cette affaire: un premier, qui parle de "difficultés dans mes relations" et un deuxième rendant la conclusion qu'il s'agit d'une schizophrénie
 
 Mon syndrome psychosomatique, point central dans le dossier des vrais psychiatres, n'est pas mentionné dans mon dossier de la Médecine du Travail
+
+-----
+
+Lors d'un des rendez-vous chez un des psychologues, je vais mentionner que parfois, on arrivant le matin, il m'arrive parfois de constater que certains objets sur mon bureau ont été déplacés
+
+A partir de cet instant, ça va être le cas tous les jours - fait de façon de plus en plus évidente
+J'attends pendant une semaine et je me plains de façon officielle et par écrit
+
+Je n'ai aucune réponse et on continue de déplacer les objets tous les matins
+Au bout d'une semaine, comme par hasard, on me présente un gars comme étant celui qui passe tout les matins pour nettoyer les bureaux
+Lui aussi, il est bulgare
+
+Je décode l'opération : on essaye une nouvelle baguette magique - une certaine partie de mes amis de la première saison étaient des bulgares -> moi je parlais plus librement de cette affaire -> je vais lui faire confiance -> on va résoudre l'affaire
+
+Je le décode pour vous, sans mes 15 ans d'expérience avec la façon de penser de ce gars, la logique derrière ses actes n'est pas toujours évidente
+On est maintenant sur la dernière ligne finale de ma présence chez cet employeur
+
+A cette époque, ce n'est plus Orange Business Service, la filiale a été revendue à un fonds d'investissement américain qui l'a revendu à son concurrent principal - une fusion-acquisition, c'est désormais @IPC_Systems_Inc
+
+C'est le premier fournisseur au monde de solutions de communication pour les salles de marché
+
