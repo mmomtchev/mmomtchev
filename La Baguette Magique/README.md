@@ -639,3 +639,171 @@ A cette époque, ce n'est plus Orange Business Service, la filiale a été reven
 
 C'est le premier fournisseur au monde de solutions de communication pour les salles de marché
 
+-----
+
+On est déjà en 2017, mon employeur commence à se rendre compte que me déclarer fou ne m'arrêtera pas et que le chantage avec ce qu'il avait pu apprendre des psychologues/psychiatres ne passera pas, on va essayer de se concentrer sur le travail
+
+Je n'avais jamais été gâté dans mon travail - de toute façon je faisais déjà ce que personne ne voulait - essentiellement du debug - mais à partir de ce moment la situation va commencer à tourner au spectacle
+
+On me déplace de projet en projet, on en annule, on m'attribue parfois sur deux projets différents en une semaine, on ne fait même plus un effort pour garder au moins une apparence - de toute façon après les bites et la Médecine du Travail, ce n'est plus vraiment la peine
+
+A un certain moment on me demande de documenter les changements récents sur un produit qui a été arrêté depuis 2 ans - je réponds qu'il n'y a rien à documenter puisque plus n'y travaille depuis un bon moment
+Je suis accusé de insubordination
+(sujet qui va revenir en saison 3)
+
+Lors de Bobigny 2 mon employeur va se permettre d'évoquer ce sujet - il va inclure cet email dans ses pièces
+Je vais répliquer en donnant la suite des échanges (j'avais fait une copie de mes emails)
+
+L'échange se termine par moi qui demande si j'ai une tâche qui m'est actuellement attribuée, je demande également ce que c'est mes fonctions et ce que c'est mon poste
+On me répond d'imputer mon temps sur le projet XY
+Je réponds que je n'ai jamais travaillé sur ce projet
+
+Je signale la situation, par courrier A/R, à la fois à la DRH France aussi bien que le DRH US
+En réponse, je suis convoqué à un entretien pour un licenciement, la DRH m'explique qu'apparemment j'ai envie de nuire à la société et de ternir sa réputation
+
+Je réitère ma position que je suis en situation de harcèlement et que le comportement de la direction est pénalement répréhensible
+Je suis également convoqué à un entretien dans le cadre d'une enquête de harcèlement sexuel à l'encontre d'une femme dans mon équipe
+
+On me donne aucune information et je déclare de ne pas avoir été témoin d'une telle situation de harcèlement
+Lors de Bobigny 2 cette pièce va se retrouver dans les pièces de l'employeur - "Vous voyez, on a fait une enquête, il a dit qu'il ne savait rien" !!!!
+
+La DRH me propose un accord à l'amiable - en insistant bien sur le fait que je ne vais pas pouvoir avoir un avocat sur cette affaire - ce que je refuse
+Toute la procédure se déroule en deux semaines pendant lesquelles je ne suis plus présent dans les locaux de l'entreprise
+
+A un certain moment le délégué du personnel ose faire une remarque - il est rapidement remis à sa place - il était parmi les premiers à être impliqué dans les bites
+
+Je suis finalement licencié pour motif personnel - la raison c'est que j'ai haussé le ton lors d'une réunion
+Je touche la même somme qu'on m'avait proposé pour l'accord à l'amiable - c'est le minimum de la convention syndicale
+
+C'est pendant cette période que je découvre le JavaScript, Node.js et je débute avec OpenLayers - je commence le projet http://velivole.fr
+Chez mon employeur ces connaissances servent pour une barre de progression sur une page d'un logiciel de supervision
+
+-----
+
+Etant licencié du jour au lendemain, je vais rester pendant 3 mois chez moi à toucher encore mon salaire - c'est ma période de préavis
+Je me mets à la météorologie scientifique, je rafraîchis mes connaissances en thermodynamique et je termine le développement de velivole
+
+J'achète le camion, je passe 3 mois à faire que du parapente, c'est la première fois de ma vie que je vais vivre en SdF - expérience particulièrement enrichissante - je vais rencontrer pas mal de parapentistes et quelques vrais SdFs
+
+A la fin de la saison, je fais l'expo de la Coupe Icare avec http://velivole.fr - je tends la main à la fédé/communauté pour voir ce qui va se passer - je me dis - ils doivent être des gens honnêtes, ils vont chercher un moyen de se rattraper
+
+Maintenant, ceux qui me connaissent, je suis un gars compliqué - dans des situations comme ça, je joue toujours la meilleure stratégie gagnante pour le dilemme du prisonnier réitéré
+
+C. à d. - on s'assure que l'arme est chargée, ensuite on tends la main, on pose des questions et ensuite - et ensuite - c'est en fonction de comment ça s'est passé
+C'est la meilleure stratégie qui existe
+
+Et lors de la Coupe Icare, tout le monde prends la décision d'attendre d'avantage pour voir le résultat de la partie avec mon employeur
+Je reprends donc un emploi à plein temps - en tant qu'indépendant à la @fdj
+
+-----
+
+Au même temps que mon premier grand voyage en camion, je vais essayer de faire avancer la partie judiciaire
+Je vais saisir un juge d'instruction (suite à Paris 4) et je vais commencer à regarder pour une procédure aux Prud'Hommes - licenciement et harcèlement sexuel (Bobigny 1)
+
+Le juge d'instruction va me renvoyer vers le Barreau de Paris - moi je vais lui répondre que le Barreau de Paris est impliqué dans l'affaire et fait silence radio depuis 4 ans à l'époque (maintenant 8) - je vais demander qu'ils soit mis en cause lors de l'instruction - c'est CA 1
+
+Le juge d'instruction refusera ma demande et moi je vais saisir la CEDH - Strasbourg 1 - demandant d'exercer mon droit à un procès équitable
+Parellèlement, tous les avocats du Barreau de Seine-et-Seine-Denis vont commencer, un par un, à me refuser la procédure aux Prud'Hommes
+
+Je vais commencer à me préparer à y aller sans avocat et je vais demander deux consultations juridiques - une première fois au point d'accès au droit au TGI de Bobigny et une deuxième à la Mairie du 13ème
+
+A la Mairie du 13ème, on va essayer de me convaincre que le harcèlement sexuel n'a rien à voir avec les procédures pour viol (grosso modo, mes collègues et tout mon entourage ont spontanément décidé, et de façon indépendante, mais simultanée, de jouer à la pénissophrénie!)
+
+Mon expression faciale va suffire pour qu'ils abandonnent rapidement
+A ce moment, un avocat de Seine-Saint-Denis va finalement accepter de prendre en charge la procédure
+
+Il ne va strictement rien faire pendant 4 mois. Puis, à quelques semaines de l'expiration du délais légal pour saisir les Prud'Hommes, il va envoyer la requête. Au total, j'aurais mis 11 mois pour démarrer cette procédure, en y consacrant en moyenne 1 jour par semaine.
+
+-----
+
+J'arrive donc à la @FDJ, dès le premier jour je ressens que l'affaire a été bien présentée - c'est pas grave - ils vont se rendre compte rapidement - et puis ici, une affaire comme ça, en pleine privatisation, à mon avis, personne n'osera (oui, j'y crois encore)
+
+Effectivement, au bout de 48h on commence à se rendre compte que ça a pas du se passer de la façon dont ça a été présenté
+Ok, on va voir comment ils vont s'y prendre
+
+Première bite, bon, on va vous voir comment vous allez sortir de ça, parce que là ça mène nul part...
+Ici il semble que c'est la société intermédiaire qui s'en occupe - je suis indépendant et je passe par un intermédiaire - la FDJ ne travaille pas avec des sociétés d'une personne
+
+La situation se dégrade très rapidement, on se rends compte rapidement du merdier, mais au lieu de sortir immédiatement, on se laisse enfoncer encore plus profondément
+
+La société intermédiaire tente un premier jeu - la nouvelle baguette magique c'est que je ne sais pas négocier - c'est pour ça que cette affaire m'arrive - et ils commencent à payer tous leur consultants à temps, tandis que moi, je me fais envoyer balader
+
+Je les fais comprendre que ça va pas passer et tout se calme pendant quelques mois
+L'avocat qui s'occupe de Bobigny 1 me dit que mon employeur n'a pas envoyé de pièces
+Je me dis, c'est normal, là, ils vont être obligés de négocier, c'est sûr
+
+Pendant quelques mois, il y aura une apparence de normalité
+A ce moment, je reçois la réponse de la CEDH dans le cadre de Strasbourg 1 - la réponse a été rédigée de façon à mettre en évidence que la CEDH a choisi son camp - et ce n'est pas le miens
+
+Quant à eux, j'attends avec impatience d'avoir fini avec le système français, pour leur demander comment un citoyen lambda peut s'attendre de gagner contre un état, si il ne peut pas gagner contre un criminel motivé par un problème d'ordre sexuel
+
+-----
+
+Je vais rester à peine 13 mois en tant qu'indépendant à la @FDJ
+
+Progressivement, on va arriver à faire quelque chose avec chaque personne avec laquelle je vais être amené à discuter - même les entraîneurs à la salle de sport vont être inclus
+
+On va essayer plusieurs nouveaux problèmes, mais à la fin on va quand même revenir sur terrain connu - bites et viagra
+
+Pour la viagra, on va me la faire en réunion - on m'appelle on réunion, puis on utilise le même centre d'appels que dans les écoles de parapente - le but c'est de me prouver que mes supérieurs sont bien au courant de la partie la plus criminelle
+
+Pourquoi dites-vous?
+Parce qu'on a quelque chose à prouver.
+Pendant ce temps l'avocat qui s'occupe de Bobigny 1 continue à maintenir que mon employeur précédant n'a toujours rien envoyé
+
+Mon dossier à moi, il fait plus de 100 pages, il y a la Médecine du Travail, les psychiatres, le licenciement, l'affaire précédente, les plaintes pour harcèlement...
+Je commence à me demander comment ils comptent à s'en sortir
+Eh bah, on va quand même arriver à me surprendre
+
+-----
+
+La date de l'audience de mise en état de Bobigny 1 est le 5 décembre 2019 - la date d'une des plus grandes grèves récentes de la RATP
+Juste avant cette audience, mon avocat va m'appeler pour me signaler que l'audience est rapportée
+
+Ceci arrive juste quelques semaines après que j'ai demandé de mettre fin à mon contrat de prestation à la 
+@fdj évoquant le comportement criminel à mon égard
+Je suis en train de terminer ma mission et en même temps que l'appel de l'avocat, une livraison à un client sera rejetée
+
+Je dois donc m'en occuper de toute urgence - ce que je fais le 5 décembre - uniquement pour constater qu'il s'agit d'un vieux problème qu'on vient de me ressortir
+La livraison passe et moi je commence à appeler régulièrement l'avocat pour connaître la nouvelle date
+
+Ma mission à la @fdj se termine et je décidé de travailler pendant 3 semaines sur http://velivole.fr - ceci est la version 2.0 du site que je vais mettre en ligne en janvier 2020
+
+L'avocat attends toujours une nouvelle date...
+
+Comme je commence à avoir des doutes, je me déplace à Bobigny et je me renseigne au greffe
+Mon employeur a bien envoyé un dossier, mais moi je n'ai strictement rien envoyé et je ne me suis pas présenté à l'audience de mise en état
+L'affaire est donc radiée
+
+Je signale la situation au Barreau de Seine-Saint-Denis et je demande, par A/R, à l'avocat mon dossier
+Le Barreau de Seine-Saint-Denis répond sous 24h qu'ils vont procéder à une enquête
+
+C'est la toute dernière réponse de leur part, depuis cette date, 29 janvier 2020, ils sont en mode silence radio - tout comme le Barreau de Paris l'est depuis 2015
+L'avocat, lui aussi
+Je réintroduit donc le dossier moi-même
+
+Cet évènement, tout comme les évènements autour de Paris 3, marquera un changement important dans l'évolution de cette affaire
+Si pendant la saison 2, l'accent était sur le comportement de mes employeurs - pendant la saison 3, ça sera surtout l'Etat qui va dominer le chantage
+
+-----
+
+Nous voilà donc à la finale grandiose de la saison 2 : une procédure pour harcèlement sexuel autour des complexes de tailles du sexe masculin, c'est déjà quelque chose plutôt rare, mais une telle procédure qui finit par deal sous la table avec l'avocat, c'est encore mieux
+
+Comme lors de la fin de la saison précédente, on va essayer de revenir en arrière pour voir comment on n'a pu y arriver à cette fin, qui n'a pas tout compris et qui n'a pas tout vu venir
+
+Déjà, moi, qui croyait une telle affaire impossible à organiser - je vous assure qu'on va continuer à me surprendre pendant la saison 3 - saison qui va également surprendre plus d'un parmi vous
+
+A l'issue de cette saison, me rendant compte qu'il est désormais complètement illusoire de toujours croire qu'un accord discret soit possible - je vais complètement changer de stratégie - je vais désormais tout raconter à tout le monde
+
+Comment se fait-il qu'un tel nombre de personnes se sont laissées embarquer dans cette affaire?
+Difficile à dire, mais il faut admettre que suite à la saison 2, les enjeux sont désormais importants
+
+Avoir un problème de taille de sexe devant le monde entier, c'est une chose, organiser une affaire criminelle et y impliquer divers institutions judiciaires - nationales et internationales - c'est quand même tout un autre niveau
+
+En tout cas, je me permets de vous ressortir un vieux proverbe bulgare, dont la richesse linguistique sera bien évidemment perdue à cause de ma traduction, mais quand même:
+"Il n'est pas fou celui qui mange deux gâteaux, il est fou celui qui les paye"
+
+Si on peut prétendre que la première saison est l'œuvre d'une personne déséquilibrée, alors la deuxième est définitivement l'œuvre d'un grand nombre de personnes malintentionnées qui ont voulu profiter de la situation - et qui ont fait des deals sans porte de sortie
+
+Le seul monde dans lequel quand on trompe l'autre, c'est sa faute à lui, c'est le monde des criminels - dans la vie de tous les jours, quand vous escroquez qqun - c'est votre faute à vous
+C'est bien pour ça que dans ce monde, les problèmes se règlent par la violence
