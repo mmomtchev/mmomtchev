@@ -2,6 +2,8 @@
 
 ***I AM CURRENTLY UNEMPLOYED AND IN A VERY DIRE FINANCIAL SITUATION, SEE BELOW***
 
+![](https://garga.net/anarchist.png)
+
 * C / C++ / JavaScript / TypeScript
 * Node.js / V8 internals
 * GIS, Spatial Algorithms, HPC, Scientific and Parallel Computing, Numerical Weather Prediction
