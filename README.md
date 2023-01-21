@@ -2,7 +2,7 @@
 
 ***I AM CURRENTLY UNEMPLOYED AND IN A VERY DIRE FINANCIAL SITUATION, SEE BELOW***
 
-![](https://garga.net/anarchist.png)
+![](https://garga.net/blue_anarchist.png)
 
 * C / C++ / JavaScript / TypeScript
 * Node.js / V8 internals
