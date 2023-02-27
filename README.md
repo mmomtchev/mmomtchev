@@ -39,6 +39,8 @@ My projects:
   - [gdal-exprtk](https://github.com/mmomtchev/gdal-exprtk) is the [ExprTk.js](https://github.com/mmomtchev/exprtk.js) plugin
 * [rlayers](https://github.com/mmomtchev/rlayers) - a set of React components for creating online maps with OpenLayers
 * [intercity.js](https://github.com/mmomtchev/intercity) - a still unreleased Work-In-Progress for a dynamic data WMTS/WMS/WCS/WFS server for Node.js
+* [query-mvt](https://github.com/mmomtchev/query-mvt) - a simple CLI tool and a Node.js/browser library for retrieving geographical data directly from public map services without the need for an API, special server software or any keys, works with Qwant Maps and all other map services that serve MVT/PBF tiles (Google Maps uses a proprietary format)
+* [ol-mbtiles](https://github.com/mmomtchev/ol-mbtiles) - an Openlayers plugin adding `MBTiles` support
 * [geosub](https://github.com/mmomtchev/geosub) - A tool for partial downloading of bands and subwindows from geospatial raster datasets from cloud storage, it is an Amazon AWS-compatible replacement for NOAA's own [g2sub](https://nomads.ncep.noaa.gov/cgi-bin/filter_gfs_0p25.pl)
 * [geoapi](https://github.com/mmomtchev/geoapi) - is an open-source server that can translate lat:long coordinates to postal codes (a free GeoNames API), it is based on the proprietary `geodata` in velivole
 * [europe-geodata](https://github.com/mmomtchev/europe-geodata) - a collection of freely available geographical information for Europe
