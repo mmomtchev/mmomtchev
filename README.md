@@ -10,9 +10,13 @@
 * React / React Native
 * Linux, FreeBSD and OpenBSD kernel experience, especially the TCP/IP stacks and device drivers
 
-I am an unemployed engineer that has been living on social welfare for the last 3 years. I am writing open-source software both as a pass-time and also to raise awareness about my situation - an employer organized false rape charges against me, used the French Judiciary to cover it up, then was able to drag my next employers into an absolutely shocking sexual harassment affair. The affair is sexually-motivated and involves a number of very high-profile persons in the EU business and politics. I am currently being extorted, with the help of the French state, to accept a job with a company that will continue the sexual harassment - which is the main motivation behind this affair. I have been somewhat involved in the past in the OSGeo and Node.js communities, but alas, they have both accepted to back the extortion because of the involvement of some of their sponsors. These have been joined by telecom operators, bank, the security of my residence, the social welfare services, Google and Twitter and pretty much everyone as the scandal would be extremely embarrassing for all involved parties. The French Paragliding Association is also backing the extortion - because of a number symbolic sponsorships - that they will be too embarrassed to admit. During the last few months, even Steam and Cloud Imperium Games have joined the extortion.
+I am an unemployed engineer that has been living on social welfare for the last 3 years. I am writing open-source software both as a pass-time and also to raise awareness about my situation - an employer organized false rape charges against me, used the French Judiciary to cover it up, then was able to drag my next employers into an absolutely shocking sexual harassment affair. The affair is sexually-motivated and involves a number of very high-profile persons in the EU business and politics. All big French recruitment companies are backing the extortion, and so are Google, Twitter, OSGeo, the OpenJS Foundation, some YCombinator companies and even Steam and Cloud Imperium Games, as well as various French State Institutions and the French Paragliding Association.
 
-Currently I am living with a few bucks per day in order to force me to accept this job.
+They all got dragged into the affair and now prefer to see the extortion go through rather than to admit what happened - as the sexual motivation makes it incredibly embarrassing.
+
+Currently I am living with a few bucks per day and I am offered a job if I am to accept to submit myself to sexual harassment.
+
+I have started maintaining a list of the companies where this kind of deal is possible - there are some very large French and US companies in it - you can find it [here](https://github.com/mmomtchev/mmomtchev/blob/master/BUSINESS-AS-USUAL.md).
 
 My projects:
 
