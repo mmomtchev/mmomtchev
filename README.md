@@ -18,6 +18,8 @@ Currently I am living with a few bucks per day and I am offered a job if I am to
 
 I have started maintaining a list of the companies where this kind of deal is possible - there are some very large French and US companies in it - you can find it [here](https://github.com/mmomtchev/mmomtchev/blob/master/BUSINESS-AS-USUAL.md).
 
+Everything listed here, I do for free - but you are welcome to sponsor me. The only exception is support by phone - don't even think about it before sponsoring me.
+
 My projects:
 
 # General Purpose Software
