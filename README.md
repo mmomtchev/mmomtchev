@@ -1,8 +1,6 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
 
-***I AM CURRENTLY UNEMPLOYED AND IN A VERY DIRE FINANCIAL SITUATION, SEE BELOW***
-
-![](https://garga.net/blue_anarchist.png)
+![Blue Anarchist flag](https://garga.net/blue_anarchist.png)
 
 * C / C++ / JavaScript / TypeScript
 * Node.js / V8 internals
@@ -10,15 +8,13 @@
 * React / React Native
 * Linux, FreeBSD and OpenBSD kernel experience, especially the TCP/IP stacks and device drivers
 
-I am an unemployed engineer that has been living on social welfare for the last 3 years. I am writing open-source software both as a pass-time and also to raise awareness about my situation - an employer organized false rape charges against me, used the French Judiciary to cover it up, then was able to drag my next employers into an absolutely shocking sexual harassment affair. The affair is sexually-motivated and involves a number of very high-profile persons in the EU business and politics. All big French recruitment companies are backing the extortion, and so are Google, Twitter, OSGeo, the OpenJS Foundation, some YCombinator companies and even Steam and Cloud Imperium Games, as well as various French State Institutions and the French Paragliding Association.
+I am the world's first unemployed IT engineer who is living on social welfare. I have been doing this for the last 3 years and I am writing open-source software both as a pass-time and also to raise awareness about my situation - an employer organized false rape charges against me, used the French Judiciary to cover it up, then was able to drag my next employers into an absolutely shocking sexual harassment affair. The affair is sexually-motivated and involves a number of very high-profile persons in the EU business and politics. All big French recruitment companies are backing the extortion, and so are Google, Twitter, OSGeo, the OpenJS Foundation, some YCombinator companies and even Steam and Cloud Imperium Games, as well as various French State Institutions and the French Paragliding Association.
 
 They all got dragged into the affair and now prefer to see the extortion go through rather than to admit what happened - as the sexual motivation makes it incredibly embarrassing.
 
 Currently I am living with a few bucks per day and I am offered a job if I am to accept to submit myself to sexual harassment.
 
 I have started maintaining a list of the companies where this kind of deal is possible - there are some very large French and US companies in it - you can find it [here](https://github.com/mmomtchev/mmomtchev/blob/master/BUSINESS-AS-USUAL.md).
-
-Everything listed here, I do for free - but you are welcome to sponsor me. The only exception is support by phone - don't even think about it before sponsoring me.
 
 My projects:
 
