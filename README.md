@@ -22,6 +22,7 @@ My projects:
 
 * [pymport](https://github.com/mmomtchev/pymport) - My current major project, full native compatibility of existing Python libraries with Node.js code
 * [libnode](https://github.com/mmomtchev/libnode) - Node.js-as-a-shared-library allowing easy calling of JS code from compiled C and C++ applications through the Node-API (C) and `node-addon-api` (C++) interfaces with Ubuntu/Debian packages, created as part of GSoC 2022
+* [sqlite-wasm-http](https://github.com/mmomtchev/sqlite-wasm-http) - the so-called _SQL over HTTP_ middleware, an alternative implementation of [`@phiresky/sql.js-httpvfs`](https://github.com/phiresky/sql.js-httpvfs) based on the new official SQLite WASM distribution
 * [ExprTk.js](https://github.com/mmomtchev/exprtk.js) - asynchronous Node.js bindings for [ExprTk](http://www.partow.net/programming/exprtk/index.html) - a mathematical expression engine - allowing for an effortless multithreading of computationally heavy tasks by supporting asynchronous execution of thunks precompiled from strings - it will eventually be supported by both `gdal-async` and `scijs`
 * [jeetah](https://github.com/mmomtchev/jeetah) - an optimizing compiler for mathematical expressions in JavaScript
 * [documentation-polyglot](https://github.com/mmomtchev/documentation-polyglot) - a plugin that adds *C++* support to `documentation.js` via the new plugin framework that I am currently making
