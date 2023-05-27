@@ -47,9 +47,9 @@ My projects:
   - [ndarray-gdal](https://github.com/mmomtchev/ndarray-gdal) is the [scijs](https://github.com/scijs/ndarray) plugin
   - [gdal-exprtk](https://github.com/mmomtchev/gdal-exprtk) is the [ExprTk.js](https://github.com/mmomtchev/exprtk.js) plugin
 * [rlayers](https://github.com/mmomtchev/rlayers) - a set of React components for creating online maps with OpenLayers
+* [ol-mbtiles](https://github.com/mmomtchev/ol-mbtiles) - an Openlayers plugin adding `MBTiles` support
 * [intercity.js](https://github.com/mmomtchev/intercity) - a still unreleased Work-In-Progress for a dynamic data WMTS/WMS/WCS/WFS server for Node.js
 * [query-mvt](https://github.com/mmomtchev/query-mvt) - a simple CLI tool and a Node.js/browser library for retrieving geographical data directly from public map services without the need for an API, special server software or any keys, works with Qwant Maps and all other map services that serve MVT/PBF tiles (Google Maps uses a proprietary format)
-* [ol-mbtiles](https://github.com/mmomtchev/ol-mbtiles) - an Openlayers plugin adding `MBTiles` support
 * [geosub](https://github.com/mmomtchev/geosub) - A tool for partial downloading of bands and subwindows from geospatial raster datasets from cloud storage, it is an Amazon AWS-compatible replacement for NOAA's own [g2sub](https://nomads.ncep.noaa.gov/cgi-bin/filter_gfs_0p25.pl)
 * [geoapi](https://github.com/mmomtchev/geoapi) - is an open-source server that can translate lat:long coordinates to postal codes (a free GeoNames API), it is based on the proprietary `geodata` in velivole
 * [europe-geodata](https://github.com/mmomtchev/europe-geodata) - a collection of freely available geographical information for Europe
@@ -62,6 +62,20 @@ My projects:
   - [velitherm-visu](https://github.com/mmomtchev/velitherm-visu) - is an online air parcel calculator in React that uses the library
 * [igc-admin-analyze](https://github.com/mmomtchev/igc-admin-analyze) - a tool for analyzing IGC flight logs giving a percentage of time spent above given administrative divisions defined by their GeoJSON borders
 
+# Websites
+
+I am mostly a C++/JavaScript integration expert with a focus on V8/Node.js internals, but I also do lots of browser JS / web development:
+* [velivole.fr / meteo.guru](https://www.velivole.fr) - is a free soaring weather site for paragliding, hang-gliding and sail-plane pilots. It is complex application which includes a **vanilla JS / OpenLayers 6 / custom webpack** front-end, an **Express.js/Node.js** backend and a **Node.js/C++** computational engine for specialized numerical weather prediction that consists of a secondary model running on top of the French and German national weather models. You can see an overview of velivole/meteo.guru [here](https://raw.githubusercontent.com/mmomtchev/mmomtchev/master/velivole.fr-Architecture-Overview.svg) and explore its API [here](https://www.velivole.fr/apidoc/). The website includes a number of GIS innovations, including the remote querying of MVT data using [query-mvt](https://github.com/mmomtchev/query-mvt). It is also the very first site in the world to support the displaying of remote MBTiles maps using [ol-mbtiles](https://github.com/mmomtchev/ol-mbtiles). Almost all of my GIS software listed above is used in some way on this site.
+* [xc-db.velivole.fr](https://xcdb.velivole.fr) - an [open-sourced](https://github.com/mmomtchev/xc-db) navigator/explorer that can uses basic machine-learning (an algorithm loosely based on K-means clustering) to deduce the typical routes pilots will take depending on the prevailing winds by classifying all paragliding flights of the French Federal Distance Cup of the French Paragliding Association. **Node.js/Express.js/gdal-async** backend with a **React/Redux/rlayers** front-end. *No mobile version available at the moment.* The sites is a demonstration of the capabilities of `gdal-async` used with Express.js and `rlayers` as it includes a dynamically computed particle visualization entirely in React/rlayers that uses an SQL database with 700M lines.
+* [isitplausible.com](https://isitplausible.com) - a StackOverflow-inspired website for analyzing the scientific accuracy of Sci-Fi movies, books and video games. **Node.js/Express.js** backend with **React/Next.js**, this was my first foray in the world of server-side rendering with React.
+* [scodex.garga.net](https://scodex.garga.net) - the first attempt of creating an universal Codex website for the (forever) upcoming Star Citizen by CIG with information extracted from the game files using [`scdatatools`](https://gitlab.com/scmodding/frameworks/scdatatools) in Node.js / TypeScript environment with `pymport`. The site also makes heavy use of `gdal-async`, `rlayers`, `node-magickwand` and `scijs` through `ndarray-gdal` because it includes detailed 2D/3D maps of the planets and some basic extrasolar astronomy. Backend-less design with server-rendered **React** using **Next.js 13**.
+* [aircalc.velivole.fr](https://aircalc.velivole.fr/) - a thermodynamics air parcel calculator for weather, online version of [velitherm-visu](https://github.com/mmomtchev/velitherm-visu), raw **React**.
+* [xc-score](https://www.velivole.fr/xc-score/) - online version of * [igc-xc-score](https://github.com/mmomtchev/igc-xc-score) - **vanilla JS** with a **custom webpack**.
+
+# Mobile applications
+
+* [velivole-mobile](https://github.com/mmomtchev/velivole-mobile) - the open-sourced mobile counterpart to velivole.fr, in its current iteration it is based on React Native / expo.
+
 # Timewasters
 
 * [EDCarnage](https://github.com/mmomtchev/EDCarnage) - an [Electron](https://www.electronjs.org/) tool for tracking stacked massacre missions in [Elite: Dangerous](https://www.elitedangerous.com/)
@@ -71,8 +85,6 @@ My projects:
 You can also check my Medium articles here: <https://mmomtchev.medium.com/>
 
 Besides writing software, I have been trying, for almost 10 years now, to create a video as stunningly beautiful as [this one](https://www.youtube.com/watch?v=a71bZ1YG68U) that I saw when I started [paragliding](https://github.com/mmomtchev/mmomtchev/blob/master/AERIAL_SPORTS.md). I have come [a long way](https://www.youtube.com/user/momtchev) since I started in [2012](https://www.youtube.com/watch?v=fzTU611kfrw).
-
-I am also the creator and the maintainer of <https://www.velivole.fr> (French) and <https://www.meteo.guru> (English), the leading free soaring weather site in Europe and the author and maintainer of <https://isitplausible.com>. You can see an overview of velivole/meteo.guru [here](https://raw.githubusercontent.com/mmomtchev/mmomtchev/master/velivole.fr-Architecture-Overview.svg) and explore its API [here](https://www.velivole.fr/apidoc/).
 
 I also used to spent lots of time doing blue water sailing before my affair spiraled out of control.
 
