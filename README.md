@@ -19,6 +19,8 @@ They all got dragged into the affair and now prefer to see the extortion go thro
 
 Currently I am living with a few bucks per day and I am offered a job if I am to accept to submit myself to sexual harassment.
 
+![Eunuch Programmers](https://orel.garga.net/image-3175739551.jpg)
+
 I have started maintaining a list of the companies where this kind of deal is possible - there are some very large French and US companies in it - you can find it [here](https://github.com/mmomtchev/mmomtchev/blob/master/BUSINESS-AS-USUAL.md).
 
 My projects:
