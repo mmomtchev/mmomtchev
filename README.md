@@ -17,7 +17,7 @@ I am the world's first unemployed IT engineer who is living on social welfare in
 
 I am currently in the middle of a huge judicial scandal in France since several previous employers took part in a very shocking affair of sexual nature motivated by the intimate problem of one person with political connections. By now the affair has spiraled out ouf control and it involves a very large number of French judicial officials, the French police, politically exposed persons, and many big IT companies such as Google, Twitter, Amazon AWS, OSGeo, the OpenJS Foundation, StackOverflow, some YCombinator companies and even Steam and Cloud Imperium Games.
 
-Currently I am living with a few bucks per day and I am offered a job if I am to accept to submit myself to sexual harassment.
+Currently I am living with a few bucks per day and I am offered a job if I am to accept to stop telling people about what happened - and to submit myself to sexual harassment - which is impossible to organize unless I shut up.
 
 ![Eunuch Programmers](https://orel.garga.net/image-3175739551.jpg)
 
