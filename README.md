@@ -13,9 +13,9 @@
 * React / React Native
 * Linux, FreeBSD and OpenBSD kernel experience, especially the TCP/IP stacks and device drivers
 
-I am the world's first unemployed IT engineer who is living on social welfare. I have been doing this for the last 3 years and I am writing open-source software both as a pass-time and also to raise awareness about my situation - an employer organized false rape charges against me, used the French Judiciary to cover it up, then was able to drag my next employers into an absolutely shocking sexual harassment affair. The affair is sexually-motivated and involves a number of very high-profile persons in the EU business and politics. All big French recruitment companies are backing the extortion, and so are Google, Twitter, Amazon AWS, OSGeo, the OpenJS Foundation, StackOverflow, some YCombinator companies and even Steam and Cloud Imperium Games, as well as various French State Institutions and the French Paragliding Association.
+I am the world's first unemployed IT engineer who is living on social welfare in a legal *no-man's-land* and works for free.
 
-They all got dragged into the affair and now prefer to see the extortion go through rather than to admit what happened - as the sexual motivation makes it incredibly embarrassing.
+I am currently in the middle of a huge judicial scandal in France since several previous employers took part in a very shocking affair of sexual nature motivated by the intimate problem of one person with political connections. By now the affair has spiraled out ouf control and it involves a very large number of French judicial officials, the French police, politically exposed persons, and many big IT companies such as Google, Twitter, Amazon AWS, OSGeo, the OpenJS Foundation, StackOverflow, some YCombinator companies and even Steam and Cloud Imperium Games.
 
 Currently I am living with a few bucks per day and I am offered a job if I am to accept to submit myself to sexual harassment.
 
