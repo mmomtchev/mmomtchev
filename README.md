@@ -31,9 +31,11 @@ My projects:
 
 # General Purpose Software
 
-* [pymport](https://github.com/mmomtchev/pymport) - My current major project, full native compatibility of existing Python libraries with Node.js code
+* [SWIG Node-API](https://www.swig.org/) - I am the author/maintainer of the Node-API support in SWIG and the still unmerged asynchronous wrappers support as well as the TypeScript support
+* [pymport](https://github.com/mmomtchev/pymport) - Full compatibility of Python libraries with Node.js, use as if it was a native package
 * [libnode](https://github.com/mmomtchev/libnode) - Node.js-as-a-shared-library allowing easy calling of JS code from compiled C and C++ applications through the Node-API (C) and `node-addon-api` (C++) interfaces with Ubuntu/Debian packages, created as part of GSoC 2022
 * [node-magickwand](https://github.com/mmomtchev/node-magickwand) - Full ImageMagick-7 bindings for Node.js - meant both as a full-featured general-purpose image processing library for Node.js and as testing grounds for SWIG NAPI (of which I am the author), includes a tutorial for porting C++ libraries to Node.js
+* [everything-json](https://github.com/mmomtchev/everything-json) - Fast asynchronous JSON parser for Node.js that does not block the event loop
 * [sqlite-wasm-http](https://github.com/mmomtchev/sqlite-wasm-http) - the so-called _SQL over HTTP_ middleware, an alternative implementation of [`@phiresky/sql.js-httpvfs`](https://github.com/phiresky/sql.js-httpvfs) based on the new official SQLite WASM distribution
 * [ExprTk.js](https://github.com/mmomtchev/exprtk.js) - asynchronous Node.js bindings for [ExprTk](http://www.partow.net/programming/exprtk/index.html) - a mathematical expression engine - allowing for an effortless multithreading of computationally heavy tasks by supporting asynchronous execution of thunks precompiled from strings - it will eventually be supported by both `gdal-async` and `scijs`
 * [jeetah](https://github.com/mmomtchev/jeetah) - an optimizing compiler for mathematical expressions in JavaScript
