@@ -1,9 +1,12 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
 
 ![Blue Anarchist flag](https://garga.net/blue_anarchist.png)
+
 ***I AM CURRENTLY UNEMPLOYED AND IN A VERY DIRE FINANCIAL SITUATION, SEE BELOW***
 
-*I am maintaining a large number of binary Node.js projects - if you use any of them, you should know that I am ready to provide pre-built binaries for Macbooks with Apple Silicon if someone provides me a remote access to such hardware. If paying by the hour, expect about an hour of average daily usage.*
+**Update on my situation as of November 17th 2023: I am still getting job offers if I agree to stop talking about this affair - something that I can no longer accept. Criminal elements of the French Police have tried mild intimidation, but at the moment the institution as a whole seems to still be somewhat undecided on their course of action. I have been officially served a notice of eviction that the police could legally execute upon should the *Préfet de Paris* agree to make a decision without mentioning the extortion by the judiciary officials. Whether this will be the case or not will be decided after April 1st 2024.**
+
+*As a funny side note, the day before the French Police served my the notice I got three more job offers - one for an entry-level Angular developer, another for an entry-level Java developer and a third one - mentioning the SWIG project - but coming from a personal gmail account - which tried to use my personal weaknesses in order to make me agree - that person initially tried to convince me that I had made a serious newbie mistake by not implementing `std::shared_ptr`, then he sent me another simultaneous email with the French social service that is blocking my request for an emergency sheltering, then finally he tried to convince that I was suffering from schizophrenia. Alas, he forgot to mention that I sucked as a paragliding pilot and, ultimately, he was unable to make me accept his offer. And yes, all of this happened by email.*
 
 ![](https://garga.net/blue_anarchist.png)
 
@@ -26,6 +29,8 @@ As a libertarian transhumanist, I am willing to give up my life in the fight aga
 ![Eunuch Programmers](https://orel.garga.net/image-3175739551.jpg)
 
 I have started maintaining a list of the companies where this kind of deal is possible - there are some very large French and US companies in it - you can find it [here](https://github.com/mmomtchev/mmomtchev/blob/master/BUSINESS-AS-USUAL.md).
+
+*I am maintaining a large number of binary Node.js projects - if you use any of them, you should know that I am ready to provide pre-built binaries for Macbooks with Apple Silicon if someone provides me a remote access to such hardware. If paying by the hour, expect about an hour of average daily usage. If you care only about the software and do not want be involved with the criminal affair, there are various options for anonymous sponsorship.*
 
 My projects:
 
