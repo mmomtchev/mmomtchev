@@ -2,33 +2,35 @@
 
 ![Blue Anarchist flag](https://garga.net/blue_anarchist.png)
 
-***I AM CURRENTLY UNEMPLOYED AND IN A VERY DIRE FINANCIAL SITUATION, SEE BELOW***
+<table border="0">
+ <tr>
+    <td>
+      <p>I am an unemployed IT engineer living on social welfare in a legal <em>no-man's-land</em> after an ex-employer covered up a series of very serious sexually-motivated crimes and tried to extort me to not talk about what happened. The affair has spiraled out ouf control and it involves a very large number of French judicial officials, the French police, politically exposed persons, and many big IT companies such as Google, Twitter, Amazon AWS, OSGeo, the OpenJS Foundation, StackOverflow, some YCombinator companies and even Steam and Cloud Imperium Games.</p>
+      <p>I have excellent technical level and solid experience that is not available on the job market. I am looking for a company that will refuse to take part in the extortion - unlike my previous employers.</p>
+      <p>This point is absolutely non-negotiable - I am willing to continue to live off social welfare until I find a non-criminal company.</p>
+      <p>I invite you to take a look at my projects.</p>
+    </td>
+    <td>
+    <p>Je suis un ingénieur en informatique qui vit au RSA en dehors de tout cadre légal. Mes deniers employeurs ont couvert une série de graves délits, dont à la fois la motivation et le caractère sont de nature sexuelle. Ensuite ils ont tenté de faire chantage par le biais des cabinets de recrutement et actuellement on me pose des conditions extraordinaires - y inclus de nature sexuelle - pour que je puisse retravailler. Depuis, l'affaire a été démultipliée en boule de neige et elle implique actuellement des magistrats de justice, la Police Nationale, quelques grands noms de la politique et le business, et les grandes entreprises du secteur comme Google, Twitter, Amazon AWS, OSGeo, la fondation OpenJS, StackOverflow, YCombinator et même Steam et Cloud Imperium Games.</p>
+    <p>J'ai un excellent niveau et expérience qu'on ne trouve pas sur le marché du travail. Je suis à la recherche d'une société est prête à refuser de s'impliquer au chantage - ce qui n'a pas été le cas de mes employeurs juqu'au présent.</p>
+    <p>Ce point n'est pas à débattre - je suis prêt à vivre au RSA tant que je ne trouve pas une entreprise qui n'est pas criminelle.</p>
+    <p>Je vous invite à parcourir mes projets.</p>
+    </td>
+ </tr>
+</table>
 
-**Update on my situation as of November 17th 2023: I am still getting job offers if I agree to stop talking about this affair - something that I can no longer accept. Criminal elements of the French Police have tried mild intimidation, but at the moment the institution as a whole seems to still be somewhat undecided on their course of action. I have been officially served a notice of eviction that the police could legally execute upon should the *Préfet de Paris* agree to make a decision without mentioning the extortion by the judiciary officials. Whether this will be the case or not will be decided after April 1st 2024.**
-
-*As a funny side note, the day before the French Police served my the notice I got three more job offers - one for an entry-level Angular developer, another for an entry-level Java developer and a third one - mentioning the SWIG project - but coming from a personal gmail account - which tried to use my personal weaknesses in order to make me agree - that person initially tried to convince me that I had made a serious newbie mistake by not implementing `std::shared_ptr`, then he sent me another simultaneous email with the French social service that is blocking my request for an emergency sheltering, then finally he tried to convince that I was suffering from schizophrenia. Alas, he forgot to mention that I sucked as a paragliding pilot and, ultimately, he was unable to make me accept his offer. And yes, all of this happened by email.*
-
-![](https://garga.net/blue_anarchist.png)
-
-* C / C++ / JavaScript / TypeScript
-* Node.js / V8 internals
-* GIS, Spatial Algorithms, HPC, Scientific and Parallel Computing, Numerical Weather Prediction
-* React / React Native
-* Linux, FreeBSD and OpenBSD kernel experience, especially the TCP/IP stacks and device drivers
-
-I am the world's first unemployed IT engineer who is living on social welfare in a legal *no-man's-land* and works for free.
-
-I am currently in the middle of a huge judicial scandal in France since several previous employers took part in a very shocking affair of sexual nature motivated by the intimate problem of one person with political connections. By now the affair has spiraled out ouf control and it involves a very large number of French judicial officials, the French police, politically exposed persons, and many big IT companies such as Google, Twitter, Amazon AWS, OSGeo, the OpenJS Foundation, StackOverflow, some YCombinator companies and even Steam and Cloud Imperium Games.
-
-I work both as a pass-time and also to raise awareness of my situation - since both the French judicial system and European CHR have decided that the intimate sexual problem of politically exposed person is a valid reason for complete judicial immunity - for him and for every other official involved.
-
-Currently I am living with a few bucks per day and I am offered a job if I am to accept to stop telling people about what happened - and to submit myself to sexual harassment - which is impossible to organize unless I shut up.
-
-As a libertarian transhumanist, I am willing to give up my life in the fight against medieval obscurantism combined and political corruption.
+Core skills:
+  * Top-of-the-line C/C++ and JavaScript/Typescript level
+  * Top-of-the-line understanding of language interpreters and their internals - especially Node.js/V8 and to a lesser degree Python
+  * Very good understanding of operating system internals - especially Linux and BSD
+  * Experience working with compiler internals
+  * Experience working with networking stacks and developing network hardware
+  * GIS, computational geometry and spatial algorithms
+  * Very good understanding of browser JavaScript, WASM, React and web bundlers
 
 ![Eunuch Programmers](https://orel.garga.net/image-3175739551.jpg)
 
-I have started maintaining a list of the companies where this kind of deal is possible - there are some very large French and US companies in it - you can find it [here](https://github.com/mmomtchev/mmomtchev/blob/master/BUSINESS-AS-USUAL.md).
+I have started maintaining a list of the companies where the kind of deal I am offered is possible - there are some very large French and US companies in it - you can find it [here](https://github.com/mmomtchev/mmomtchev/blob/master/BUSINESS-AS-USUAL.md).
 
 *I am maintaining a large number of binary Node.js projects - if you use any of them, you should know that I am ready to provide pre-built binaries for Macbooks with Apple Silicon if someone provides me a remote access to such hardware. If paying by the hour, expect about an hour of average daily usage. If you care only about the software and do not want be involved with the criminal affair, there are various options for anonymous sponsorship.*
 
@@ -37,9 +39,11 @@ My projects:
 # General Purpose Software
 
 * [SWIG Node-API](https://www.swig.org/) - I am the author/maintainer of the Node-API support in SWIG and the still unmerged asynchronous wrappers support as well as the TypeScript support
+* [nobind17](https://github.com/mmomtchev/nobind) - An experimental next-generation C++ to JavaScript binding framework for Node.js inspired by `pybind11` but using C++17 fold expressions
 * [pymport](https://github.com/mmomtchev/pymport) - Full compatibility of Python libraries with Node.js, use as if it was a native package
 * [libnode](https://github.com/mmomtchev/libnode) - Node.js-as-a-shared-library allowing easy calling of JS code from compiled C and C++ applications through the Node-API (C) and `node-addon-api` (C++) interfaces with Ubuntu/Debian packages, created as part of GSoC 2022
-* [node-magickwand](https://github.com/mmomtchev/node-magickwand) - Full ImageMagick-7 bindings for Node.js - meant both as a full-featured general-purpose image processing library for Node.js and as testing grounds for SWIG NAPI (of which I am the author), includes a tutorial for porting C++ libraries to Node.js
+* [magickwand.js](https://github.com/mmomtchev/magickwand.js) - Full ImageMagick-7 bindings for Node.js - meant both as a full-featured general-purpose image processing library for Node.js and as testing grounds for SWIG NAPI (of which I am the author), includes a tutorial for porting C++ libraries to Node.js
+* [node-ffmpeg](https://github.com/mmomtchev/node-ffmpeg) - [***Unfinished***] the project I am currently working on, a complete integration of the audio and video streaming framework with Node.js using `nobind17`
 * [everything-json](https://github.com/mmomtchev/everything-json) - Fast asynchronous JSON parser for Node.js that does not block the event loop
 * [sqlite-wasm-http](https://github.com/mmomtchev/sqlite-wasm-http) - the so-called _SQL over HTTP_ middleware, an alternative implementation of [`@phiresky/sql.js-httpvfs`](https://github.com/phiresky/sql.js-httpvfs) based on the new official SQLite WASM distribution
 * [ExprTk.js](https://github.com/mmomtchev/exprtk.js) - asynchronous Node.js bindings for [ExprTk](http://www.partow.net/programming/exprtk/index.html) - a mathematical expression engine - allowing for an effortless multithreading of computationally heavy tasks by supporting asynchronous execution of thunks precompiled from strings - it will eventually be supported by both `gdal-async` and `scijs`
