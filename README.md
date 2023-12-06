@@ -8,13 +8,15 @@
       <p>I am an unemployed IT engineer living on social welfare in a legal <em>no-man's-land</em> after an ex-employer covered up a series of very serious sexually-motivated crimes and tried to extort me to not talk about what happened. The affair has spiraled out ouf control and it involves a very large number of French judicial officials, the French police, politically exposed persons, and many big IT companies such as Google, Twitter, Amazon AWS, OSGeo, the OpenJS Foundation, StackOverflow, some YCombinator companies and even Steam and Cloud Imperium Games.</p>
       <p>I have excellent technical level and solid experience that is not available on the job market. I am looking for a company that will refuse to take part in the extortion - unlike my previous employers.</p>
       <p>This point is absolutely non-negotiable - I am willing to continue to live off social welfare until I find a non-criminal company.</p>
+      <p>I also plan to dedicate part of my energy - and my life - to combatting corruption in the French judiciary, police, government administration and the European institutions.</p>
       <p>I invite you to take a look at my projects.</p>
     </td>
     <td>
     <p>Je suis un ingénieur en informatique qui vit au RSA en dehors de tout cadre légal. Mes deniers employeurs ont couvert une série de graves délits, dont à la fois la motivation et le caractère sont de nature sexuelle. Ensuite ils ont tenté de faire chantage par le biais des cabinets de recrutement et actuellement on me pose des conditions extraordinaires - y inclus de nature sexuelle - pour que je puisse retravailler. Depuis, l'affaire a été démultipliée en boule de neige et elle implique actuellement des magistrats de justice, la Police Nationale, quelques grands noms de la politique et le business, et les grandes entreprises du secteur comme Google, Twitter, Amazon AWS, OSGeo, la fondation OpenJS, StackOverflow, YCombinator et même Steam et Cloud Imperium Games.</p>
     <p>J'ai un excellent niveau et expérience qu'on ne trouve pas sur le marché du travail. Je suis à la recherche d'une société est prête à refuser de s'impliquer au chantage - ce qui n'a pas été le cas de mes employeurs juqu'au présent.</p>
     <p>Ce point n'est pas à débattre - je suis prêt à vivre au RSA tant que je ne trouve pas une entreprise qui n'est pas criminelle.</p>
-    <p>Je vous invite à parcourir mes projets.</p>
+    <p>Je compte également dédier une partie de mon énergie - et ma vie - à la lutte contre la corruption au sein du système judiciaire, la police, l'administration publique et les institutions européennes.</p>
+    <p>Je vous invite à parcourir la liste de mes projets.</p>
     </td>
  </tr>
 </table>
@@ -27,6 +29,7 @@ Core skills:
   * Experience working with networking stacks and developing network hardware
   * GIS, computational geometry and spatial algorithms
   * Very good understanding of browser JavaScript, WASM, React and web bundlers
+  * High-performance computing, parallel computation and numerical weather prediction
 
 ![Eunuch Programmers](https://orel.garga.net/image-3175739551.jpg)
 
