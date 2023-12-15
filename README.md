@@ -46,7 +46,7 @@ My projects:
 * [pymport](https://github.com/mmomtchev/pymport) - Full compatibility of Python libraries with Node.js, use as if it was a native package
 * [libnode](https://github.com/mmomtchev/libnode) - Node.js-as-a-shared-library allowing easy calling of JS code from compiled C and C++ applications through the Node-API (C) and `node-addon-api` (C++) interfaces with Ubuntu/Debian packages, created as part of GSoC 2022
 * [magickwand.js](https://github.com/mmomtchev/magickwand.js) - Full ImageMagick-7 bindings for Node.js - meant both as a full-featured general-purpose image processing library for Node.js and as testing grounds for SWIG NAPI (of which I am the author), includes a tutorial for porting C++ libraries to Node.js
-* [node-ffmpeg](https://github.com/mmomtchev/node-ffmpeg) - [***Unfinished***] the project I am currently working on, a complete integration of the audio and video streaming framework with Node.js using `nobind17`
+* [node-ffmpeg](https://github.com/mmomtchev/node-ffmpeg) - A complete native integration of the `ffmpeg` audio and video streaming framework with Node.js using `nobind17`
 * [everything-json](https://github.com/mmomtchev/everything-json) - Fast asynchronous JSON parser for Node.js that does not block the event loop
 * [sqlite-wasm-http](https://github.com/mmomtchev/sqlite-wasm-http) - the so-called _SQL over HTTP_ middleware, an alternative implementation of [`@phiresky/sql.js-httpvfs`](https://github.com/phiresky/sql.js-httpvfs) based on the new official SQLite WASM distribution
 * [ExprTk.js](https://github.com/mmomtchev/exprtk.js) - asynchronous Node.js bindings for [ExprTk](http://www.partow.net/programming/exprtk/index.html) - a mathematical expression engine - allowing for an effortless multithreading of computationally heavy tasks by supporting asynchronous execution of thunks precompiled from strings - it will eventually be supported by both `gdal-async` and `scijs`
@@ -98,6 +98,7 @@ I am mostly a C++/JavaScript integration expert with a focus on V8/Node.js inter
 
 # Timewasters
 
+* [r/dataisbeautiful](https://github.com/mmomtchev/data-is-beautiful) - a collection of data visualizations produced with [magickwand.js](https://github.com/mmomtchev/magickwand.js) and [node-ffmpeg](https://github.com/mmomtchev/node-ffmpeg)
 * [EDCarnage](https://github.com/mmomtchev/EDCarnage) - an [Electron](https://www.electronjs.org/) tool for tracking stacked massacre missions in [Elite: Dangerous](https://www.elitedangerous.com/)
 
 ---
