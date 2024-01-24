@@ -42,12 +42,12 @@ My projects:
 
 # General Purpose Software
 
-* [SWIG Node-API](https://www.swig.org/) - I am the author/maintainer of the Node-API support in SWIG and the still unmerged asynchronous wrappers support as well as the TypeScript support
+* [SWIG JSE](https://github.com/mmomtchev/swig) - I am the author/maintainer of the Node-API support in SWIG and I publish and maintain SWIG JavaScript Evolution which features very advanced JavaScript support for both Node.js and WASM in the browser
 * [nobind17](https://github.com/mmomtchev/nobind) - An experimental next-generation C++ to JavaScript binding framework for Node.js inspired by `pybind11` but using C++17 fold expressions
 * [pymport](https://github.com/mmomtchev/pymport) - Full compatibility of Python libraries with Node.js, use as if it was a native package
 * [libnode](https://github.com/mmomtchev/libnode) - Node.js-as-a-shared-library allowing easy calling of JS code from compiled C and C++ applications through the Node-API (C) and `node-addon-api` (C++) interfaces with Ubuntu/Debian packages, created as part of GSoC 2022
 * [magickwand.js](https://github.com/mmomtchev/magickwand.js) - Full ImageMagick-7 bindings for Node.js - meant both as a full-featured general-purpose image processing library for Node.js and as testing grounds for SWIG NAPI (of which I am the author), includes a tutorial for porting C++ libraries to Node.js
-* [node-ffmpeg](https://github.com/mmomtchev/node-ffmpeg) - A complete native integration of the `ffmpeg` audio and video streaming framework with Node.js using `nobind17`
+* [@mmomtchev/ffmpeg](https://github.com/mmomtchev/ffmpeg) - A complete native integration of the `ffmpeg` audio and video streaming framework with Node.js using `nobind17`
 * [everything-json](https://github.com/mmomtchev/everything-json) - Fast asynchronous JSON parser for Node.js that does not block the event loop
 * [sqlite-wasm-http](https://github.com/mmomtchev/sqlite-wasm-http) - the so-called _SQL over HTTP_ middleware, an alternative implementation of [`@phiresky/sql.js-httpvfs`](https://github.com/phiresky/sql.js-httpvfs) based on the new official SQLite WASM distribution
 * [ExprTk.js](https://github.com/mmomtchev/exprtk.js) - asynchronous Node.js bindings for [ExprTk](http://www.partow.net/programming/exprtk/index.html) - a mathematical expression engine - allowing for an effortless multithreading of computationally heavy tasks by supporting asynchronous execution of thunks precompiled from strings - it will eventually be supported by both `gdal-async` and `scijs`
@@ -82,6 +82,10 @@ My projects:
 * [velitherm](https://github.com/mmomtchev/velitherm) - an open-source library of basic thermodynamics equations used in soaring weather
   - [velitherm-visu](https://github.com/mmomtchev/velitherm-visu) - is an online air parcel calculator in React that uses the library
 * [igc-admin-analyze](https://github.com/mmomtchev/igc-admin-analyze) - a tool for analyzing IGC flight logs giving a percentage of time spent above given administrative divisions defined by their GeoJSON borders
+
+# Space
+
+* [orbitron](https://github.com/mmomtchev/orbitron) - a tool for making `.gif` and `.mp4` animations of orbiting bodies out of the NASA/JPL Horizons data
 
 # Websites
 
