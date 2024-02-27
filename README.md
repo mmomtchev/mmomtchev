@@ -8,7 +8,7 @@ WARNING
 
 Currently, after moving away from Snyk because they have been submitting sabotage PRs: https://github.com/mmomtchev/velivole-mobile/pull/56, I started using @dependabot, which also submitted a sabotage PR: https://github.com/mmomtchev/ol-mbtiles/pull/85.
 
-After evaluating my options, I came to the conclusion that at the moment it will cost me less to validate all PRs, then to move away from dependabot, but everyone who relies on it, should now that using it for sabotage in cases of judicial corruption is allowed and tolerated behavior at @github.
+After evaluating my options, I came to the conclusion that at the moment it will cost me less to validate all PRs, then to move away from dependabot, but everyone who relies on it, should know that using it for sabotage in cases of judicial corruption is allowed and tolerated behavior at @github.
 
 *(since this event - any my particularly derogatory comments about it - @dependabot has been submitting PRs simultaneous with comments on some major @OpenJS projects)*
 ***
