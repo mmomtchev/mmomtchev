@@ -3,70 +3,73 @@
 
 ![Blue Anarchist flag](https://garga.net/blue_anarchist.png)
 
-***
-WARNING
+# You saw me at dotJS 2024?
 
-Currently, after moving away from Snyk because they have been submitting sabotage PRs: https://github.com/mmomtchev/velivole-mobile/pull/56, I started using @dependabot, which also submitted a sabotage PR: https://github.com/mmomtchev/ol-mbtiles/pull/85.
+Here are my guerilla slides:
 
-After evaluating my options, I came to the conclusion that at the moment it will cost me less to validate all PRs, then to move away from dependabot, but everyone who relies on it, should know that using it for sabotage in cases of judicial corruption is allowed and tolerated behavior at @github.
+* [Markdown version](guerilla-slides-2024-dotjs.md)
+  
+* GIF version
 
-*(since this event - any my particularly derogatory comments about it - @dependabot has been submitting PRs simultaneous with comments on some major @OpenJS projects)*
-***
+![GIF](https://orel.garga.net/guerilla-slides-2024-dotjs.gif)
 
-<table border="0">
- <tr>
-    <td>
-      <p>I am an unemployed IT engineer living on social welfare in a legal <em>no-man's-land</em> after an ex-employer covered up a series of very serious sexually-motivated crimes and tried to extort me to not talk about what happened. The affair has spiraled out ouf control and it involves a very large number of French judicial officials, the French police, politically exposed persons, and many big IT companies such as Google, Twitter, Amazon AWS, OSGeo, the OpenJS Foundation, StackOverflow, some YCombinator companies and even Steam and Cloud Imperium Games.</p>
-      <p>I have excellent technical level and solid experience that is not available on the job market. I am looking for a company that will refuse to take part in the extortion - unlike my previous employers.</p>
-      <p>This point is absolutely non-negotiable - I am willing to continue to live off social welfare until I find a non-criminal company.</p>
-      <p>I also plan to dedicate part of my energy - and my life - to combatting corruption in the French judiciary, police, government administration and the European institutions.</p>
-      <p>I invite you to take a look at my projects.</p>
-    </td>
-    <td>
-    <p>Je suis un ingénieur en informatique qui vit au RSA en dehors de tout cadre légal. Mes deniers employeurs ont couvert une série de graves délits, dont à la fois la motivation et le caractère sont de nature sexuelle. Ensuite ils ont tenté de faire chantage par le biais des cabinets de recrutement et actuellement on me pose des conditions extraordinaires - y inclus de nature sexuelle - pour que je puisse retravailler. Depuis, l'affaire a été démultipliée en boule de neige et elle implique actuellement des magistrats de justice, la Police Nationale, quelques grands noms de la politique et le business, et les grandes entreprises du secteur comme Google, Twitter, Amazon AWS, OSGeo, la fondation OpenJS, StackOverflow, YCombinator et même Steam et Cloud Imperium Games.</p>
-    <p>J'ai un excellent niveau et expérience qu'on ne trouve pas sur le marché du travail. Je suis à la recherche d'une société est prête à refuser de s'impliquer au chantage - ce qui n'a pas été le cas de mes employeurs juqu'au présent.</p>
-    <p>Ce point n'est pas à débattre - je suis prêt à vivre au RSA tant que je ne trouve pas une entreprise qui n'est pas criminelle.</p>
-    <p>Je compte également dédier une partie de mon énergie - et ma vie - à la lutte contre la corruption au sein du système judiciaire, la police, l'administration publique et les institutions européennes.</p>
-    <p>Je vous invite à parcourir la liste de mes projets.</p>
-    </td>
- </tr>
-</table>
+* [HTML version](https://orel.garga.net/guerilla-slides-2024-dotjs/)
 
-Core skills:
-  * Top-of-the-line C/C++ and JavaScript/Typescript level
-  * Top-of-the-line understanding of language interpreters and their internals - especially Node.js/V8 and to a lesser degree Python
-  * Very good understanding of operating system internals - especially Linux and BSD
-  * Experience working with compiler internals
-  * Experience working with networking stacks and developing network hardware
-  * GIS, computational geometry and spatial algorithms
-  * Very good understanding of browser JavaScript, WASM, React and web bundlers
-  * High-performance computing, parallel computation and numerical weather prediction
 
-![Eunuch Programmers](https://orel.garga.net/image-3175739551.jpg)
+# My work
 
-I have started maintaining a list of the companies where the kind of deal I am offered is possible - there are some very large French and US companies in it - you can find it [here](https://github.com/mmomtchev/mmomtchev/blob/master/BUSINESS-AS-USUAL.md).
+I am an unemployed IT engineer living on social welfare in a legal *no-man's-land* and working full-time on open-source software.
 
-*I am maintaining a large number of binary Node.js projects - if you use any of them, you should know that I am ready to provide pre-built binaries for Macbooks with Apple Silicon if someone provides me a remote access to such hardware. If paying by the hour, expect about an hour of average daily usage. If you care only about the software and do not want be involved with the criminal affair, there are various options for anonymous sponsorship.*
+You can find a brief summary of my situation at the end.
 
-My projects:
+My current main area of expertise is linking C++ and JavaScript.
+
+My main projects are:
+ * [SWIG JavaScript Evolution](https://github.com/mmomtchev/swig)  - An automatic bindings generator/compiler for C/C++ libraries, produces dual-environment bindings - Node.js native addon and a WASM bundle
+ * The [`hadron`](https://github.com/mmomtchev/hadron) build system for JavaScript - A `meson`-based alternative to `node-gyp` that supports dual-environment C/C++ projects, `conan` integration and can use *xPacks* for a completely self-contained build that does not assume anything about the user host
+ * [`libnode`](https://github.com/mmomtchev/libnode) - a GSoC-sponsored project that allows to easily call JavaScript subroutines from C++ using Node-API - alas, this project is currently frozen at Node.js 18.x since I have been banned from interacting with the Node.js' projects on github (see my story at the end for more details on this *incident*)
+ * [`nobind17`](https://github.com/mmomtchev/nobind) - an experiment in developing the next generation automatic bindings for C++ and JavaScript - inspired by `pybind11` but with a focus on C++17
+
+Additionally, I have authored and maintain a number of bindings of C/C++ libraries for JavaScript:
+
+ * [`node-gdal-async`](https://github.com/mmomtchev/node-gdal-async)
+    
+    fork of the unmaintained `gdal`/`gdal-next`
+    GDAL bindings for Node.js
+    An early generation Node.js addon using NAN, I transformed the sync bindings in async bindings
+
+   - [`ndarray-gdal`](https://github.com/mmomtchev/ndarray-gdal) is the [`scijs`](https://github.com/scijs/ndarray) plugin
+   - [`gdal-exprtk`](https://github.com/mmomtchev/gdal-exprtk) is the [`ExprTk.js`](https://github.com/mmomtchev/exprtk.js) plugin
+
+ * [`ExprTk.js`](https://github.com/mmomtchev/exprtk.js) / [`jeetah`](https://github.com/mmomtchev/jeetah)
+
+    Node-API manual bindings for ExprTk for Node.js including an experimental JIT compiler that allows to run parallel vector calculations on `TypedArray`s without being constrained by the V8 monothreaded model
+
+ * [`everything-json`](https://github.com/mmomtchev/everything-json)
+
+    Node-API manual bindings for `simdjson`, the fastest JSON parser in the world, the everything JSON parser for Node.js - asynchronous, very high performance, yieldable and with partial decoding support - check it to see why JSON parsing is such a problem in Node.js (it is synchronous!)
+
+ * [`sqlite-wasm-http`](https://github.com/mmomtchev/sqlite-wasm-http)
+
+    `embind` semi-automatic bindings for `sqlite3` for WASM with a transparent SQL over plain HTTP support, inspired by phiresky's original implementation for `sqlite.js`
+
+ * [`magickwand.js`](https://github.com/mmomtchev/magickwand.js)
+
+    The SWIG JSE showcase project, fully automatic SWIG JSE-generated bindings for ImageMagick for JavaScript - 400k of C++ code generated with 600 lines of SWIG code, native addon in Node.js, WASM bundle in the browser, web-bundler friendly, async support and TypeScript support
+ * [`@mmomtchev/ffmpeg`](https://github.com/mmomtchev/ffmpeg)
+
+    The `nobind17` showcase project, semi-automatic `nobind17` bindings for ffmpeg for Node.js - complete with a native streams API, async support and Typescript support
+
+ * [`proj.js`](https://github.com/mmomtchev/proj.js)
+ 
+    Another SWIG JSE project, still under development, fully automatic SWIG JSE-generated bindings for a project with advanced C++17 features
+
+My other projects:
 
 # General Purpose Software
 
-* [SWIG JSE](https://github.com/mmomtchev/swig) - I am the author/maintainer of the Node-API support in SWIG and I publish and maintain SWIG JavaScript Evolution which features very advanced JavaScript support for both Node.js and WASM in the browser
-* [nobind17](https://github.com/mmomtchev/nobind) - An experimental next-generation C++ to JavaScript binding framework for Node.js inspired by `pybind11` but using C++17 fold expressions
-* [pymport](https://github.com/mmomtchev/pymport) - Full compatibility of Python libraries with Node.js, use as if it was a native package
-* [libnode](https://github.com/mmomtchev/libnode) - Node.js-as-a-shared-library allowing easy calling of JS code from compiled C and C++ applications through the Node-API (C) and `node-addon-api` (C++) interfaces with Ubuntu/Debian packages, created as part of GSoC 2022
-* [magickwand.js](https://github.com/mmomtchev/magickwand.js) - Full ImageMagick-7 bindings for Node.js - meant both as a full-featured general-purpose image processing library for Node.js and as testing grounds for SWIG NAPI (of which I am the author), includes a tutorial for porting C++ libraries to Node.js
-* [@mmomtchev/ffmpeg](https://github.com/mmomtchev/ffmpeg) - A complete native integration of the `ffmpeg` audio and video streaming framework with Node.js using `nobind17`
-* [everything-json](https://github.com/mmomtchev/everything-json) - Fast asynchronous JSON parser for Node.js that does not block the event loop
-* [sqlite-wasm-http](https://github.com/mmomtchev/sqlite-wasm-http) - the so-called _SQL over HTTP_ middleware, an alternative implementation of [`@phiresky/sql.js-httpvfs`](https://github.com/phiresky/sql.js-httpvfs) based on the new official SQLite WASM distribution
-* [ExprTk.js](https://github.com/mmomtchev/exprtk.js) - asynchronous Node.js bindings for [ExprTk](http://www.partow.net/programming/exprtk/index.html) - a mathematical expression engine - allowing for an effortless multithreading of computationally heavy tasks by supporting asynchronous execution of thunks precompiled from strings - it will eventually be supported by both `gdal-async` and `scijs`
-* [jeetah](https://github.com/mmomtchev/jeetah) - an optimizing compiler for mathematical expressions in JavaScript
 * [documentation-polyglot](https://github.com/mmomtchev/documentation-polyglot) - a plugin that adds *C++* support to `documentation.js` via the new plugin framework that I am currently making
 * [documentation-hipster](https://github.com/mmomtchev/documentation-hipster) - is a beautiful `documentation.js` Bootstrap-based theme with support for TypeScript and React components - one of its goals is to provide an almost drop-in replacement for the seemingly dying [react-styleguidist](https://react-styleguidist.js.org/) project
-* [react-native-settings](https://github.com/mmomtchev/react-native-settings) - an all-in-one component for creating cross-platform settings (preferences) screens with React Native
-* [react-edit-list](https://github.com/mmomtchev/react-edit-list) - an universal editable ListView React component that can interact with an external API
-* [@mmomtchev/expo-android-localized-app-name](https://github.com/mmomtchev/expo-android-localized-app-name) - an [expo](https://expo.dev) plugin for having a localized app name in managed React Native workflows
 * [yatag](https://github.com/mmomtchev/yatag) - is a tool that I use to generate the TypeScript type definitions in most of my projects, it is slowly reaching maturity
 * [Queue](https://github.com/mmomtchev/Queue) - is a rather simple but useful package for rate-limiting access to external APIs
 * [@mmomtchev/node-pre-gyp-github](https://github.com/mmomtchev/node-pre-gyp-github) - an almost complete rewrite of the popular [node-pre-gyp-github](https://github.com/bchr02/node-pre-gyp-github) abandoned by its author, compatible with the current version of the GitHub API
@@ -74,9 +77,6 @@ My projects:
 
 # Geospatial Software
 
-* [node-gdal-async](https://github.com/mmomtchev/node-gdal-async) - I am actively developing the GDAL bindings for Node.js which used to be abandoned by its creator
-  - [ndarray-gdal](https://github.com/mmomtchev/ndarray-gdal) is the [scijs](https://github.com/scijs/ndarray) plugin
-  - [gdal-exprtk](https://github.com/mmomtchev/gdal-exprtk) is the [ExprTk.js](https://github.com/mmomtchev/exprtk.js) plugin
 * [rlayers](https://github.com/mmomtchev/rlayers) - a set of React components for creating online maps with OpenLayers
 * [ol-mbtiles](https://github.com/mmomtchev/ol-mbtiles) - an Openlayers plugin adding `MBTiles` support
 * [intercity.js](https://github.com/mmomtchev/intercity) - a still unreleased Work-In-Progress for a dynamic data WMTS/WMS/WCS/WFS server for Node.js
@@ -97,9 +97,15 @@ My projects:
 
 * [orbitron](https://github.com/mmomtchev/orbitron) - a tool for making `.gif` and `.mp4` animations of orbiting bodies out of the NASA/JPL Horizons data
 
+# No longer maintained
+
+* [react-native-settings](https://github.com/mmomtchev/react-native-settings) - an all-in-one component for creating cross-platform settings (preferences) screens with React Native
+* [react-edit-list](https://github.com/mmomtchev/react-edit-list) - an universal editable ListView React component that can interact with an external API
+* [@mmomtchev/expo-android-localized-app-name](https://github.com/mmomtchev/expo-android-localized-app-name) - an [expo](https://expo.dev) plugin for having a localized app name in managed React Native workflows
+
 # Websites
 
-I am mostly a C++/JavaScript integration expert with a focus on V8/Node.js internals, but I also do lots of browser JS / web development:
+I also do lots of browser JS / web development:
 * [velivole.fr / meteo.guru](https://www.velivole.fr) - is a free soaring weather site for paragliding, hang-gliding and sail-plane pilots. It is complex application which includes a **vanilla JS / OpenLayers 6 / custom webpack** front-end, an **Express.js/Node.js** backend and a **Node.js/C++** computational engine for specialized numerical weather prediction that consists of a secondary model running on top of the French and German national weather models. You can see an overview of velivole/meteo.guru [here](https://raw.githubusercontent.com/mmomtchev/mmomtchev/master/velivole.fr-Architecture-Overview.svg) and explore its API [here](https://www.velivole.fr/apidoc/). The website includes a number of GIS innovations, including the remote querying of MVT data using [query-mvt](https://github.com/mmomtchev/query-mvt). It is also the very first site in the world to support the displaying of remote MBTiles maps using [ol-mbtiles](https://github.com/mmomtchev/ol-mbtiles). Almost all of my GIS software listed above is used in some way on this site.
 * [xc-db.velivole.fr](https://xcdb.velivole.fr) - an [open-sourced](https://github.com/mmomtchev/xc-db) navigator/explorer that can uses basic machine-learning (an algorithm loosely based on K-means clustering) to deduce the typical routes pilots will take depending on the prevailing winds by classifying all paragliding flights of the French Federal Distance Cup of the French Paragliding Association. **Node.js/Express.js/gdal-async** backend with a **React/Redux/rlayers** front-end. *No mobile version available at the moment.* The sites is a demonstration of the capabilities of `gdal-async` used with Express.js and `rlayers` as it includes a dynamically computed particle visualization entirely in React/rlayers that uses an SQL database with 700M lines.
 * [isitplausible.com](https://isitplausible.com) - a StackOverflow-inspired website for analyzing the scientific accuracy of Sci-Fi movies, books and video games. **Node.js/Express.js** backend with **React/Next.js**, this was my first foray in the world of server-side rendering with React.
@@ -129,3 +135,32 @@ I am an active member of the French Paragliding and Hang-gliding Federation <htt
 *Vous pouvez également lire mon introduction rapide à la thermodynamique appliquée au vol libre et le vol à voile ici: [THERMODYNAMIQUE.md](https://github.com/mmomtchev/velivole/blob/main/THERMODYNAMIQUE.md).*
 
 *There is also an English version of my introduction to the basic concepts of Thermodynamics for Soaring Flight here: [THERMODYNAMICS.md](https://github.com/mmomtchev/velivole/blob/main/THERMODYNAMICS.md).*
+
+# My current situation
+
+![Eunuch Programmers](https://orel.garga.net/image-3175739551.jpg)
+
+I am an unemployed IT engineer living on social welfare in a legal *no-man's-land* and working full-time on open-source software.
+
+An ex-employer of mine who needed to prove something of sexual nature to his immediate entourage (all of this happened after I left his company):
+
+ * Tried buying people in my entourage - I was in my late 20s - in order to play games of intimate nature with people I knew
+ * Bought someone in my extended family in Bulgaria (I am a Bulgarian national who has spent most of his adult life in France) to serve as a cover story - in fact this person had little to do with most of this affair
+ * Ended organizing false rape charges - on three different occasions - investigated twice by the French "police" - once going through a criminal courts - where the affair was covered up by the judges and a lawyer with a Wikipedia page who is the current president of the French ADL - as the affair had far reaching consequences for several politically exposed names in French IT business and politics - and involved Parisian night-life, various legal and illegal drugs, ED enhancers and unusual sexual practices - it was covered up without any proceedings or written documents
+ * Normally, at this point, I should have received a huge severance package and everything should have stopped here - however as the guy who started it all was unable to admit the very reason that motivated the whole affair, everything did continue
+ * My extended family in Bulgaria - who hardly knew me - fell easily to the promise that everything could be "fixed" - without going public with the sexual details - and by the time they realized their error, they had already committed numerous felonies
+ * At this point they tried extorting me with all the sexual elements of the affair - without any success - from this point on the French police started taking active part in the affair
+ * In order to stop me from talking, my next employer took part in an absolutely shocking sexual harassment - including references to penises and viagra - all while pretending that it was all a coincidence and I was being psychotic
+ * Absolutely the same game started in the paragliding world - by buying off people and offering sponsorships - most of them official - as at this point, the involvement of the police and courts offered total immunity
+ * When it became impossible to pretend that nothing happened, I was fired from my job and another round of lawsuits were covered up - adding many new lawyers and judges to the affair - including at the EU level - where I sued the French state for denying me the right to a fair trial
+ * From this point on, I have been working on open source software while living on social welfare with a few bucks per day - and much of what happened earlier is being repeated in the open source projects I have worked in
+ * My phone company, my bank and my insurance company have all been involved - frequently showing it clearly as an intimidation tactic
+ * Last year, I was banned from the Node.js project after the French police came - illegally - to my home - with their guns drawn - to try to intimidate me - during the next few days all projects I had worked in posted simultaneous messages - and Node.js banned me because I said what had happened
+ * By now, the affair has included companies such as Google, Facebook, X (Twitter), Microsoft and Amazon - many of them - especially Google - being involved in the penis games - and the extortion - for example recently my insurance company stole part of my food money from me by falsifying documents - and then they went to simultaneously send me an SMS along with a message in a Google-backed opensource project to show me that it was part of the extortion
+ * It also includes all my online accounts - even things like my Discord, Steam, Spotify, Sonetel, CIG (producers of Star Citizen - this affair is very active there at the moment) - or for example even my [`uptimerobot.com`](https://uptimerobot.com) - where recently they did take part in a DoS against my website by Google, Facebook, Microsoft and Amazon
+
+I am being offered a job - if I accept to never talk about this affair again - and accept that the penis game continues - because the organizer of the affair needs to be able to explain it.
+ 
+I have started maintaining a list of the companies where the kind of deal I am offered is possible - there are some very large French and US companies in it - you can find it [here](https://github.com/mmomtchev/mmomtchev/blob/master/BUSINESS-AS-USUAL.md).
+
+*I am maintaining a large number of binary Node.js projects - if you use any of them, you should know that I am ready to provide pre-built binaries for Macbooks with Apple Silicon if someone provides me a remote access to such hardware. If paying by the hour, expect about an hour of average daily usage. If you care only about the software and do not want be involved with the criminal affair, there are various options for anonymous sponsorship.*
