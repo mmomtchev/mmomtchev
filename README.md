@@ -136,6 +136,17 @@ I am an active member of the French Paragliding and Hang-gliding Federation <htt
 
 *There is also an English version of my introduction to the basic concepts of Thermodynamics for Soaring Flight here: [THERMODYNAMICS.md](https://github.com/mmomtchev/velivole/blob/main/THERMODYNAMICS.md).*
 
+# Future projects
+
+Should I have funding (it is absolutely pointless to seek any deals involving this affair since I am obviously ready to not have enough to eat in order to win), the following projects could see the light of the day:
+
+* `jimport` - the inverse of `pymport` - instantly gain the most significant advantage of Node.js when using Django - **sharing code with the front-end** - at the cost of a significantly increased memory footprint - but without any execution time penalties
+   - this project is currently blocked by the `libnode` situation
+
+* A spiritual successor to SWIG that uses the LLVM front-end to generate cross-language bindings using `pybind11`, `embind` and `nobind17`
+   
+* Porting the Python dynamic linker to the WASM platform - this would allow to have a full Python interpreter - compatible with all Python modules - as a platform-independent WASM binary - that could run even in the browser - and/or be transparently installed by `npm`
+
 # My current situation
 
 ![Eunuch Programmers](https://orel.garga.net/image-3175739551.jpg)
