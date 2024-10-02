@@ -32,18 +32,18 @@ My main projects are:
 
 Additionally, I have authored and maintain a number of bindings of C/C++ libraries for JavaScript:
 
- * [`node-gdal-async`](https://github.com/mmomtchev/node-gdal-async)
-    
-    fork of the unmaintained `gdal`/`gdal-next`
+ * [`magickwand.js`](https://github.com/mmomtchev/magickwand.js)
+
+    The SWIG JSE showcase project, fully automatic SWIG JSE-generated bindings for ImageMagick for JavaScript - 400k of C++ code generated with 600 lines of SWIG code, native addon in Node.js, WASM bundle in the browser, web-bundler friendly, async support and TypeScript support
+
+ * [`node-gdal-async`](https://github.com/mmomtchev/node-gdal-async) 
+ 
+    Fork of the no longer maintained `gdal`/`gdal-next`
     GDAL bindings for Node.js
     An early generation Node.js addon using NAN, I transformed the sync bindings in async bindings
 
    - [`ndarray-gdal`](https://github.com/mmomtchev/ndarray-gdal) is the [`scijs`](https://github.com/scijs/ndarray) plugin
    - [`gdal-exprtk`](https://github.com/mmomtchev/gdal-exprtk) is the [`ExprTk.js`](https://github.com/mmomtchev/exprtk.js) plugin
-
- * [`ExprTk.js`](https://github.com/mmomtchev/exprtk.js) / [`jeetah`](https://github.com/mmomtchev/jeetah)
-
-    Node-API manual bindings for ExprTk for Node.js including an experimental JIT compiler that allows to run parallel vector calculations on `TypedArray`s without being constrained by the V8 monothreaded model
 
  * [`everything-json`](https://github.com/mmomtchev/everything-json)
 
@@ -53,9 +53,6 @@ Additionally, I have authored and maintain a number of bindings of C/C++ librari
 
     `embind` semi-automatic bindings for `sqlite3` for WASM with a transparent SQL over plain HTTP support, inspired by phiresky's original implementation for `sqlite.js`
 
- * [`magickwand.js`](https://github.com/mmomtchev/magickwand.js)
-
-    The SWIG JSE showcase project, fully automatic SWIG JSE-generated bindings for ImageMagick for JavaScript - 400k of C++ code generated with 600 lines of SWIG code, native addon in Node.js, WASM bundle in the browser, web-bundler friendly, async support and TypeScript support
  * [`@mmomtchev/ffmpeg`](https://github.com/mmomtchev/ffmpeg)
 
     The `nobind17` showcase project, semi-automatic `nobind17` bindings for ffmpeg for Node.js - complete with a native streams API, async support and Typescript support
@@ -63,6 +60,10 @@ Additionally, I have authored and maintain a number of bindings of C/C++ librari
  * [`proj.js`](https://github.com/mmomtchev/proj.js)
  
     Another SWIG JSE project, still under development, fully automatic SWIG JSE-generated bindings for a project with advanced C++17 features
+
+* [`ExprTk.js`](https://github.com/mmomtchev/exprtk.js) / [`jeetah`](https://github.com/mmomtchev/jeetah)
+
+    Node-API manual bindings for ExprTk for Node.js including an experimental JIT compiler that allows to run parallel vector calculations on `TypedArray`s without being constrained by the V8 monothreaded model
 
 My other projects:
 
