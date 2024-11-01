@@ -1,7 +1,13 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
 [![Stand With Palestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner)
 
-**Update: since Oct 24 I am homeless and living in my van. I lost access to most of my computer hardware. The eviction from my home has been timed for maximum effect as I was not present when it happened. I have only a single set of clothes and no means to get anything else. Please, if you use my software, consider asking everyone around you if they are taking part in this extortion and why.**
+# Latest Updates
+
+* **Oct 24: I am now homeless and living in my van. I lost access to most of my computer hardware. The eviction from my home has been timed for maximum effect as I was not present when it happened. I have only a single set of clothes and no means to get anything else. Please, if you use my software, consider asking everyone around you if they are taking part in this extortion and why.**
+
+ * Oct 27: I am trying to find a place in a homeless shelter. France being a social welfare state, this situation would normally be impossible to happen, but in this case, there was at least some degree of criminal complicity by all parties involved.
+
+ * Oct 29: I was offered a job and return to relative normalcy if I accept to stop talking about this affair - which obviously I can no longer allow. If you are curious about the company where this is business as usual - the recruiting agency is [Welcome to the Jungle](https://www.welcometothejungle.com/) (*name checks out*) with offices in the US, France, Spain and other countries, the company is [Discngine](https://www.discngine.com/) and the offer was relayed though the French state unemployment office which have been involved in this affair since I was fired for filing a complaint.
 
 ![Blue Anarchist flag](https://garga.net/blue_anarchist.png)
 
