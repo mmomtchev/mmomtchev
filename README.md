@@ -3,6 +3,10 @@
 
 # Latest Updates
 
+ * Dec 2: Since I declared my new postal address at the Salvation Army, someone subscribed me to the LIDL newsletter at this address. This is the address I gave to the Post Office in order to forward my mail - because of a character length limitation it was written in a very peculiar way. The Post Office has been giving access to my mail for almost 10 years now and LIDL provide access to my shopping receipts since at least 2022.
+
+ * Nov 26: I am one of the homeless people present at the camp next to the French Minister in charge of Housing protesting against the lack of shelters for homeless people, I usually provide night watch
+
  * Nov 25: Someone is posting in the [DAL](https://www.droitaulogement.org/) WhatsApp group simultaneous with the same calls I have been getting.
 
  * Nov 25: Since I created a TikTok account a few days ago, I have been getting simultaneous notifications from them with calls from the Viagra numbers. It is not immediately clear if TikTok or Google are the ones doing this. Google have greatly contributed to the *anatomy investigation* since day 1 by kindly providing access to my emails.
