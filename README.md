@@ -3,6 +3,10 @@
 
 # Latest Updates
 
+ * Dec 9: Besides always switching off my cellphone, I started using cash to prevent further identification of the supermarkets I was using. I used my Crédit Mutuel card to draw some money from an ATM and 20 minutes later I received a notification from my N26 card (Crédit Mutuel's mobile app cannot send free text notifications) that I had nothing to worry about and I could continue to use my card.
+
+ * Dec 7: I was preparing to go to sleep at a parking in Le Mée-sur-Seine - I had not turned off my cellphone - when someone dressed as private security officer armed with a flashlight knocked on my door - he told me that he wanted to see my face because I did not speak very well French and could have been a pedophile - I got out of the van and saw that he was driving a car with German registration - I hesitated calling the police but alas impersonating a private security officer is not a felony - unlike impersonating a police officer. Still, one must note the very slight increase in cerebral activity since one year ago when the real police came armed to my home to try to intimidate me - someone had told them that by using the codeword *conspiracy* they could prevent me from saying what happened.
+
  * Dec 2: Since I declared my new postal address at the Salvation Army, someone subscribed me to the LIDL newsletter at this address. This is the address I gave to the Post Office in order to forward my mail - because of a character length limitation it was written in a very peculiar way. The Post Office has been giving access to my mail for almost 10 years now and LIDL provide access to my shopping receipts since at least 2022.
 
  * Nov 26: I am one of the homeless people present at the camp next to the French Minister in charge of Housing protesting against the lack of shelters for homeless people, I usually provide night watch
