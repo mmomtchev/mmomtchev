@@ -3,6 +3,8 @@
 
 # Latest Updates
 
+ * Dec 26: I am currently considering buying an refurbished Macbook since my 12V Macbook is a 2010 model. I was looking at the various offers on [backmarket.com](https://backmarket.com) and when I finally decided to get money from retirement plan, I got an SMS from MondialRelay who used to block my parcels - after initially just snooping. It is an SMS from their official platform but contains a phishing URL. My telecom operator - Free - and my bank - Crédit Mutuel gave this information. For now, it is not clear if backmarket.com and UPS will also take part in the extortion.
+
  * Dec 10: The very first day I started researching my article on the Forez crusading family in the François Mitterrand French National Library, someone opened my locker (one has to leave all personal belongings in a locker before being able to enter the library) and left it wide open. I started using scotch tape to see if someone continued to open it and today someone had simply folded it back on itself - in order for this to be as obvious as possible - I also got a call from the Viagra numbers when it happened - I did file an official complaint this time.
 
  * Dec 9: Besides always switching off my cellphone, I started using cash to prevent further identification of the supermarkets I was using. I used my Crédit Mutuel card to draw some money from an ATM and 20 minutes later I received a notification from my N26 card (Crédit Mutuel's mobile app cannot send free text notifications) that I had nothing to worry about and I could continue to use my card.
