@@ -3,6 +3,10 @@
 
 # Latest Updates
 
+ * Dec 31: I was able to receive my refurbished Macbook Air without too much trouble - not counting the fact that I received a phishing SMS from a private phone instead of the official UPS code when I used the double authentication - but this was certainly my telecom provider - and not UPS. Alas, my refurbished Macbook had a number of keys on the keyboard that were short-circuited and were not working so I had to send it back.
+
+ * Dec 30: Someone subscribed me with my new Salvation Army address to the Leroy-Merlin newsletters - another shop where it was vital to know what exactly I had been buying - I bought the cardboard boxes that I used to pack my stuff from my apartment.
+
  * Dec 26: I am currently considering buying an refurbished Macbook since my 12V Macbook is a 2010 model. I was looking at the various offers on [backmarket.com](https://backmarket.com) and when I finally decided to get money from retirement plan, I got an SMS from MondialRelay who used to block my parcels - after initially just snooping. It is an SMS from their official platform but contains a phishing URL. My telecom operator - Free - and my bank - Crédit Mutuel gave this information. For now, it is not clear if backmarket.com and UPS will also take part in the extortion.
 
  * Dec 10: The very first day I started researching my article on the Forez crusading family in the François Mitterrand French National Library, someone opened my locker (one has to leave all personal belongings in a locker before being able to enter the library) and left it wide open. I started using scotch tape to see if someone continued to open it and today someone had simply folded it back on itself - in order for this to be as obvious as possible - I also got a call from the Viagra numbers when it happened - I did file an official complaint this time.
