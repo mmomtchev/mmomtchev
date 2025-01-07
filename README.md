@@ -3,6 +3,10 @@
 
 # Latest Updates
 
+ * Jan 7: The backmarket.fr support told me that they were unable to replace my Macbook and offered me a model with less RAM, which I refused. I got simultaneous DDoS attack on my Star Citizen site from a few dozen hosts with MacOS IDs with this message.
+
+ * Jan 5: As the Chronopost parcel containing my refurbished Macbook traveled back to its vendor on backmarket.fr, I got SMS messages from a private phone number containing the shipment details of a fictitious MondialRelay package.
+
  * Dec 31: I was able to receive my refurbished Macbook Air without too much trouble - not counting the fact that I received a phishing SMS from a private phone instead of the official UPS code when I used the two factor authentication - but this was certainly my telecom provider - Free - by now their situation is similar to Google - and UPS had probably nothing to do with it. Alas, my refurbished Macbook had a number of keys on the keyboard that were short-circuited and were not working so I had to send it back.
 
  * Dec 30: Someone subscribed me with my new Salvation Army address to the Leroy-Merlin newsletters - another shop where it was vital to know what exactly I had been buying - I bought the cardboard boxes that I used to pack my stuff from my apartment.
