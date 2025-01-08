@@ -3,6 +3,8 @@
 
 # Latest Updates
 
+> Vincent van Gogh's style is characterized by bold, dramatic brush strokes, vibrant colors, and a sense of movement, often achieved through impasto techniques where paint is applied thickly. His work reflects emotional intensity and personal experiences, making him a key figure in the Post-Impressionist movement.
+
  * Jan 8: I just received a response from backmarket.fr who told me that they had replaced my Macbook Air with another with the same amount of RAM memory and a larger SSD drive - it is on its way shipped by UPS. Simultaneously with this response, I also received a job offer from the French National Unemployment Office for a system administrator at RATP - the state-owned company who runs the Parisian subway who have been tracking me - I sent them a CV as well as a link to my Github profile.
 
  * Jan 8: There has been a few more rounds of DDoS attacks on my Star Citizen site by hosts carrying old Macos IDs - what may appear to be a real botnet is actually composed of a very small number of ASNs - and they are located mostly at hosting providers - I have joined the IP sorted IPs in `DDoS_IPs_2024_01.txt`. Among the  companies involved one can site Hetzner - where velivole.fr used to be hosted, before they made it clear that they were spying on the traffic, Microsoft - who took part in the penisgate in the Node.js project, Apple - a newcomer, Huawei - a newcomer, Google - by now the list is too long, Bytedance - who took part in the previous DoSing, and many other brave companies who decided to go where no company has been before.
