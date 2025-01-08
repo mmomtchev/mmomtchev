@@ -3,6 +3,8 @@
 
 # Latest Updates
 
+ * Jan 8: There has been a few more rounds of DDoS attacks on my Star Citizen site by hosts carrying old Macos IDs - what may appear to be a real botnet is actually composed of a very small number of ASNs - and they are located mostly at hosting providers - one of them is Hetzner where velivole.fr used to be hosted - before they made it clear that they were spying on the traffic - I have joined the IP sorted IPs in `DDoS_IPs_2024_01.txt`.
+
  * Jan 7: The backmarket.fr support told me that they were unable to replace my Macbook and offered me a model with less RAM, which I refused. I got simultaneous DDoS attack on my Star Citizen site from a few dozen hosts with MacOS IDs with this message.
 
  * Jan 5: As the Chronopost parcel containing my refurbished Macbook traveled back to its vendor on backmarket.fr, I got SMS messages from a private phone number containing the shipment details of a fictitious MondialRelay package.
