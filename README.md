@@ -5,6 +5,8 @@
 
 > Vincent van Gogh's style is characterized by bold, dramatic brush strokes, vibrant colors, and a sense of movement, often achieved through impasto techniques where paint is applied thickly. His work reflects emotional intensity and personal experiences, making him a key figure in the Post-Impressionist movement.
 
+ * Jan 15: When not compiling, my new Macbook Air draws 1 amp which means that one good sunny day during the summer gives me about 60 hours of use. My 27" screen draws 2.5 amps which is about 24 hours of use per sunny day in the summer.
+
  * Jan 13: First day of this winter on which I am able to run my diesel heater entirely on solar power. From now on the days will be getting longer, the Sun will be reaching higher and the average temperature will be rising.
 
  * Jan 10: I just received another job offer from the French state unemployment agency - for a data engineer. I have got three of them for the last year - one after being evicted from my home, another one on Jan 9 with backmarket.fr and the today's one. After getting it, I was reminded to stop talking about this affair by a Google engineer. This is precisely the kind of [behavior](https://github.com/google/sanitizers/issues/1774) which once again confirms why something must happen at Google. Don't use technical forums for extortion and people won't be complaining about it.
