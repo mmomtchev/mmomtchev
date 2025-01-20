@@ -3,7 +3,7 @@
 
 # Latest Updates (the *Vincent van Gogh extortion*)
 
-> Vincent van Gogh's style is characterized by bold, dramatic brush strokes, vibrant colors, and a sense of movement, often achieved through impasto techniques where paint is applied thickly. His work reflects emotional intensity and personal experiences, making him a key figure in the Post-Impressionist movement.
+> Vincent van Gogh's style is characterized by bold, dramatic brush strokes, vibrant colors, and a sense of movement, often achieved through impasto techniques where paint is applied thickly. His work reflects emotional intensity and personal experiences, making him a key figure in the Post-Impressionist movement. UPDATE: backmarket.fr is offering a refund.
 
  * Jan 20: Only two of the companies contacted following the DDoS *incident* did answer - Google with an automated response and Hetzner who told me that without further input from me, they will consider the incident resolved. Well, I confirm, it has been resolved - I am keeping the keyboard with the sticky keys from backmarket.fr and you are keeping your current situation.
 
