@@ -3,7 +3,9 @@
 
 # Latest Updates (the *Vincent van Gogh extortion*)
 
-> Vincent van Gogh's style is characterized by bold, dramatic brush strokes, vibrant colors, and a sense of movement, often achieved through impasto techniques where paint is applied thickly. His work reflects emotional intensity and personal experiences, making him a key figure in the Post-Impressionist movement. UPDATE: backmarket.fr is offering a refund.
+> Vincent van Gogh's style is characterized by bold, dramatic brush strokes, vibrant colors, and a sense of movement, often achieved through impasto techniques where paint is applied thickly. His work reflects emotional intensity and personal experiences, making him a key figure in the Post-Impressionist movement.
+
+ * Jan 24: My extended family is once again playing the same game that they did during the second season - I get a connection request on a social network from a woman who knows someone else - simultaneous with a notification from one of the companies in France taking part in the affair. I used to get these a lot during the second season - the 2012-2019 period - sometimes they kept using long-forgotten girls from my childhood and high-school years. I also got some during the third season - the current period. It is not clear if she was supposed to gain knowledge of my anatomy - or to see that I was unemployed. During the third season I would usually also get a job offer where they will be making it clear that I am to accept this game without saying anything. And before you ask, as far as I know, I am not adopted.
 
  * Jan 20: Only two of the companies contacted following the DDoS *incident* did answer - Google with an automated response and Hetzner who told me that without further input from me, they will consider the incident resolved. Well, I confirm, it has been resolved - I am keeping the keyboard with the sticky keys from backmarket.fr and you are keeping your current situation.
 
