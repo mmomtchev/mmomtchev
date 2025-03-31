@@ -1,6 +1,18 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
 [![Stand With Palestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner)
 
+# You saw me at React Native Connection 2025?
+
+Here are my slides
+  
+## GIF version
+
+  ![GIF](https://mmomtchev.github.io/guerilla-slides/guerilla-slides-2025-react-native-connection.gif)
+
+## [HTML version](https://mmomtchev.github.io/guerilla-slides/guerilla-slides-2025-react-native-connection/)
+
+## [Markdown version](https://github.com/mmomtchev/guerilla-slides/blob/main/guerilla-slides-2024-dotjs.md)
+
 # Latest Updates (the *Vincent van Gogh extortion*)
 
 > Vincent van Gogh's style is characterized by bold, dramatic brush strokes, vibrant colors, and a sense of movement, often achieved through impasto techniques where paint is applied thickly. His work reflects emotional intensity and personal experiences, making him a key figure in the Post-Impressionist movement.
