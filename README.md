@@ -1,3 +1,4 @@
+![Github Stars](https://img.shields.io/github/stars/mmomtchev)
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
 [![Stand With Palestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner)
 
@@ -12,6 +13,8 @@ Here are my slides
 ## [HTML version](https://mmomtchev.github.io/guerilla-slides/guerilla-slides-2025-react-native-connection/)
 
 ## [Markdown version](https://github.com/mmomtchev/guerilla-slides/blob/main/guerilla-slides-2024-dotjs.md)
+
+The next section details the latest events in my affair since I was evicted from my home as a last-ditch attempt to force me to accept a job in a criminal company without talking about the criminal cases, then there is a list of my main projects (I have over 1k stars), then there is a brief summary of the whole affair.
 
 # Latest Updates (the *Vincent van Gogh extortion*)
 
