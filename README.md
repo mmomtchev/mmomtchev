@@ -20,6 +20,10 @@ The next section details the latest events in my Jason Bourne lifestyle since I 
 
 > Vincent van Gogh's style is characterized by bold, dramatic brush strokes, vibrant colors, and a sense of movement, often achieved through impasto techniques where paint is applied thickly. His work reflects emotional intensity and personal experiences, making him a key figure in the Post-Impressionist movement.
 
+ * Apr 11: Once again, I got my welfare suspended without any warning - I simply did not get the money at the beginning of the month. After checking, the official explanation was that once again I had forgot to fill the declaration - this is the third time this happens - after the first one I had sued the French administration, then I got a simultaneous message from the investigating judge with the second suspension as a warning. This time I had kept a copy of the declaration and the French administration admitted that it must have been some kind of a mistake.
+
+ * Apr 4: The police office in charge of my request for a new driving license tried convincing me that as a homeless person, I could not get it - I insisted that my PO box address at the Salvation Army was sufficient and they finally agreed.
+
  * Mar 28: DPD seem to have lost my parcel containing the flyers for React Native Connection 2025. They initially claimed that it was delivered, but the Salvation Army collect point that was the destination was closed on that day. Today I got a number of simultaneous tweets including one from DPD. I guess I am going to use leftover flyers from the last conference - I still have a full pack of them. In France, DPD is very close to the French national post office - which has been very heavily involved in this affair.
 
  * Mar 24: I am going guerilla style to the React Native Connection 2025 in Paris and I had ordered a pack of flyers and I just got a phishing SMS from a private phone number in France that says that my package does not fit in my mailbox. It is not clear if it is the printing house - pixartprinting.com - or DPD - the parcel shipping.
