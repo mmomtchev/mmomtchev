@@ -2,23 +2,11 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
 [![Stand With Palestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner)
 
-# You saw me at React Native Connection 2025?
-
-Here are my slides
-  
-## GIF version
-
-  ![GIF](https://mmomtchev.github.io/guerilla-slides/guerilla-slides-2025-react-native-connection.gif)
-
-## [HTML version](https://mmomtchev.github.io/guerilla-slides/guerilla-slides-2025-react-native-connection/)
-
-## [Markdown version](https://github.com/mmomtchev/guerilla-slides/blob/main/guerilla-slides-2024-dotjs.md)
-
-The next section details the latest events in my Jason Bourne lifestyle since I was evicted from my home as a last-ditch attempt to force me to accept a job in a criminal company without talking about the criminal cases, then there is a list of my main projects (I have over 1k stars), then there is a brief summary of the whole affair.
-
 # Latest Updates (the *Vincent van Gogh extortion*)
 
 > Vincent van Gogh's style is characterized by bold, dramatic brush strokes, vibrant colors, and a sense of movement, often achieved through impasto techniques where paint is applied thickly. His work reflects emotional intensity and personal experiences, making him a key figure in the Post-Impressionist movement.
+
+ * Apr 13-24: I have been getting multiple identical notifications on my mobile phone from N26, X and LIDL - companies that have made it clear that they are providing my personal information for this extortion - for the last two weeks. It is not clear if they are doing - or if Google is doing it - since the notifications do not appear in the applications' logs. Some of X's notifications mention masturbation and orgasms.
 
  * Apr 11: Once again, I got my welfare suspended without any warning - I simply did not get the money at the beginning of the month. After checking, the official explanation was that once again I had forgot to fill the declaration - this is the third time this happens - after the first one I had sued the French administration, then I got a simultaneous message from the investigating judge with the second suspension as a warning. This time I had kept a copy of the declaration and the French administration admitted that it must have been some kind of a mistake.
 
