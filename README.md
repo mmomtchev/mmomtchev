@@ -6,6 +6,8 @@
 
 > Vincent van Gogh's style is characterized by bold, dramatic brush strokes, vibrant colors, and a sense of movement, often achieved through impasto techniques where paint is applied thickly. His work reflects emotional intensity and personal experiences, making him a key figure in the Post-Impressionist movement.
 
+ * May 16: Today I got a simultaneous SMS from the French equivalent of IRS with one of those phone calls. The phone call came right before the SMS inviting me to fill my declaration - which I get each year around the same date - to demonstrate the insider knowledge.
+
  * May 15: The only refreshing news is that for the last few days the X goatse stream seems to have switched its focus from male genitalia to female mammary glands.
 
  * May 14: This morning I received two simultaneous mails - from [Pulsetic](https://app.pulsetic.com/monitors), the service monitoring my websites - velivole.fr, XC-DB, SCodex and a few others - as well as an offer to monitor my opensource projects from the University of Nebraska-Lincoln. For the past few weeks some of the locations in Pulsetic have been generating false positive checks, so I guess that this is related. Before Pulsetic, I was using [https://uptimerobot.com](https://uptimerobot.com) but they disconnected my service simultaneously with the criminal eviction from my home to serve as intimidation - in order to accept the job offer by [Discngine](https://www.discngine.com) who were willing take part in the goatse game.
