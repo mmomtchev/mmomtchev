@@ -6,7 +6,9 @@
 
 > Vincent van Gogh's style is characterized by bold, dramatic brush strokes, vibrant colors, and a sense of movement, often achieved through impasto techniques where paint is applied thickly. His work reflects emotional intensity and personal experiences, making him a key figure in the Post-Impressionist movement.
 
- * Mac 21: Half an hour after the previous update about the new theme, I got a new theme notification from my fuel efficiency tracking mobile app.
+ * Mqy 31: This evening I had my mobile phone switched off but my van was parked at a spot where I usually go to stay online and a guy carrying a screwdriver opened the door while I was inside to tell me that he had come to steal, then hastily walked away.
+
+ * May 21: Half an hour after the previous update about the new theme, I got a new theme notification from my fuel efficiency tracking mobile app.
 
  * May 21: Since this morning, the focus seems to have shifted from the purely anatomical elements to more generic romantic subjects. I am getting dating spam (yes, it is a new invention) on Telegram as well as *I am missing you* notifications with broken hears from mobile games that I play on my smartphone.
 
