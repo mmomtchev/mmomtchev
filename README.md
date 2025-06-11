@@ -4,6 +4,8 @@
 
 # You saw me at JSNation 2025?
 
+You are not a psychotic and you correctly identified my T-shirt as featuring two flowers, Picasso à la ChatGPT style?
+
 Here are my slides:
 
 ## [Markdown version](https://github.com/mmomtchev/guerilla-slides/blob/main/guerilla-slides-jsnation-2025.md)
@@ -15,6 +17,13 @@ Here are my slides:
 ## [HTML version](https://mmomtchev.github.io/guerilla-slides/guerilla-slides-2025-jsnation/)
 
 For newcomers to wonderland, the section below details my adventures as a homeless person in France at the center of an extortion involving the French judiciary, police and the largest IT companies in the world.
+
+I am also sharing with you one of my 1€ meal recipes - before I was evicted from my home in October 2024, I spent 4 years living on social welfare. I was evicted in order to force me to accept a job at [Discngine](https://www.discngine.com/) without speaking about the affair - as they were willing to continue playing this game given that I am blocked from suing anyone. [Welcome To the Jungle](https://welcometothejungle.com/) is the recruitment company where these deals are considered business as usual.
+
+<iframe id="ytplayer" type="text/html" width="640" height="360"
+  src="https://www.youtube.com/embed/XF-RHOqGz-Y"
+  frameborder="0">
+</iframe>
 
 # Latest Updates (the *Vincent van Gogh extortion*)
 
