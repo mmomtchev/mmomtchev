@@ -29,7 +29,9 @@ I am also sharing with you one of my 1€ meal recipes - before I was evicted fr
 
 > Vincent van Gogh's style is characterized by bold, dramatic brush strokes, vibrant colors, and a sense of movement, often achieved through impasto techniques where paint is applied thickly. His work reflects emotional intensity and personal experiences, making him a key figure in the Post-Impressionist movement.
 
- * Mqy 31: This evening I had my mobile phone switched off but my van was parked at a spot where I usually go to stay online and a guy carrying a screwdriver opened the door while I was inside to tell me that he had come to steal, then hastily walked away. I hadn't used my mobile phone today at this spot - this means that when my mobile phone is switched off, someone is scouting the places where I have been seen previously.
+ * Jun 11-13: I was at JSNation 2025 in Amsterdam. It was a huge success - unlike the previous two conferences where the organizers tried to ignore me - this time I was thrown out of the conference grounds - meaning that I gained not one, but two ranks at once on the Mahatma Gandhi scale. I was able to hand out my whole 500-pack of leaflets and people were generally very positive. Just as expected, here it was not possible to track me using my mobile phone as the local operators are not cooperating for now. 
+
+ * May 31: This evening I had my mobile phone switched off but my van was parked at a spot where I usually go to stay online and a guy carrying a screwdriver opened the door while I was inside to tell me that he had come to steal, then hastily walked away. I hadn't used my mobile phone today at this spot - this means that when my mobile phone is switched off, someone is scouting the places where I have been seen previously.
 
  * May 21: Half an hour after the previous update about the new theme, I got a new theme notification from my fuel efficiency tracking mobile app.
 
