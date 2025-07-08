@@ -29,6 +29,8 @@ I am also sharing with you one of my 1€ meal recipes - before I was evicted fr
 
 > Vincent van Gogh's style is characterized by bold, dramatic brush strokes, vibrant colors, and a sense of movement, often achieved through impasto techniques where paint is applied thickly. His work reflects emotional intensity and personal experiences, making him a key figure in the Post-Impressionist movement.
 
+ * Jul 8: This morning there was a very elaborate scheme involving X notifications, anatomical parts and the [Bun](https://x.com/bunjavascript) X account, after I checked out some of the [`bun`](https://github.com/oven-sh/bun) code from Github.
+
  * Jun 23: After replacing my leaking faucet in my camper van at Narbonne Accessoires, a French chain specialized in camper vans, they also sent me their catalogue at my Salvation Army PO box - an address they did not have - in order to show me that they were providing my personal data for this extortion.
 
  * Jun 22: Now I am getting notifications from Google about unauthorized access to my Google Photos which are obviously coming from Google themselves. Google, when I am finished with you, your new motto will be *"We did evil, but now we repent"*, you will be doing charity work on Sundays and you will have *"Size does not matter"* bumper stickers.
