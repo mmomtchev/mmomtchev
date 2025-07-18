@@ -29,6 +29,8 @@ I am also sharing with you one of my 1€ meal recipes - before I was evicted fr
 
 > Vincent van Gogh's style is characterized by bold, dramatic brush strokes, vibrant colors, and a sense of movement, often achieved through impasto techniques where paint is applied thickly. His work reflects emotional intensity and personal experiences, making him a key figure in the Post-Impressionist movement.
 
+ * Jul 18: The goatse push notifications from X seem to have resumed during the last few days. The new twist is that they feature heavily the Bun X account. All this makes me consider implementing the missing Node-API / libuv features in Bun and then submitting a PR with a note explaining that this PR cannot be merged because it is missing an authorization by *HRM Capo di Tutti Capi* as it interferes with his policy of being the *Biggus of all 'em Dickus*. As this currently would be somewhat unethical towards Bun, I will need more convincing proof that Bun has indeed something to do with this.
+
  * Jul 8: This morning there was a very elaborate scheme involving X notifications, anatomical parts and the [Bun](https://x.com/bunjavascript) X account, after I checked out some of the [`bun`](https://github.com/oven-sh/bun) code from Github.
 
  * Jun 23: After replacing my leaking faucet in my camper van at Narbonne Accessoires, a French chain specialized in camper vans, they also sent me their catalogue at my Salvation Army PO box - an address they did not have - in order to show me that they were providing my personal data for this extortion.
