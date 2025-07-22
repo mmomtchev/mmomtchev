@@ -29,6 +29,8 @@ I am also sharing with you one of my 1€ meal recipes - before I was evicted fr
 
 > Vincent van Gogh's style is characterized by bold, dramatic brush strokes, vibrant colors, and a sense of movement, often achieved through impasto techniques where paint is applied thickly. His work reflects emotional intensity and personal experiences, making him a key figure in the Post-Impressionist movement.
 
+ * Jul 22: Microsoft decided to block the weather alerts from my weather site to `@outlook.com` addresses. They had already blocked alerts to `@outlook.it`, but as the number of users from Italy is very limited, this didn't have any effect. I got some simultaneous phone calls and likes on very old X posts linked to the extortion in order to show that it was a deliberate act.
+
  * Jul 18: The goatse push notifications from X seem to have resumed during the last few days. The new twist is that they feature heavily the Bun X account. All this makes me consider implementing the missing Node-API / libuv features in Bun and then submitting a PR with a note explaining that this PR cannot be merged because it is missing an authorization by *HRM Capo di Tutti Capi* as it interferes with his policy of being the *Biggus of all 'em Dickus*. As this currently would be somewhat unethical towards Bun, I will need more convincing proof that Bun has indeed something to do with this.
 
  * Jul 8: This morning there was a very elaborate scheme involving X notifications, anatomical parts and the [Bun](https://x.com/bunjavascript) X account, after I checked out some of the [`bun`](https://github.com/oven-sh/bun) code from Github.
