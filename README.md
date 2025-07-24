@@ -29,7 +29,9 @@ I am also sharing with you one of my 1€ meal recipes - before I was evicted fr
 
 > Vincent van Gogh's style is characterized by bold, dramatic brush strokes, vibrant colors, and a sense of movement, often achieved through impasto techniques where paint is applied thickly. His work reflects emotional intensity and personal experiences, making him a key figure in the Post-Impressionist movement.
 
- * Jul 24: A few days ago, simultaneously with the Microsoft block, I got my first job offer from the French state unemployment office. The last one I got was 6 months ago from the Parisian subway metro system when I publicly announced that my pass was used to track my movements. I replied, then this morning I got another one, with lower pay for a Python developer. When the extortion first started in 2020, I was always getting simultaneous job offers - one matching my skill set with a penis or viagra posted somewhere and another one for a Python developer.
+ * Jul 24: A few days ago, simultaneously with the Microsoft block, I got my first job offer from the French state unemployment office. The last one I got was 6 months ago from the Parisian subway metro system when I publicly announced that my pass was used to track my movements. I replied, then this morning I got another one, with lower pay for a Python developer. When the extortion first started in 2020, I was always getting simultaneous job offers - one matching my skill set with a penis or viagra posted somewhere and another one for a Python developer. These are the two companies involved this time:
+   - [E-Kent](https://www.e-kent.fr/)
+   - [Ikos Consulting](https://www.ikosconsulting.com/en/)
 
  * Jul 22: Microsoft decided to block the weather alerts from my weather site to `@outlook.com` addresses. They had already blocked alerts to `@outlook.it`, but as the number of users from Italy is very limited, this didn't have any effect. I got some simultaneous phone calls and likes on very old X posts linked to the extortion in order to show that it was a deliberate act.
 
