@@ -195,6 +195,10 @@ After your network adapter is created, you should delete the *hardware port* - t
 sudo plutil -remove VirtualNetworkInterfaces.Bridge.bridge100 /Library/Preferences/SystemConfiguration/preferences.plist
 ```
 
-# Playing mobile games on your phone while preserving the secrecy of the AP
+## Using Tor directly
+
+As this setup is geared mainly towards hiding the entry AP - and not the destination of your traffic, it has one important drawbacks - all your outgoing traffic goes through the remote OpenVPN server. Should you need to bypass the OpenVPN server - for example to anonymously use a search engine - you can simply configure that web browser to access the Internet through the SOCKS5 proxy. This way this traffic will remain completely hidden. The remote search engine will see a connection coming from a Tor exit node.
+
+## Playing mobile games on your phone while preserving the secrecy of the AP
 
 At this point it will be possible to use the internal macOS Wi-Fi adapter in connection sharing mode to connect your mobile phone - provided that you remove the SIM card.
