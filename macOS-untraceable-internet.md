@@ -10,6 +10,8 @@ The goal of this setup is to preserve perfectly the secrecy of the entry Wi-Fi A
 
 The setup uses a Linux guest running Tor exposed to the host macOS via a SOCKS5 proxy through which OpenVPN connects. This allows for a perfectly normal - albeit somewhat slower - Internet experience where everything works. Remote servers see a connection coming from the public OpenVPN server. People tracing the OpenVPN server see only a connection coming from a Tor exit node. People managing the Wi-Fi AP see simply a plain Linux computer connecting to the Internet and using Tor - if you go for the fast mode - or simply browsing the Internet - if you go for the slower bridged mode.
 
+Its main advantage is that you do not need to pay attention - the setup makes it impossible for any traffic from the macOS host to leave the computer unless it is routed through Tor. Traffic from the Linux guest is routed normally through the Wi-Fi AP. Do not use the Linux guest for anything besides connecting to the Wi-Fi AP.
+
 ## Prerequisites
 
 - a macOS computer
