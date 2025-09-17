@@ -12,6 +12,8 @@ The setup uses a Linux guest running Tor exposed to the host macOS via a SOCKS5 
 
 Its main advantage is that you do not need to pay attention - the setup makes it impossible for any traffic from the macOS host to leave the computer unless it is routed through Tor. Traffic from the Linux guest is routed normally through the Wi-Fi AP. Do not use the Linux guest for anything besides connecting to the Wi-Fi AP.
 
+Another great thing about this setup is that you are not limited to the Tor-friendly websites. Most of you, who have never used Tor for your daily browsing, do not know that many official websites block Tor users - or impose additional security restrictions. This setup does not have this problem.
+
 ## Prerequisites
 
 - a macOS computer
