@@ -177,7 +177,7 @@ sudo networksetup -createnetworkservice Tor VMWareFusion100
 sudo networksetup -setmanual Tor 192.168.108.1 255.255.255.0 192.168.108.128
 ```
 
-Now if you go to `System Settings... / Network` you will notice a new network adapter called `Tor` along any eventual Wi-Fi and Ethernet adapters. This will be your untraceable connection. It will be immediately green and active. You can enable and disable it from the GUI. Do not worry, you won't leak anything at this point - the Linux router is not set up for masquerading.
+Now if you go to `System Settings...` / `Network` you will notice a new network adapter called `Tor` along any eventual Wi-Fi and Ethernet adapters. This will be your untraceable connection. It will be immediately green and active. You can enable and disable it from the GUI. Do not worry, you won't leak anything at this point - the Linux router is not set up for masquerading.
 
 If you want to access your OpenVPN server by DNS name, you will also have to install a recursive DNS server on the Linux guest and use:
 
@@ -195,10 +195,20 @@ After your network adapter is created, you should delete the *hardware port* - t
 sudo plutil -remove VirtualNetworkInterfaces.Bridge.bridge100 /Library/Preferences/SystemConfiguration/preferences.plist
 ```
 
-## Using Tor directly
+## Browsing
 
-As this setup is geared mainly towards hiding the entry AP - and not the destination of your traffic, it has one important drawbacks - all your outgoing traffic goes through the remote OpenVPN server. Should you need to bypass the OpenVPN server - for example to anonymously use a search engine - you can simply configure that web browser to access the Internet through the SOCKS5 proxy. This way this traffic will remain completely hidden. The remote search engine will see a connection coming from a Tor exit node.
+This setup is mainly geared towards hiding the entry AP - and not the destination of your traffic.
+
+It can however do both at the same time.
+
+You should set up two browsers - one that connects directly to the Internet - this one will always appear as a connection coming from the remote VPN server and it will be capable of accessing all websites. With this browser however, people tracing the VPN server will be able to know what sites you visited and search engines will be able to provide your search history - even if you don't use an account.
+
+Another browser should be set up to use the SOCKS5 proxy. Connections from this browser will appear as coming from a random Tor exit node and these will be untraceable. However it will be limited to the Tor-friendly websites.
 
 ## Playing mobile games on your phone while preserving the secrecy of the AP
 
 At this point it will be possible to use the internal macOS Wi-Fi adapter in connection sharing mode to connect your mobile phone - provided that you remove the SIM card.
+
+## Uninstalling
+
+The only thing that needs uninstalling if you want to remove the setup is to simply remove the *network service* - which can be cleanly removed from the `System Settings ...`/`Network` menu. If you also delete `/Library/Preferences/SystemConfiguration/preferences.plist.old` - the backup copy - no other traces will remain on your computer once you have removed the VMWare Fusion virtual machine.
