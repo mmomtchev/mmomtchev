@@ -64,3 +64,6 @@ After your network adapter is created, you should delete the *hardware port* - t
 sudo plutil -remove VirtualNetworkInterfaces.Bridge.bridge100 /Library/Preferences/SystemConfiguration/preferences.plist
 ```
 
+# Playing mobile games on your phone while preserving the secrecy of the AP
+
+At this point it will be possible to use the internal macOS Wi-Fi adapter in connection sharing mode to connect your mobile phone - provided that you remove the SIM card.
