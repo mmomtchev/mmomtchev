@@ -183,7 +183,9 @@ If you want to access your OpenVPN server by DNS name, you will also have to ins
 sudo networksetup -setdnsservers Tor 192.168.108.128
 ```
 
-You don't need this step if the IP address of your VPN server is static.
+You don't need this step if the IP address of your VPN server is static and you do not care if those tracing your OpenVPN server know what sites you connect to.
+
+If your OpenVPN server has a dynamic IP - or you want to hide this information - what other sites you visit, besides those that are already tracking you, you should use a 3rd party public DNS service.
 
 After your network adapter is created, you should delete the *hardware port* - this device is managed by VMWare Fusion and you do not want the macOS system to create it at the next reboot. You do not need it - the *network service* references `bridge100` directly.
 
