@@ -14,7 +14,7 @@ The setup uses a Linux guest running Tor exposed to the host macOS via a SOCKS5 
 
 - a macOS computer
 - an external USB Wi-Fi adapter - high powered antennas work best but are not mandatory
-- a publicly hosted server that will serve as the public origin of your connection if you need one (some services such as `ssh` require it)
+- a publicly hosted server that will serve as the public origin of your connection if you need one (some services such as `ssh` require it) - you can use your own or you can use any public OpenVPN-compatible service - you do not need to trust your VPN provider - they do not see the origin of your connection
 - VMWare Fusion with a Linux guest
 
 ## The Linux router
@@ -23,7 +23,126 @@ Install the Linux router guest using host-only networking and pass the external 
 
 ## Tor
 
+You can install `tor` directly from the Linux repositories - since you are not running a relay, you don't need the latest version.
+
+Edit `/etc/tor/torrc` and enable (these lines will be there but commented out):
+
+```ini
+SocksPort 9050
+SocksPort 192.168.108.128:9150
+SocksPolicy accept 192.168.0.0/16
+SocksPolicy reject *
+```
+
+The IP address should be the IP address of the Linux guest on the host-only virtual network.
+
+`tor` should start - you can dump the WLAN interface and check `/var/log/*` to make sure everything works.
+
+At this point you can try from the Linux guest:
+
+```shell
+curl --socks5 127.0.0.1:9050 https://duckduckgo.com
+```
+
+Once this works, go back to the macOS host and try the same:
+
+```shell
+curl --socks5 192.168.108.128:9150 https://duckduckgo.com
+```
+
+Note that you still haven't set up DNS, so `curl` will use the system DNS on the macOS but the connection will be routed through Tor.
+
 ## OpenVPN
+
+I am using certificates, but you can use shared secrets, it is less hassle unless you already have your own CA.
+
+Note that Tor cannot route `udp` packets, so you will have to use the less performant `tcp` mode.
+
+If you are using a public OpenVPN service, refer to its documentation on how to set up a connection.
+
+If you want to run your own OpenVPN service, install OpenVPN on the remote server from the Linux repositories.
+
+Create `/etc/openvpn/tor.conf`:
+
+```ini
+port 48723 # you can use any port you wish
+proto tcp
+dev tun
+
+ca      /etc/ssl/YourCA.crt
+cert    /etc/ssl/YourCert.crt
+key     /etc/ssl/private/YourKey.pem 
+# you can generate this file with openssl
+dh      /etc/ssl/dhparams.pem
+
+topology subnet
+
+# use any free network
+server 192.168.64.0 255.255.255.0
+ifconfig-pool-persist server/ipp.txt
+
+push "route 192.168.64.0 255.255.255.0"
+push "redirect-gateway def1 bypass-dhcp"
+# If you want to push the DNS servers of your remote provider
+# (or you can use your own)
+push "dhcp-option DNS x.x.x.x"
+push "dhcp-option DNS x.x.x.x"
+
+keepalive 10 120
+
+# you can generate this file with openssl
+tls-auth /etc/openvpn/server/ta.key 0
+auth-nocache
+
+cipher AES-256-CBC
+data-ciphers AES-256-CBC
+
+persist-key
+persist-tun
+
+status /var/log/openvpn/openvpn-status.log
+
+verb 3  # verbose mode
+
+client-to-client
+explicit-exit-notify 1
+```
+
+Then run `systemctl restart openvpn@tor`.
+
+Now, install Tunnelblick on the macOS host and set up a tunnel:
+
+```ini
+client
+dev tun
+proto tcp
+
+remote <your VPN server> 48723
+socks-proxy 192.168.108.128 9150
+resolv-retry infinite
+nobind
+
+persist-key
+persist-tun
+
+ca      YourCA.crt
+cert    YourCert.crt
+key     YourKey.pem
+
+remote-cert-tls server
+# you can generate this file with openssl
+tls-auth ta.key 1
+auth-nocache
+
+cipher AES-256-CBC
+data-ciphers AES-256-CBC
+
+mute-replay-warnings
+
+verb 3
+```
+
+At this point you should be able to connect with Tunnelblick via Tor. You should even be able to access the Internet if you manually set up the routing, but the problem is that the macOS GUI will be confused and it will think that the computer is offline.
 
 ## Creating a new macOS *Network Service*
 
@@ -49,14 +168,20 @@ sudo networksetup -listallhardwareports
 
 Then, create a new macOS *network service* tied to this *hardware port* with the existing IP addresses. The first IP address is the IP address of the macOS host on this virtual network and the second one is the IP address of the Linux guest which will be the router.
 
-Do not worry, you won't leak anything at this point - the Linux router is not set up for masquerading.
-
 ```shell
 sudo networksetup -createnetworkservice Tor VMWareFusion100
 sudo networksetup -setmanual Tor 192.168.108.1 255.255.255.0 192.168.108.128
 ```
 
-Now if you go to `System Settings... / Network` you will notice a new network adapter called `Tor` along any eventual Wi-Fi and Ethernet adapters. This will be your untraceable connection.
+Now if you go to `System Settings... / Network` you will notice a new network adapter called `Tor` along any eventual Wi-Fi and Ethernet adapters. This will be your untraceable connection. It will be immediately green and active. You can enable and disable it from the GUI. Do not worry, you won't leak anything at this point - the Linux router is not set up for masquerading.
+
+If you want to access your OpenVPN server by DNS name, you will also have to install a recursive DNS server on the Linux guest and use:
+
+```shell
+sudo networksetup -setdnsservers Tor 192.168.108.128
+```
+
+You don't need this step if the IP address of your VPN server is static.
 
 After your network adapter is created, you should delete the *hardware port* - this device is managed by VMWare Fusion and you do not want the macOS system to create it at the next reboot. You do not need it - the *network service* references `bridge100` directly.
 
