@@ -35,6 +35,7 @@ Edit `/etc/tor/torrc` and enable (these lines will be there but commented out):
 SocksPort 9050
 SocksPort 192.168.108.128:9150
 SocksPolicy accept 192.168.0.0/16
+SocksPolicy accept 127.0.0.0/8
 SocksPolicy reject *
 ```
 
@@ -86,7 +87,7 @@ server 192.168.64.0 255.255.255.0
 ifconfig-pool-persist server/ipp.txt
 
 push "route 192.168.64.0 255.255.255.0"
-push "redirect-gateway def1 bypass-dhcp"
+push "redirect-gateway def1 local"
 # If you want to push the DNS servers of your remote provider
 # (or you can use your own)
 push "dhcp-option DNS x.x.x.x"
