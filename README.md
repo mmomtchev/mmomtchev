@@ -29,6 +29,14 @@ I am also sharing with you one of my 1€ meal recipes - before I was evicted fr
 
 > Vincent van Gogh's style is characterized by bold, dramatic brush strokes, vibrant colors, and a sense of movement, often achieved through impasto techniques where paint is applied thickly. His work reflects emotional intensity and personal experiences, making him a key figure in the Post-Impressionist movement.
 
+ * Sep 24: I have received my new 5db amplified Wi-Fi antennas and now I can have Internet access virtually everywhere (remember to check my guide). I was almost sure that Amazon had prepared some dirty trick and I did record a video of the opening of the locker, but this time everything was there.
+
+ * Sep 15: In a new attempt to push me up against the wall, the police have seized my old E46 Bimmer from a public parking under the pretext that it was not insured. Although it was a BMW classic, it was far too old to justify doing anything - especially considering the scale of the affair. They knew its location thanks to cooperation from Waze, Google and my telecom operator - Free.
+
+ * Sep 15: I have switched to full stealth mode now and I avoid using my mobile phone at all. I am currently mostly wardriving for public Wi-Fi APs as well as writing a [guide](https://github.com/mmomtchev/Urban-Tech-Guerilla.git).
+
+ * Sep 14: I am back to the Paris suburbs after spending the last few months mingling with the paragliding pilots in the Alps. The trip was largely uneventful not counting a number of times that I was asked the same question about my weather side that people usually ask me simultaneously (this a behavior that I still haven't been able to decode, but I am sure that there must be some kind of Biggus Logicus behind it). Officially, most people do not know me.
+
  * Aug 1: Today I used my highway badge from [BipAndGo](https://www.bipandgo.com/en/) for the first time in the last 2 years to pay for a mountain tunnel and a few hours later I got a handcrafted phishing spam telling me that my payment was refused.
 
  * Jul 28: For the last few days the goatse push notifications from X have been replaced by very large numbers of seemingly random push notifications, many of them mentioning the Bun project - without any of them satisfying my requirement of implicating them directly - and what appears to be an account posting mostly about the war in Ukraine called [MAKS 25](https://x.com/Maks_NAFO_FELLA). 5 years ago, at the start of the 3rd season of this affair, I doubled my claim from 200K€ to 400K€ after my lawyer secretly cancelled the ongoing suit against my former employer. At this point the security personnel of my former apartment left a cardboard with 50,000 written on it, so I guess that this must be an attempt of trying to halve that offer.
