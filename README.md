@@ -30,6 +30,7 @@ I am also sharing with you one of my 1€ meal recipes - before I was evicted fr
 > Vincent van Gogh's style is characterized by bold, dramatic brush strokes, vibrant colors, and a sense of movement, often achieved through impasto techniques where paint is applied thickly. His work reflects emotional intensity and personal experiences, making him a key figure in the Post-Impressionist movement.
 
  * Sep 24: Shortly after posting about the police seizing my car, I was contacted by a rather amusing company called [Dexcelerate](https://www.dexcelerate.com) who offered me a job because "they had seen my work at Github and were interested by my experience". I asked them if they were interested in my experience with extortion by the police or they already had such experience, after which they told me that they owned all the banks and the media so I could not do anything but accept their offer. At this point I kindly reminded them that all their bases were belong to me.
+ (*It seems that the powers to be have decided that three most important things in this world are - in this order - bread, circuses and Biggus Dickus' manhood*)
 
  * Sep 24: I have received my new 5db amplified Wi-Fi antennas and now I can have Internet access virtually everywhere (remember to check my guide). I was almost sure that Amazon had prepared some dirty trick and I did record a video of the opening of the locker, but this time everything was there.
 
