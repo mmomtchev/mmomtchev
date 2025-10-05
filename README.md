@@ -20,16 +20,13 @@ For newcomers to wonderland, the section below details my adventures as a homele
 
 I am also sharing with you one of my 1€ meal recipes - before I was evicted from my home in October 2024, I spent 4 years living on social welfare. I was evicted in order to force me to accept a job at [Discngine](https://www.discngine.com/) without speaking about the affair - as they were willing to continue playing this game given that I am blocked from suing anyone. [Welcome To the Jungle](https://welcometothejungle.com/) is the recruitment company where these deals are considered business as usual.
 
-<iframe id="ytplayer" type="text/html" width="640" height="360"
-  src="https://www.youtube.com/embed/XF-RHOqGz-Y"
-  frameborder="0">
-</iframe>
-
 # Latest Updates (the *Vincent van Gogh extortion*)
 
 > Vincent van Gogh's style is characterized by bold, dramatic brush strokes, vibrant colors, and a sense of movement, often achieved through impasto techniques where paint is applied thickly. His work reflects emotional intensity and personal experiences, making him a key figure in the Post-Impressionist movement.
 
  * Oct 4: The goatse stream is back - this time as reddit posts and Spotify recommendations. reddit seems to be focused on human anatomy, while the Spotify recommendations feature podcasts about smoking crack cocaine and the September 11 terrorist attacks. This is not a new theme, it usually pops out every time the police is involved. 2 years ago when an armed squad with draw guns came to my home they tried to use the *conspiracy* code word. When I could not stop laughing, they decided to simply leave without arresting and without searching my home. Then I got a number of simultaneous notifications in all the open-source projects that I was working on on Github. When I refused to shut up, the Node.js team blocked me from posting in their projects.
+
+ *(I should probably include the [absolutely remarkable exchange]() with this company called Dexcelerate, which will be one of the most memorable moments of the whole affair)*
 
  * Sep 24: Shortly after posting about the police seizing my car, I was contacted by a rather amusing company called [Dexcelerate](https://www.dexcelerate.com) who offered me a job because "they had seen my work at Github and were interested by my experience". I asked them if they were interested in my experience with extortion by the police or they already had such experience, after which they told me that they owned all the banks and the media so I could not do anything but accept their offer. At this point I kindly reminded them that all their bases were belong to me.
  (*It seems that the powers to be have decided that three most important things in this world are - in this order - bread, circuses and Biggus Dickus' manhood*)
