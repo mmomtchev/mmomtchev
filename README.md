@@ -24,6 +24,8 @@ I am also sharing with you one of my 1€ meal recipes - before I was evicted fr
 
 > Vincent van Gogh's style is characterized by bold, dramatic brush strokes, vibrant colors, and a sense of movement, often achieved through impasto techniques where paint is applied thickly. His work reflects emotional intensity and personal experiences, making him a key figure in the Post-Impressionist movement.
 
+ * Oct 14: At least some good news - I finally contacted the management of the company that was operating a completely unsecured Wi-Fi AP giving access to their internal network, they had correctly setup a whistle-blowing contact page, so they deserve some credit.
+
  * Oct 13: I just got a notification from Samsung inviting me to enable the *Find my phone* feature. I have a 10 year old Samsung that hasn't received any updates for the last 5 years.
 
  * Oct 8: Today I moved a little bit closer to a good Wi-Fi to update my Android apps and download some software - I got a relatively fast (about 1 hour) acknowledgment as a push notification from the N26 bank. My OpenVPN server at Scaleway is very closely monitored so it is possible to know what regular IP apps I am currently using - without identifying my physical location. This is why I stopped pinging `8.8.8.8` to determine my Wi-Fi quality - to stop Google from cross-checking the pings from inside the tunnel with the pings from the Wi-Fi.
