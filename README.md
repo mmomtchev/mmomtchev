@@ -24,6 +24,8 @@ I am also sharing with you one of my 1€ meal recipes - before I was evicted fr
 
 > Vincent van Gogh's style is characterized by bold, dramatic brush strokes, vibrant colors, and a sense of movement, often achieved through impasto techniques where paint is applied thickly. His work reflects emotional intensity and personal experiences, making him a key figure in the Post-Impressionist movement.
 
+ * Oct 16: I was present at another protest related to the housing crisis in front of an administrative building where I have been on numerous occasions. These are the last occasions where my physical location is known. When coming back, using the elevated railway, where I have to use my subway pass which is the last item that allows to follow me, I went to the same location I usually go while waiting for the train. I had found a small clearance where I was able to go outside after having passed my badge to vape. A few moments later there came a guy with a badge who passed at least one other person who was vaping inside to fine me 35€ for vaping on the grounds of the station, even if I was physically outside.
+
  * Oct 14: At least some good news - I finally contacted the management of the company that was operating a completely unsecured Wi-Fi AP giving access to their internal network, they had correctly setup a whistle-blowing contact page, so they deserve some credit.
 
  * Oct 13: I just got a notification from Samsung inviting me to enable the *Find my phone* feature. I have a 10 year old Samsung that hasn't received any updates for the last 5 years.
