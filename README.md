@@ -2,19 +2,19 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
 [![Stand With Palestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner)
 
-# You saw me at JSNation 2025?
+# You saw me at JSNation 2026?
 
-You are not a psychotic and you correctly identified my T-shirt as featuring two flowers, Picasso à la ChatGPT style?
+**Short wrappers are more agile!**
 
 Here are my slides:
 
-## [Markdown version](https://github.com/mmomtchev/guerilla-slides/blob/main/guerilla-slides-jsnation-2025.md)
+## [Markdown version](https://github.com/mmomtchev/guerilla-slides/blob/main/guerilla-slides-jsnation-2026.md)
 
 ## GIF version
 
-  ![GIF](https://mmomtchev.github.io/guerilla-slides/guerilla-slides-2025-jsnation.gif)
+  ![GIF](https://mmomtchev.github.io/guerilla-slides/guerilla-slides-2026-jsnation.gif)
 
-## [HTML version](https://mmomtchev.github.io/guerilla-slides/guerilla-slides-2025-jsnation/)
+## [HTML version](https://mmomtchev.github.io/guerilla-slides/guerilla-slides-2026-jsnation/)
 
 For newcomers to wonderland, the section below details my adventures as a homeless person in France at the center of an extortion involving the French judiciary, police and the largest IT companies in the world.
 
@@ -23,6 +23,8 @@ I am also sharing with you one of my 1€ meal recipes - before I was evicted fr
 # Latest Updates (the *Vincent van Gogh extortion*)
 
 > Vincent van Gogh's style is characterized by bold, dramatic brush strokes, vibrant colors, and a sense of movement, often achieved through impasto techniques where paint is applied thickly. His work reflects emotional intensity and personal experiences, making him a key figure in the Post-Impressionist movement.
+
+ * Jun 5: After going door-to-door to different government agencies, I finally found that the bank had taken my money because of a 5km/h speeding ticket from last summer. They did not sent me the fine and instead I was condemned to pay a very hefty sum. They still did not have the right to take away my money, but they did so. When I sent my complaint, I got a simultaneous answer from the public agent in charge of my fine and the government unemployment office with the same offer as one month earlier. This time I did answer that this was an extortion and I am going to file a criminal complaint.
 
  * May 15: After Meteo France switched to a new hosting provider, my paragliding weather had an update problem. When someone of the paragliding community contacted me about it, I got two new accounts simultaneously created on a long dead site with classifieds. Since I announced this to everyone, I started getting new accounts every few hours - using email addresses by a Spanish cybersquatter ([example](https://whois.eurid.eu/en/search/?domain=lentivo) and [example](https://whois.eurid.eu/en/search/?domain=nexanta)). I think that someone is probably trying to break into cybersquatting, phishing and spam. However this is certainly not the Klondike he might have expected and he will probably be surprised that, even in this field, the software must actually work for any money to be made.
 
