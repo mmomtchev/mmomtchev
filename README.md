@@ -2,6 +2,10 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
 [![Stand With Palestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner)
 
+# Vous m'avez vu au Festival Technopolice 2026?
+
+**Pour que la surveillance d'état ne puisse pas servir à des fins criminelles!**
+
 # You saw me at JSNation 2026?
 
 **Short wrappers are more agile!**
@@ -23,6 +27,10 @@ I am also sharing with you one of my 1€ meal recipes - before I was evicted fr
 # Latest Updates (the *Vincent van Gogh extortion*)
 
 > Vincent van Gogh's style is characterized by bold, dramatic brush strokes, vibrant colors, and a sense of movement, often achieved through impasto techniques where paint is applied thickly. His work reflects emotional intensity and personal experiences, making him a key figure in the Post-Impressionist movement.
+
+ * Oct 3-4: I will be present at the Festival Technopolice 2026 in Montreuil as a counter-protester wearing a cardboard sign explaining that the NGOs organizing this event are also taking part in an extortion that is directly opposed to what they claim to be their political stance.
+
+ * Jul 14: My banks still refuses to hand me the notice - or notices since in some of their answers they claim that there was more than one - that were the basis of the confiscation, so I also filed a complaint with the regulatory body.
 
  * Jun 5: After going door-to-door to different government agencies, I finally found that the bank had taken my money because of a 5km/h speeding ticket from last summer. They did not sent me the fine and instead I was condemned to pay a very hefty sum. They still did not have the right to take away my money, but they did so. When I sent my complaint, I got a simultaneous answer from the public agent in charge of my fine and the government unemployment office with the same offer as one month earlier. This time I did answer that this was an extortion and I am going to file a criminal complaint.
 
