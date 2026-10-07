@@ -28,7 +28,11 @@ I am also sharing with you one of my 1€ meal recipes - before I was evicted fr
 
 > Vincent van Gogh's style is characterized by bold, dramatic brush strokes, vibrant colors, and a sense of movement, often achieved through impasto techniques where paint is applied thickly. His work reflects emotional intensity and personal experiences, making him a key figure in the Post-Impressionist movement.
 
+ * Oct 7: I received an email from Google about a successful login in an email account I used once on a dating site 15 years ago - I have never used it since
+
  * Oct 3-4: I will be present at the Festival Technopolice 2026 in Montreuil as a counter-protester wearing a cardboard sign explaining that the NGOs organizing this event are also taking part in an extortion that is directly opposed to what they claim to be their political stance.
+
+ * Sep 30: The goatse feed is now on Reddit in the "Suggested for you" personal section - still a far cry from the goatse mobile notifications from X last year, but gaining traction
 
  * Jul 14: My banks still refuses to hand me the notice - or notices since in some of their answers they claim that there was more than one - that were the basis of the confiscation, so I also filed a complaint with the regulatory body.
 
