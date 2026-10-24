@@ -30,7 +30,9 @@ I am also sharing with you one of my 1€ meal recipes - before I was evicted fr
 
  * Oct 24: I have been playing Royal Match for some time on my Android phone. I am always using secure access through Tor - to conceal my physical location, but my phone is identified by my Google account. I often get some simultaneous friend requests, but today I got one from the team that I joined a few days ago - something that cannot be done without the game company.
 
- * Oct 7: I received an email from Google about a successful login in an email account I used once on a dating site 15 years ago - I have never used it since
+ * Oct 14: I used to receive tons of "spam", usually the same message 5 times in a row, for ridiculous offers such as free small items (for those lacking experience with people who cannot say something - it is a way to tell me that I am not getting anything out of this affair) - I decided to finally block `googleusercontent.com` SMTP servers where these were coming from and a few hours later Microsoft decided to block my paragliding weather site from sending weather alerts to `hotmail.com` accounts. I got two simultaneous new accounts created with `hotmail.com` addresses from the same mobile phone to show me that Microsoft was not blocking these emails.
+
+ * Oct 7: I received an email from Google about a successful login in an email account I used once on a dating site 15 years ago - I have never used it since.
 
  * Oct 3-4: I will be present at the Festival Technopolice 2026 in Montreuil as a counter-protester wearing a cardboard sign explaining that the NGOs organizing this event are also taking part in an extortion that is directly opposed to what they claim to be their political stance.
 
