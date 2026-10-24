@@ -28,6 +28,8 @@ I am also sharing with you one of my 1€ meal recipes - before I was evicted fr
 
 > Vincent van Gogh's style is characterized by bold, dramatic brush strokes, vibrant colors, and a sense of movement, often achieved through impasto techniques where paint is applied thickly. His work reflects emotional intensity and personal experiences, making him a key figure in the Post-Impressionist movement.
 
+ * Oct 24: I have been playing Royal Match for some time on my Android phone. I am always using secure access through Tor - to conceal my physical location, but my phone is identified by my Google account. I often get some simultaneous friend requests, but today I got one from the team that I joined a few days ago - something that cannot be done without the game company.
+
  * Oct 7: I received an email from Google about a successful login in an email account I used once on a dating site 15 years ago - I have never used it since
 
  * Oct 3-4: I will be present at the Festival Technopolice 2026 in Montreuil as a counter-protester wearing a cardboard sign explaining that the NGOs organizing this event are also taking part in an extortion that is directly opposed to what they claim to be their political stance.
